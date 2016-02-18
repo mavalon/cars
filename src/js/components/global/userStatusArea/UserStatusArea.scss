@@ -1,0 +1,52 @@
+.user-status-area {
+  display:flex;
+  color:white;
+  align-content:center;
+  align-items: center;
+}
+
+
+.user-status-area-id {
+  display:none;
+  flex-direction:column;
+  align-content:center;
+  align-items: center;
+  justify-content: space-around;
+  &-name {
+    font-size:18px;
+  }
+
+  &-role {
+    font-size:14px;
+
+
+  }
+}
+.user-status-area-icon {
+  display:none;
+}
+
+
+.user-status-area-divider {
+  background-color:white;
+  width:1px;
+  flex-grow:1;
+  margin-top:5px;
+  margin-bottom:5px;
+  margin-left:15px!important;
+  align-self: stretch;
+}
+
+.user-status-area-column {
+  margin-left:5px;
+  margin-right:5px;
+}
+
+@media (min-width:30em) {
+  .user-status-area-id {
+    display:flex;
+  }
+  .user-status-area-icon {
+    display:block;
+  }
+}

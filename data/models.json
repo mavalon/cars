@@ -1,0 +1,180 @@
+{
+    "years": [
+        {
+            "year": 2016,
+            "models": [
+                {
+                    "id": 1,
+                    "name": "Tuscon",
+                    "mongoId": "",
+                    "year": 2016,
+                    "msrp": 18000,
+                    "type": "Crossovers/SUV",
+                    "specs": [
+                        {
+                            "spec1": "value1",
+                            "spec2": "value2"
+                        }
+                    ],
+                    "trims": [
+                        {
+                            "id": 1,
+                            "name": "SE",
+                            "msrp": 20000,
+                            "mongoId": "",
+                            "specs": [
+                                {
+                                    "spec1": "value1",
+                                    "spec3": "value2"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "name": "Eco",
+                            "mongoId": "",
+                            "msrp": 18000,
+                            "specs": [
+                                {
+                                    "spec1": "value1",
+                                    "spec3": "value2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "name": "Genesis",
+                    "mongoId": "",
+                    "year": 2016,
+                    "msrp": 29000,
+                    "type": "Crossovers/SUV",
+                    "specs": [
+                        {
+                            "spec1": "value1",
+                            "spec2": "value2"
+                        }
+                    ]
+                },
+                {
+                    "id": 234,
+                    "name": "Santa Fe",
+                    "mongoId": "",
+                    "year": 2016,
+                    "msrp": 29000,
+                    "type": "Crossovers/SUV",
+                    "specs": [
+                        {
+                            "spec1": "value1",
+                            "spec2": "value2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2017,
+            "models": [
+                {
+                    "id": 98,
+                    "name": "Elantra",
+                    "mongoId": "",
+                    "year": 2017,
+                    "msrp": 18000,
+                    "type": "Crossovers/SUV",
+                    "specs": [
+                        {
+                            "spec1": "value1",
+                            "spec2": "value2"
+                        }
+                    ],
+                    "trims": [
+                        {
+                            "id": 3,
+                            "name": "ELS",
+                            "msrp": 20000,
+                            "mongoId": "",
+                            "specs": [
+                                {
+                                    "spec1": "value1",
+                                    "spec3": "value2"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "name": "Eco",
+                            "mongoId": "",
+                            "msrp": 18000,
+                            "specs": [
+                                {
+                                    "spec1": "value1",
+                                    "spec3": "value2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 456,
+                    "name": "Tuscon",
+                    "mongoId": "",
+                    "year": 2017,
+                    "msrp": 18000,
+                    "type": "Crossovers/SUV",
+                    "specs": [
+                        {
+                            "spec1": "value1",
+                            "spec2": "value2"
+                        }
+                    ],
+                    "trims": [
+                        {
+                            "id": 5,
+                            "name": "SE",
+                            "msrp": 20000,
+                            "mongoId": "",
+                            "specs": [
+                                {
+                                    "spec1": "value1",
+                                    "spec3": "value2"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "name": "Eco",
+                            "mongoId": "",
+                            "msrp": 18000,
+                            "specs": [
+                                {
+                                    "spec1": "value1",
+                                    "spec3": "value2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 567,
+                    "name": "Santa Fe",
+                    "mongoId": "",
+                    "year": 2017,
+                    "msrp": 29000,
+                    "type": "Crossovers/SUV",
+                    "specs": [
+                        {
+                            "spec1": "value1",
+                            "spec2": "value2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2018,
+            "models": []
+        }
+    ]
+}

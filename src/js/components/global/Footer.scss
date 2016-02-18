@@ -1,0 +1,19 @@
+@import '../../styles/Variables';
+
+.footer {
+  height:18px;
+  line-height:18px;
+
+}
+
+.footer-legal {
+  font-size: 11px;
+  color: $PMS_430_C;
+  width:100%;
+  span {
+    width:100%;
+    display: inline-block;
+    text-align: center;
+  }
+
+}

@@ -1,0 +1,21 @@
+
+
+.text-link {
+  font-size:12px;
+  color: $PMS_430_C;
+}
+
+.menu-title {
+  padding-left:15px;
+}
+
+
+
+.generic-message-area {
+  font-size:14px;
+  height:15px;
+
+  &--Error {
+    color: #f44336!important;
+  }
+}

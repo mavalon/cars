@@ -1,0 +1,53 @@
+@import './styles/Variables';
+@import './styles/Fonts';
+@import './styles/MiscComponents';
+
+
+body {
+  font-family: 'DIN Pro', sans-serif;
+  margin:0;
+  padding:0;
+
+}
+
+
+a, a:visited, a:active, a:hover {
+  text-decoration: none;
+  color:inherit;
+}
+
+.display-flex {
+  display:flex;
+}
+
+.container-main {
+  flex-direction: column;
+  height:100vh;
+}
+
+.content-container {
+  flex-grow:1;
+}
+
+.container-fluid {
+  padding:0;
+  margin:0;
+}
+
+.row {
+  margin:0;
+}
+
+.override-margin {
+  margin-left:0!important;
+  margin-right:0!important;
+}
+.override-padding {
+  padding-left:0!important;
+  padding-right:0!important;
+}
+
+.col-xs-12 {
+  padding-left:0!important;
+  padding-right:0!important;
+}
