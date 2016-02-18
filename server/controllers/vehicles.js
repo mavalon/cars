@@ -64,7 +64,12 @@ module.exports = {
     },
 
     getModelTrims(req, res) {
-        let params = req.params;
+        const params = req.params;
+        const sorting = ['name', 'asc'];
+        mongo.filterAndSort('trims', {modelId: params.model}, sorting, (err, models) => {
+            response.success(res, models, 200);
+        });
+        /*
         const file = path.normalize(`${cwd}/data/models.json`);
         let trims = [];
 
@@ -95,6 +100,7 @@ module.exports = {
 
             response.success(res, trims, 200);
         });
+         */
     }
 
 };

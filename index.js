@@ -16,7 +16,7 @@ let server = http.listen(env.PORT, () => {
     let h = server.address().address;
     let p = server.address().port;
 
-    console.info('MUI Boilerplate - listening at http://%s:%s', h, p);
+    console.info('Hyundai - listening at http://%s:%s', h, p);
 });
 
 

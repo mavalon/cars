@@ -28,26 +28,21 @@ export function getModels(year) {
         };
 
         return http(`/api/models/${year}`, params).then((data) => {
+            // dispatch(selectTrim(0));
+            //dispatch(selectModel(0));
             dispatch(initModels(data));
-            if (data.length > 0) {
-                dispatch(selectModel(data[0].id));
-                //console.log('log stuff');
-                //console.log(data[0].id);
-            }
         });
     };
 }
-export function getTrims(year, modelId) {
+export function getTrims(modelId) {
     return (dispatch) => {
         let params = {
             method: 'GET'
         };
 
-        return http(`/api/trims/${year}/${modelId}`, params).then((data) => {
+        return http(`/api/trims/${modelId}`, params).then((data) => {
+            //dispatch(selectTrim(0));
             dispatch(initTrims(data));
-            if (data.length > 0) {
-                dispatch(selectTrim(data[0].id));
-            }
         });
     };
 }

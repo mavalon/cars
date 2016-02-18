@@ -11,7 +11,7 @@ module.exports = app => {
 
     app.get('/api/models/:year/?', vehicles.getYearModels);
 
-    app.get('/api/trims/:year/:model/?', vehicles.getModelTrims);
+    app.get('/api/trims/:model/?', vehicles.getModelTrims);
 
     app.get('*', index);
 };
