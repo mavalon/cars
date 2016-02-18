@@ -1,12 +1,14 @@
 'use strict';
 
 let MongoClient = require('mongodb').MongoClient;
-let url = 'mongodb://localhost:27017/hyundai';
+let env = require('../config/env');
+let mongoose = require('mongoose');
+//let url = 'mongodb://localhost:27017/hyundai';
 
 module.exports = {
 
     connect(cb) {
-        MongoClient.connect(url, (err, db) => {
+        MongoClient.connect(env.MONGO_PATH, (err, db) => {
             cb(db);
         });
     },

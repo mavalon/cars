@@ -87,7 +87,7 @@ class Specifications extends BaseComponent {
     handleModelChange = (event, index, value) => {
         this.setState({selectedModel: value});
         //this.props.getYears();
-        this.props.getTrims(value);
+        this.props.getTrims(this.state.selectedYear, value);
     };
 
     handleTrimChange = (event, index, value) => {
@@ -97,6 +97,7 @@ class Specifications extends BaseComponent {
     };
 
     render() {
+
         const paperStyle = {
             flexDirection: 'column',
             display: 'flex',

@@ -9,6 +9,7 @@ import FormContainer from '../global/FormContainer.jsx';
 import DropDownMenu from 'material-ui/lib/DropDownMenu';
 import MenuItem from 'material-ui/lib/menus/menu-item';
 import Paper from 'material-ui/lib/paper';
+import VehicleActions from '../elements/VehicleActions.jsx';
 
 import {H1} from '../../theme/GenericTheme';
 
@@ -44,8 +45,6 @@ class Vehicles extends BaseComponent {
         //this.props.getTrims();
     }
 
-    /*
-     */
     componentWillReceiveProps(nextProps) {
         /*
         if (this.props.selectedYear !== nextProps.selectedYear) {
@@ -125,25 +124,30 @@ class Vehicles extends BaseComponent {
         const trimsWithLabel = [<MenuItem key={0} value={0} primaryText="Trim"/>, ...trims];
 
         return (
-            <div className="row middle-xs center-xs">
-                <div className="col-xs-12 col-sm-4">
-                    <Paper
-                        style={paperStyle}
-                        zDepth={1}
-                    >
-                        <h1 style={H1}>Vehicles</h1>
-                        <FormContainer ref="formContainer" style={padBottom}>
-                            <DropDownMenu value={this.state.selectedYear} onChange={this.handleYearChange}>
-                                {yearsWithLabel}
-                            </DropDownMenu>
-                            <DropDownMenu disabled={this.props.models.length < 2} value={this.state.selectedModel} onChange={this.handleModelChange}>
-                                {modelsWithLabel}
-                            </DropDownMenu>
-                            <DropDownMenu disabled={this.props.trims.length < 2} value={this.state.selectedTrim} onChange={this.handleTrimChange}>
-                                {trimsWithLabel}
-                            </DropDownMenu>
-                        </FormContainer>
-                    </Paper>
+            <div>
+                <div className="row middle-xs center-xs">
+                    <div className="col-xs-12 col-sm-4">
+                        <Paper
+                            style={paperStyle}
+                            zDepth={1}
+                        >
+                            <h1 style={H1}>Vehicles</h1>
+                            <FormContainer ref="formContainer" style={padBottom}>
+                                <DropDownMenu value={this.state.selectedYear} onChange={this.handleYearChange}>
+                                    {yearsWithLabel}
+                                </DropDownMenu>
+                                <DropDownMenu disabled={this.props.models.length < 2} value={this.state.selectedModel} onChange={this.handleModelChange}>
+                                    {modelsWithLabel}
+                                </DropDownMenu>
+                                <DropDownMenu disabled={this.props.trims.length < 2} value={this.state.selectedTrim} onChange={this.handleTrimChange}>
+                                    {trimsWithLabel}
+                                </DropDownMenu>
+                            </FormContainer>
+                            <div className="row middle-xs center-xs">
+                                <VehicleActions></VehicleActions>
+                            </div>
+                        </Paper>
+                    </div>
                 </div>
             </div>
         );

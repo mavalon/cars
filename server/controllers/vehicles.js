@@ -5,6 +5,7 @@ let jsonfile = require('jsonfile');
 let _ = require('lodash');
 let path = require('path');
 let mongo = require('../utilities/mongo');
+let models = require('../models/models');
 
 let cwd = process.cwd();
 
