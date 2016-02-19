@@ -13,6 +13,7 @@ import Register from './components/pages/Register.jsx';
 import Dashboard from './components/pages/Dashboard.jsx';
 import Vehicles from './components/pages/Vehicles.jsx';
 import Specifications from './components/pages/Specifications.jsx';
+import Model from './components/pages/Model.jsx';
 
 //Needed for Material UI
 injectTapEventPlugin();
@@ -30,8 +31,10 @@ render((
                 <Route path="register" component={Register}/>
                 <Route path="vehicles" component={Vehicles}/>
                 <Route path="specifications" component={Specifications}/>
-                <Route path="/model/edit/:id" component={Specifications}/>
-                <Route path="/model/add/:year" component={Specifications}/>
+                <Route path="/model/edit/:id" component={Model}/>
+                <Route path="/model/add/:year" component={Model}/>
+                <Route path="/trim/edit/:id" component={Model}/>
+                <Route path="/trim/add/:id" component={Model}/>
             </Route>
         </Router>
     </Provider>

@@ -97,7 +97,6 @@ class Specifications extends BaseComponent {
     };
 
     render() {
-
         const paperStyle = {
             flexDirection: 'column',
             display: 'flex',

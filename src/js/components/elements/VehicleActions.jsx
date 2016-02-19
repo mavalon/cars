@@ -34,9 +34,11 @@ class VehicleActions extends Component {
         };
     }
     handleTrimClick = (event, reactid, value) => {
-        const type = (this.props.selectedTrim !== 0) ? 'Edit' : 'Add';
-        console.log(`${type} Trim ${this.props.selectedTrim}`);
-        router.transitionTo('/specifications');
+        if (this.props.selectedTrim !== 0) {
+            window.location = `/trim/edit/${this.props.selectedTrim}`;
+        } else {
+            window.location = `/trim/add/${this.props.selectedModel}`;
+        }
     };
     handleModelClick = (event, reactid, value) => {
         if (this.props.selectedModel !== 0) {
@@ -44,9 +46,11 @@ class VehicleActions extends Component {
         } else {
             window.location = `/model/add/${this.props.selectedYear}`;
         }
+        /*
         const type = (this.props.selectedModel !== 0) ? 'Edit' : 'Add';
         console.log(`${type} Model ${this.props.selectedModel}`);
         window.location = '/specification';
+        */
     };
     render() {
         let modelLabel = (this.props.selectedModel !== 0) ? 'Edit Model' : 'Add Model';
@@ -78,7 +82,8 @@ class VehicleActions extends Component {
 const mapStateToProps = state => ({
     actionText: state.vehicles.actionText,
     selectedModel: state.vehicles.selectedModel,
-    selectedTrim: state.vehicles.selectedTrim
+    selectedTrim: state.vehicles.selectedTrim,
+    selectedYear: state.vehicles.selectedYear
 });
 
 const mapDispatchToProps = dispatch => bindActionCreators({
