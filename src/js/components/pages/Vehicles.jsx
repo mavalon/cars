@@ -32,7 +32,7 @@ class Vehicles extends BaseComponent {
         let d = new Date();
         let thisYear = d.getFullYear();
 
-        console.log(this.state);
+        //console.log(this.state);
         this.state = {
             selectedYear: 0,
             selectedModel: 0,

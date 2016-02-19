@@ -46,5 +46,13 @@ module.exports = {
         Vehicles.find((err, result) => {
             res.send(result);
         });
+    },
+
+    getModel(req, res) {
+        const params = req.params;
+        const filters = {_id: params.id};
+        Vehicles.find(filters).exec((err, result) => {
+            res.send(result);
+        });
     }
 };

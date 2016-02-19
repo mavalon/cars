@@ -16,5 +16,7 @@ module.exports = app => {
 
     app.get('/api/models/?', vehicles.getAllModels);
 
+    app.get('/api/model/:id/?', vehicles.getModel);
+
     app.get('*', index);
 };

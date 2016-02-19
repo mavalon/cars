@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {PropTypes} from 'react';
 import Tabs from 'material-ui/lib/tabs/tabs';
 import Tab from 'material-ui/lib/tabs/tab';
 import Paper from 'material-ui/lib/paper';
@@ -6,7 +6,8 @@ import TextField from 'material-ui/lib/text-field';
 import FormContainer from '../global/FormContainer.jsx';
 import DropDownMenu from 'material-ui/lib/DropDownMenu';
 import MenuItem from 'material-ui/lib/menus/menu-item';
-import { selectYear } from '../../actions/vehicleActions.js';
+//import { selectYear } from '../../actions/vehicleActions';
+import { getModel, selectType, selectYear } from '../../actions/modelActions';
 
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
@@ -29,7 +30,8 @@ const styles = {
         marginBottom: 25
     },
     outer: {
-        padding: '0 20px'
+        padding: '0 20px',
+        width: '100%'
     },
     inner: {
         padding: '10px'
@@ -44,6 +46,9 @@ const styles = {
     textbox: {
         width: '240px',
         padding: '10px 0 10px 25px'
+    },
+    wide: {
+        width: '100%'
     }
 };
 
@@ -56,13 +61,25 @@ export default class ModelPage extends React.Component {
         const firstTab = (props.params.id) ? 'b' : 'a';
         const today = new Date();
         const year = (props.params.year) ? props.params.year : today.getFullYear();
+        //console.log(parseInt(year, 10));
 
         this.state = {
-            value: firstTab,
-            mode: mode,
             selectedYear: parseInt(year, 10),
-            selectedType: 0
+            selectedType: 0,
+            mode: mode,
+            value: firstTab
         };
+        /*
+        this.state = {
+            value: firstTab,
+            name: '',
+            model: {
+                year: parseInt(year, 10),
+                name: '',
+                type: 0
+            }
+        };
+        */
     }
 
     handleChange = (value) => {
@@ -74,17 +91,43 @@ export default class ModelPage extends React.Component {
     handleYearChange = (event, reactid, value) => {
         this.setState({selectedYear: value});
         this.props.selectYear(value);
+        /*
+        console.log('handleYear');
+        console.log(this);
+        */
     };
 
     handleTypeChange = (event, reactid, value) => {
         this.setState({selectedType: value});
+        this.props.selectType(value);
     };
 
     componentDidMount() {
+        console.log('---- console ----');
+        console.log(this);
+        console.log(this.props);
+        console.log(this.state);
+        console.log('---- console ----');
         if (this.state.mode === 'edit') {
-            this.setState({selectedYear: this.state.selectedYear});
+            this.setState({selectedYear: this.state.selectedYear, model: this.state.model});
             this.props.selectYear(this.state.selectedYear);
+            //console.log('getmodel');
+            this.props.getModel(this.props.params.id);
+            this.refs.textbox.value = this.props.name;
+        } else {
+            const today = new Date();
+            const year = (this.props.params.year) ? this.props.params.year : today.getFullYear();
+
+            this.setState({selectedYear: parseInt(year, 10)});
+            this.props.selectYear(parseInt(year, 10));
         }
+    }
+
+    valueChanged(obj) {
+        return (e) => {
+            console.log(obj);
+            console.log(e);
+        };
     }
 
     render() {
@@ -95,7 +138,17 @@ export default class ModelPage extends React.Component {
         for (let y = from; y <= to; y++) years.push(y);
 
         const yearsList = years.map(year => <MenuItem style={styles.listItem} key={year} value={year} primaryText={year}/>);
+        const arr = [1, 2, 3].map(hello => <p key={hello}>Test</p>);
 
+        /*
+        console.log(this);
+        console.log(this.state);
+        console.log(this.props);
+         console.log('--- state ----');
+         console.log(this);
+         console.log(this.props.selectedYear);
+         console.log('selectedyear');
+        */
         return (
             <div className="row middle-xs center-xs">
                 <div style={styles.outer}>
@@ -104,36 +157,36 @@ export default class ModelPage extends React.Component {
                         zDepth={1}
                     >
                         <Tabs
-                            value={this.state.value}
-                            onChange={this.handleChange}
+                            style={styles.wide}
                         >
                             <Tab label="Basic Info" value="a" >
                                 <div style={styles.inner}>
                                     <h2 style={styles.headline}>Basic Info</h2>
-                                    <div>
-                                        <DropDownMenu style={styles.list} autoWidth="false" value={this.state.selectedYear} onChange={this.handleYearChange}>
+                                    <FormContainer ref="formContainer">
+                                        <DropDownMenu style={styles.list} value={this.props.selectedYear} onChange={this.handleYearChange}>
                                             {yearsList}
                                         </DropDownMenu>
                                         <br/>
-                                        <DropDownMenu style={styles.listItem} autoWidth="false" value={this.state.selectedType} onChange={this.handleTypeChange}>
+                                        <DropDownMenu style={styles.listItem} value={this.props.selectedType} onChange={this.handleTypeChange}>
                                             <MenuItem style={styles.listItem} value={0} primaryText="Vehicle Type" />
                                             <MenuItem style={styles.listItem} value="SUV" primaryText="SUV" />
                                             <MenuItem style={styles.listItem} value="Sedan" primaryText="Sedan" />
                                         </DropDownMenu>
                                         <br/>
-                                        <TextField style={styles.textbox} floatingLabelText="Model name" />
+                                        <TextField ref="textbox"
+                                                   onChange={this.valueChanged}
+                                                   style={styles.textbox}
+                                                   floatingLabelText="Model name" />
                                         <br/>
-                                    </div>
+                                    </FormContainer>
                                 </div>
                             </Tab>
                             <Tab label="Specifications" value="b">
                                 <div style={styles.inner}>
                                     <h2 style={styles.headline}>Specifications</h2>
-                                    <p>
-                                        This is another example of a controllable tab. Remember, if you
-                                        use controllable Tabs, you need to give all of your tabs values or else
-                                        you wont be able to select them.
-                                    </p>
+                                    <FormContainer style={styles.wide} ref="formContainer2">
+                                        {arr}
+                                    </FormContainer>
                                 </div>
                             </Tab>
                         </Tabs>
@@ -143,11 +196,26 @@ export default class ModelPage extends React.Component {
         );
     }
 }
-const mapStateToProps = state => ({
-    //selectedYear: state.vehicles.selectedYear,
-});
+const mapStateToProps = state => {
+    /*
+    console.log('map');
+    console.log(state);
+    */
+    return {
+        selectedYear: state.model.selectedYear,
+        selectedType: state.model.selectedType,
+        name: state.model.name
+    };
+};
 const mapDispatchToProps = dispatch => bindActionCreators({
-    selectYear
+    selectYear,
+    getModel,
+    selectType
 }, dispatch);
+
+
+ModelPage.propTypes = {
+    textbox: PropTypes.string
+};
 
 export default connect(mapStateToProps, mapDispatchToProps)(ModelPage);
