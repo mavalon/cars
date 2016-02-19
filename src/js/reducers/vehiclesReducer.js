@@ -3,11 +3,18 @@ const initialState = {
     models: [],
     trims: [],
     selectedModel: 0,
-    selectedTrim: 0
+    selectedTrim: 0,
+    selectedYear: 0,
+    actionText: ''
 };
 
 export default function(state = initialState, action) {
     switch (action.type) {
+        case 'CLICK_BUTTON':
+            return {
+                ...state,
+                action: action.actionText
+            };
         case 'UPDATE_YEARS':
             return {
                 ...state,
@@ -32,6 +39,11 @@ export default function(state = initialState, action) {
             return {
                 ...state,
                 selectedTrim: action.selectedTrim
+            };
+        case 'SELECT_YEAR':
+            return {
+                ...state,
+                selectedYear: action.selectedYear
             };
         default:
             return {

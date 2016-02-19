@@ -5,31 +5,31 @@ import { bindActionCreators } from 'redux';
 import { loginAsync } from '../../actions/authActions';
 
 const mapStateToProps = state => ({
-  user: state.user
+    user: state.user
 });
 const mapDispatchToProps = dispatch => bindActionCreators({
-  loginAsync
+    loginAsync
 }, dispatch);
 
 
 export default function Page(ComposedComponent) {
-  class Page extends Component {
+    class Page extends Component {
 
-    go = (pathName, replaceHistory) => {
-      const { replace, push } = this.context.history;
+        go = (pathName, replaceHistory) => {
+            const { replace, push } = this.context.history;
 
-      if (replaceHistory) {
-        replace(pathName);
-      } else {
-        push(pathName);
-      }
-    };
+            if (replaceHistory) {
+                replace(pathName);
+            } else {
+                push(pathName);
+            }
+        };
 
-    render() {
-      return <ComposedComponent ref="component" {...this.props} go={this.go} />;
+        render() {
+            return <ComposedComponent ref="component" {...this.props} go={this.go}/>;
+        }
     }
-  }
 
-  return connect(mapStateToProps, mapDispatchToProps)(Page);
+    return connect(mapStateToProps, mapDispatchToProps)(Page);
 }
 

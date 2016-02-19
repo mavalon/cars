@@ -62,3 +62,9 @@ export function selectModel(modelId) {
 export function selectTrim(trimId) {
     return {type: 'SELECT_TRIM', selectedTrim: trimId};
 }
+export function doAction(actionText) {
+    return {type: 'CLICK_BUTTON', actionText: actionText};
+}
+export function selectYear(year) {
+    return {type: 'SELECT_YEAR', selectedYear: year};
+}

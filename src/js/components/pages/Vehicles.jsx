@@ -2,7 +2,7 @@ import React, {PropTypes} from 'react';
 
 import BaseComponent from '../BaseComponent.jsx';
 
-import { updateYears, getYears, getModels, selectModel, getTrims, selectTrim } from '../../actions/vehicleActions.js';
+import { updateYears, getYears, getModels, selectModel, getTrims, selectTrim, selectYear } from '../../actions/vehicleActions.js';
 
 import Page from '../hoc/Page.jsx';
 import FormContainer from '../global/FormContainer.jsx';
@@ -32,6 +32,7 @@ class Vehicles extends BaseComponent {
         let d = new Date();
         let thisYear = d.getFullYear();
 
+        console.log(this.state);
         this.state = {
             selectedYear: 0,
             selectedModel: 0,
@@ -85,20 +86,25 @@ class Vehicles extends BaseComponent {
         this.setState({selectedModel: 0});
         this.setState({selectedTrim: 0});
         this.props.getModels(value);
+        this.props.selectYear(value);
+        this.props.selectModel(0);
+        this.props.selectTrim(0);
         this.props.getTrims('0');
     };
 
     handleModelChange = (event, index, value) => {
         this.setState({selectedModel: value});
+        this.props.selectModel(value);
+
         this.setState({selectedTrim: 0});
-        //this.props.getYears();
+        this.props.selectTrim(0);
+
         this.props.getTrims(value);
     };
 
     handleTrimChange = (event, index, value) => {
-        console.log('trim id');
-        console.log(value);
         this.setState({selectedTrim: value});
+        this.props.selectTrim(value);
     };
 
     render() {
@@ -170,7 +176,8 @@ const mapDispatchToProps = dispatch => bindActionCreators({
     getModels,
     getTrims,
     selectModel,
-    selectTrim
+    selectTrim,
+    selectYear
 }, dispatch);
 
 

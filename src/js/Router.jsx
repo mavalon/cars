@@ -30,6 +30,8 @@ render((
                 <Route path="register" component={Register}/>
                 <Route path="vehicles" component={Vehicles}/>
                 <Route path="specifications" component={Specifications}/>
+                <Route path="/model/edit/:id" component={Specifications}/>
+                <Route path="/model/add/:year" component={Specifications}/>
             </Route>
         </Router>
     </Provider>
