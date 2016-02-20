@@ -78,7 +78,7 @@ class Main extends BaseComponent {
         return (
             <AppBar
                 ref="appBar"
-                title="Hyundai Models"
+                title="Models"
                 iconElementRight={this.renderUserStatusArea()}
                 showMenuIconButton={true}
                 onLeftIconButtonTouchTap={this.handleToggle}

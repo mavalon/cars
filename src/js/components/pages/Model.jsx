@@ -103,11 +103,6 @@ export default class ModelPage extends React.Component {
     };
 
     componentDidMount() {
-        console.log('---- console ----');
-        console.log(this);
-        console.log(this.props);
-        console.log(this.state);
-        console.log('---- console ----');
         if (this.state.mode === 'edit') {
             this.setState({selectedYear: this.state.selectedYear, model: this.state.model});
             this.props.selectYear(this.state.selectedYear);
@@ -149,6 +144,11 @@ export default class ModelPage extends React.Component {
          console.log(this.props.selectedYear);
          console.log('selectedyear');
         */
+        console.log('---- console ----');
+        console.log(this);
+        console.log(this.props);
+        console.log(this.state);
+        console.log('---- console ----');
         return (
             <div className="row middle-xs center-xs">
                 <div style={styles.outer}>
@@ -176,6 +176,7 @@ export default class ModelPage extends React.Component {
                                         <TextField ref="textbox"
                                                    onChange={this.valueChanged}
                                                    style={styles.textbox}
+                                                   defaultValue="test"
                                                    floatingLabelText="Model name" />
                                         <br/>
                                     </FormContainer>

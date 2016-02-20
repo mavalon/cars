@@ -1,0 +1,3003 @@
+
+[
+
+
+
+	
+	{
+		"ID": "accent-2016-en-US",
+		"ModelName": "Accent",
+		"ModelYear": "2016",
+		"BasePrice": "14745",
+		"VehicleType": "Compacts",
+		"Review": "",
+		"ReviewAuthor": "",
+		"Freights": [
+			{
+				"RegionId" : "CE",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "EA",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "SC",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "SO",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "WE",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "PC",
+				"StateId" : "",
+				"Freight" : "835"
+			}
+		],
+		"Trims": [
+			
+			
+			
+			{
+				"ID": "accent-2016-en-US-sesedan",
+				"TrimName": "SE Sedan",
+				"TrimDescription": "2016 Accent SE Sedan",
+				"MPGCity": "27",
+				"MPGHighway": "38",
+				"NoOfSeats": "5",
+				"HorsePower": "137",
+				"Price": "14745",
+				"DefaultImageSmall": "/images/2016/accent/BYO/360/exterior/se_sedan/default/Ironman_Silver.jpg",
+				"DefaultImageMedium": "/images/2016/accent/BYO/shopping_tools/2016_accent_4dr_special_offers_272x119_r1.png",
+				"DefaultImageLarge": "/images/2016/accent/BYO/shopping_tools/2016_accent_payment_calculator_550x319_gls_r1.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "accent-2016-en-US-sesedan16l6speedmanualtransmission",
+						"Price": "0",
+						"Name": "SE Sedan 1.6L 6-Speed Manual Transmission"
+					},
+					
+					
+					
+					
+					{
+						"ID": "accent-2016-en-US-sesedan16l6speedautomatictransmission",
+						"Price": "1000",
+						"Name": "SE Sedan 1.6L 6-Speed Automatic Transmission"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "accent-2016-en-US-sehatchback",
+				"TrimName": "SE Hatchback",
+				"TrimDescription": "2016 Accent SE Hatchback",
+				"MPGCity": "27",
+				"MPGHighway": "38",
+				"NoOfSeats": "5",
+				"HorsePower": "137",
+				"Price": "14995",
+				"DefaultImageSmall": "/images/2016/accent/BYO/360/exterior/se_hatchback/default/ironman_silver.jpg",
+				"DefaultImageMedium": "/images/2016/accent/BYO/shopping_tools/2016_accent_5dr_special_offers_272x119_r1.png",
+				"DefaultImageLarge": "/images/2016/accent/BYO/shopping_tools/2016_accent_payment_calculator_550x319_gs_r1.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "accent-2016-en-US-sehatchback16l6speedmanualtransmission",
+						"Price": "0",
+						"Name": "SE Hatchback 1.6L 6-Speed Manual Transmission"
+					},
+					
+					
+					
+					
+					{
+						"ID": "accent-2016-en-US-sehatchback16l6speedautomatictransmission",
+						"Price": "1200",
+						"Name": "SE Hatchback 1.6L 6-Speed Automatic Transmission"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "accent-2016-en-US-sporthatchback",
+				"TrimName": "Sport Hatchback",
+				"TrimDescription": "2016 Accent Sport Hatchback",
+				"MPGCity": "27",
+				"MPGHighway": "38",
+				"NoOfSeats": "5",
+				"HorsePower": "137",
+				"Price": "16495",
+				"DefaultImageSmall": "/images/2016/accent/BYO/360/exterior/sport_hatchback/default/ironman_silver.jpg",
+				"DefaultImageMedium": "/images/2016/Accent/BYO/shopping_tools/2016_accent_5dr_special_offers_272x119_r1.png",
+				"DefaultImageLarge": "/images/2016/Accent/BYO/shopping_tools/2016_accent_payment_calculator_550x319_sport_r1.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "accent-2016-en-US-sporthatchback16l6speedmanualtransmission",
+						"Price": "0",
+						"Name": "Sport Hatchback 1.6L 6-Speed Manual Transmission"
+					},
+					
+					
+					
+					
+					{
+						"ID": "accent-2016-en-US-sporthatchback16l6speedautomatictransmission",
+						"Price": "1000",
+						"Name": "Sport Hatchback 1.6L 6-Speed Automatic Transmission"
+					}
+					
+					
+				]
+			}
+			
+		]
+	},
+	
+
+
+	
+	{
+		"ID": "elantra-2016-en-US",
+		"ModelName": "Elantra",
+		"ModelYear": "2016",
+		"BasePrice": "17250",
+		"VehicleType": "Compacts",
+		"Review": "",
+		"ReviewAuthor": "",
+		"Freights": [
+			{
+				"RegionId" : "CE",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "EA",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "SC",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "SO",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "WE",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "PC",
+				"StateId" : "",
+				"Freight" : "835"
+			}
+		],
+		"Trims": [
+			
+			
+			
+			{
+				"ID": "elantra-2016-en-US-se",
+				"TrimName": "SE",
+				"TrimDescription": "2016 Elantra SE",
+				"MPGCity": "28",
+				"MPGHighway": "38",
+				"NoOfSeats": "5",
+				"HorsePower": "145",
+				"Price": "17250",
+				"DefaultImageSmall": "/images/2016/elantra/BYO/exterior/se/Base/default/Quartz_white_pearl.jpg",
+				"DefaultImageMedium": "/images/2016/elantra/BYO/shopping_tools/2016_elantra_special_offers.png",
+				"DefaultImageLarge": "/images/2016/elantra/BYO/shopping_tools/2016_elantra_payment_se.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "elantra-2016-en-US-se18l6speedmanualtransmission",
+						"Price": "0",
+						"Name": "SE 1.8L 6-Speed Manual Transmission"
+					},
+					
+					
+					
+					
+					{
+						"ID": "elantra-2016-en-US-se18l6speedautomatictransmission",
+						"Price": "1000",
+						"Name": "SE 1.8L 6-Speed Automatic Transmission"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "elantra-2016-en-US-valueedition",
+				"TrimName": "Value Edition",
+				"TrimDescription": "2016 Elantra Value Edition",
+				"MPGCity": "28",
+				"MPGHighway": "38",
+				"NoOfSeats": "5",
+				"HorsePower": "145",
+				"Price": "19700",
+				"DefaultImageSmall": "/images/2016/elantra/BYO/exterior/value_edition/Base/default/Quartz_white_pearl.jpg",
+				"DefaultImageMedium": "/images/2016/elantra/BYO/shopping_tools/2016_elantra_special_offers.png",
+				"DefaultImageLarge": "/images/2016/elantra/BYO/shopping_tools/2016_elantra_payment_value.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "elantra-2016-en-US-valueedition18l6speedautomatictransmission",
+						"Price": "0",
+						"Name": "Value Edition 1.8L 6-Speed Automatic Transmission  "
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "elantra-2016-en-US-sport",
+				"TrimName": "SPORT",
+				"TrimDescription": "2016 Elantra SPORT",
+				"MPGCity": "24",
+				"MPGHighway": "35",
+				"NoOfSeats": "5",
+				"HorsePower": "173",
+				"Price": "20250",
+				"DefaultImageSmall": "/images/2016/elantra/BYO/exterior/sport/base/default/Quartz_White_Pearl.jpg",
+				"DefaultImageMedium": "/images/2016/elantra/BYO/shopping_tools/2016_elantra_special_offers.png",
+				"DefaultImageLarge": "/images/2016/elantra/BYO/shopping_tools/2016_elantra_payment_sport.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "elantra-2016-en-US-sport20l6speedmanualtransmission",
+						"Price": "0",
+						"Name": "Sport 2.0L 6-Speed Manual Transmission"
+					},
+					
+					
+					
+					
+					{
+						"ID": "elantra-2016-en-US-sport20l6speedautomatictransmission",
+						"Price": "1000",
+						"Name": "Sport 2.0L 6-Speed Automatic Transmission"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "elantra-2016-en-US-limited",
+				"TrimName": "LIMITED",
+				"TrimDescription": "2016 Elantra LIMITED",
+				"MPGCity": "27",
+				"MPGHighway": "37",
+				"NoOfSeats": "5",
+				"HorsePower": "145",
+				"Price": "21700",
+				"DefaultImageSmall": "/images/2016/elantra/BYO/exterior/ltd/base/default/Quartz_White_Pearl.jpg",
+				"DefaultImageMedium": "/images/2016/elantra/BYO/shopping_tools/2016_elantra_special_offers.png",
+				"DefaultImageLarge": "/images/2016/elantra/BYO/shopping_tools/2016_elantra_payment_ltd.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "elantra-2016-en-US-limited18l6speedautomatictransmission",
+						"Price": "0",
+						"Name": "Limited 1.8L 6-Speed Automatic Transmission  "
+					}
+					
+					
+				]
+			}
+			
+		]
+	},
+	
+
+
+	
+	{
+		"ID": "elantra-2017-en-US",
+		"ModelName": "Elantra",
+		"ModelYear": "2017",
+		"BasePrice": "17150",
+		"VehicleType": "Compacts",
+		"Review": "",
+		"ReviewAuthor": "",
+		"Freights": [
+			{
+				"RegionId" : "CE",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "EA",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "SC",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "SO",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "WE",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "PC",
+				"StateId" : "",
+				"Freight" : "835"
+			}
+		],
+		"Trims": [
+			
+			
+			
+			{
+				"ID": "elantra-2017-en-US-se",
+				"TrimName": "SE",
+				"TrimDescription": "2017 Elantra SE",
+				"MPGCity": "29",
+				"MPGHighway": "38",
+				"NoOfSeats": "5",
+				"HorsePower": "147",
+				"Price": "17150",
+				"DefaultImageSmall": "/images/2017/elantra/BYO/exterior/se/Base/default/Quartz_white_pearl.jpg",
+				"DefaultImageMedium": "/images/2017/elantra/BYO/shopping_tools/2017-hyundai-elantra-sedan-special-offers-272x119.png",
+				"DefaultImageLarge": "/images/2017/elantra/BYO/shopping_tools/2017-hyundai-elantra-sedan-payment-calculator-550x319-disclaimer.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "elantra-2017-en-US-se20l6speedmanualtransmission",
+						"Price": "0",
+						"Name": "SE 2.0L 6-Speed Manual Transmission"
+					},
+					
+					
+					
+					
+					{
+						"ID": "elantra-2017-en-US-se20l6speedautomatictransmission",
+						"Price": "1000",
+						"Name": "SE 2.0L 6-Speed Automatic Transmission"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "elantra-2017-en-US-limited",
+				"TrimName": "Limited",
+				"TrimDescription": "2017 Elantra Limited",
+				"MPGCity": "28",
+				"MPGHighway": "37",
+				"NoOfSeats": "5",
+				"HorsePower": "147",
+				"Price": "22350",
+				"DefaultImageSmall": "/images/2017/elantra/BYO/exterior/limited/base/default/Quartz_White_Pearl.jpg",
+				"DefaultImageMedium": "/images/2017/elantra/BYO/shopping_tools/2017-hyundai-elantra-sedan-special-offers-272x119.png",
+				"DefaultImageLarge": "/images/2017/elantra/BYO/shopping_tools/2017-hyundai-elantra-sedan-payment-calculator-550x319.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "elantra-2017-en-US-limited20l6speedautomatictransmission",
+						"Price": "0",
+						"Name": "Limited 2.0L 6-Speed Automatic Transmission"
+					}
+					
+					
+				]
+			}
+			
+		]
+	},
+	
+
+
+	
+	{
+		"ID": "elantra-gt-2016-en-US",
+		"ModelName": "Elantra GT",
+		"ModelYear": "2016",
+		"BasePrice": "18800",
+		"VehicleType": "Compacts",
+		"Review": "",
+		"ReviewAuthor": "",
+		"Freights": [
+			{
+				"RegionId" : "CE",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "EA",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "SC",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "SO",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "WE",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "PC",
+				"StateId" : "",
+				"Freight" : "835"
+			}
+		],
+		"Trims": [
+			
+			
+			
+			{
+				"ID": "elantra-gt-2016-en-US-elantragt",
+				"TrimName": "Elantra GT",
+				"TrimDescription": "2016 Elantra GT Elantra GT",
+				"MPGCity": "24",
+				"MPGHighway": "33",
+				"NoOfSeats": "5",
+				"HorsePower": "173",
+				"Price": "18800",
+				"DefaultImageSmall": "/images/2016/Elantra-GT/BYO/exterior/sept_audit/Base/default/symphony_air_silver.jpg",
+				"DefaultImageMedium": "/images/2016/elantra-gt/BYO/shopping_tools/2016_elantra_gt_local_offer.png",
+				"DefaultImageLarge": "/images/2016/elantra-gt/BYO/shopping_tools/2016_elantra_gt_test_drive.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "elantra-gt-2016-en-US-20l6speedmanualtransmission",
+						"Price": "0",
+						"Name": "2.0L 6-Speed Manual Transmission"
+					},
+					
+					
+					
+					
+					{
+						"ID": "elantra-gt-2016-en-US-20l6speedautomatictransmission",
+						"Price": "1000",
+						"Name": "2.0L 6-Speed Automatic Transmission"
+					}
+					
+					
+				]
+			}
+			
+		]
+	},
+	
+
+
+	
+	{
+		"ID": "veloster-2016-en-US",
+		"ModelName": "Veloster",
+		"ModelYear": "2016",
+		"BasePrice": "18000",
+		"VehicleType": "Compacts",
+		"Review": "",
+		"ReviewAuthor": "",
+		"Freights": [
+			{
+				"RegionId" : "CE",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "EA",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "SC",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "SO",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "WE",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "PC",
+				"StateId" : "",
+				"Freight" : "835"
+			}
+		],
+		"Trims": [
+			
+			
+			
+			{
+				"ID": "veloster-2016-en-US-veloster",
+				"TrimName": "Veloster",
+				"TrimDescription": "2016 Veloster Veloster",
+				"MPGCity": "27",
+				"MPGHighway": "35",
+				"NoOfSeats": "4",
+				"HorsePower": "132",
+				"Price": "18000",
+				"DefaultImageSmall": "/images/2016/Veloster/BYO/exterior/veloster/base/default/Ironman_Silver.jpg",
+				"DefaultImageMedium": "/images/2016/Veloster/BYO/shopping_tools/2016-hyundai-veloster-special-offers-272x119.png",
+				"DefaultImageLarge": "/images/2016/Veloster/BYO/shopping_tools/2016-hyundai-veloster-payment-calculator-550x319-tech.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "veloster-2016-en-US-16l6speedmanualtransmission",
+						"Price": "0",
+						"Name": "1.6L 6-Speed Manual Transmission"
+					},
+					
+					
+					
+					
+					{
+						"ID": "veloster-2016-en-US-16l6speedecoshiftdualclutchtransmissiondct",
+						"Price": "1100",
+						"Name": "1.6L 6-Speed EcoShift Dual Clutch Transmission (DCT) "
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "veloster-2016-en-US-turborspec",
+				"TrimName": "Turbo R-Spec",
+				"TrimDescription": "2016 Veloster Turbo R-Spec",
+				"MPGCity": "25",
+				"MPGHighway": "33",
+				"NoOfSeats": "4",
+				"HorsePower": "201",
+				"Price": "21600",
+				"DefaultImageSmall": "/images/2016/Veloster/BYO/exterior/veloster_Turbo_RSpec/base/default/Pacific_Blue.jpg",
+				"DefaultImageMedium": "/images/2016/Veloster/BYO/shopping_tools/2016-hyundai-veloster-special-offers-272x119.png",
+				"DefaultImageLarge": "/images/2016/Veloster/BYO/shopping_tools/2016-hyundai-veloster-payment-calculator-550x319-turbo-r-spec.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "veloster-2016-en-US-turborspec16l6speedmanualtransmission",
+						"Price": "0",
+						"Name": "Turbo R-Spec 1.6L 6-Speed Manual Transmission"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "veloster-2016-en-US-rallyedition",
+				"TrimName": "Rally Edition ",
+				"TrimDescription": "2016 Veloster Rally Edition ",
+				"MPGCity": "25",
+				"MPGHighway": "33",
+				"NoOfSeats": "4",
+				"HorsePower": "201",
+				"Price": "23950",
+				"DefaultImageSmall": "/images/2016/Veloster/BYO/exterior/veloster_Rally/base/default/Matte_Blue.jpg",
+				"DefaultImageMedium": "/images/2016/Veloster/BYO/shopping_tools/2016-hyundai-veloster-special-offers-272x119.png",
+				"DefaultImageLarge": "/images/2016/Veloster/BYO/shopping_tools/2016-hyundai-veloster-payment-calculator-550x319-rally.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "veloster-2016-en-US-turborallyedition16l6speedmanualtransmission",
+						"Price": "0",
+						"Name": "Turbo Rally Edition 1.6L 6-Speed Manual Transmission"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "veloster-2016-en-US-turbo",
+				"TrimName": "Turbo",
+				"TrimDescription": "2016 Veloster Turbo",
+				"MPGCity": "25",
+				"MPGHighway": "33",
+				"NoOfSeats": "4",
+				"HorsePower": "201",
+				"Price": "22600",
+				"DefaultImageSmall": "/images/2016/Veloster/BYO/exterior/veloster_turbo/base/default/Ironman_Silver.jpg",
+				"DefaultImageMedium": "/images/2016/Veloster/BYO/shopping_tools/2016-hyundai-veloster-special-offers-272x119.png",
+				"DefaultImageLarge": "/images/2016/Veloster/BYO/shopping_tools/2016-hyundai-veloster-payment-calculator-550x319-turbo-tech.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "veloster-2016-en-US-turbo16l6speedmanualtransmission",
+						"Price": "0",
+						"Name": "Turbo 1.6L 6-Speed Manual Transmission"
+					},
+					
+					
+					
+					
+					{
+						"ID": "veloster-2016-en-US-turbo16l7speeddualclutchtransmissiondct",
+						"Price": "1200",
+						"Name": "Turbo 1.6L 7-speed Dual Clutch Transmission (DCT)"
+					}
+					
+					
+				]
+			}
+			
+		]
+	},
+	
+
+
+	
+	{
+		"ID": "azera-2015-en-US",
+		"ModelName": "Azera",
+		"ModelYear": "2015",
+		"BasePrice": "34000",
+		"VehicleType": "Sedans",
+		"Review": "",
+		"ReviewAuthor": "",
+		"Freights": [
+			{
+				"RegionId" : "CE",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "EA",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "SC",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "SO",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "WE",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "PC",
+				"StateId" : "",
+				"Freight" : "895"
+			}
+		],
+		"Trims": [
+			
+			
+			
+			{
+				"ID": "azera-2015-en-US-azera",
+				"TrimName": "Azera",
+				"TrimDescription": "2015 Azera Azera",
+				"MPGCity": "20",
+				"MPGHighway": "29",
+				"NoOfSeats": "5",
+				"HorsePower": "293",
+				"Price": "34000",
+				"DefaultImageSmall": "/images/2015/azera/BYO/360/exterior/azera/default/Starlight_Silver.jpg",
+				"DefaultImageMedium": "/images/2015/Azera/BYO/shopping_tools/2015_azera_special_offers_272x119.png",
+				"DefaultImageLarge": "/images/2015/Azera/BYO/shopping_tools/2015_azera_payment_calculator_550x319_base.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "azera-2015-en-US-33l6speedautomatictransmission",
+						"Price": "0",
+						"Name": "3.3L 6-speed Automatic Transmission  "
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "azera-2015-en-US-limited",
+				"TrimName": "Limited",
+				"TrimDescription": "2015 Azera Limited",
+				"MPGCity": "19",
+				"MPGHighway": "28",
+				"NoOfSeats": "5",
+				"HorsePower": "293",
+				"Price": "38200",
+				"DefaultImageSmall": "/images/2015/azera/BYO/360/exterior/limited/default/Starlight_Silver.jpg",
+				"DefaultImageMedium": "/images/2015/Azera/BYO/shopping_tools/2015_azera_special_offers_272x119.png",
+				"DefaultImageLarge": "/images/2015/Azera/BYO/shopping_tools/2015_azera_payment_calculator_550x319_ltd.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "azera-2015-en-US-limited33l6speedautomatictransmission",
+						"Price": "0",
+						"Name": "Limited 3.3L 6-speed Automatic Transmission  "
+					}
+					
+					
+				]
+			}
+			
+		]
+	},
+	
+
+
+	
+	{
+		"ID": "azera-2016-en-US",
+		"ModelName": "Azera",
+		"ModelYear": "2016",
+		"BasePrice": "34100",
+		"VehicleType": "Sedans",
+		"Review": "",
+		"ReviewAuthor": "",
+		"Freights": [
+			{
+				"RegionId" : "CE",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "EA",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "SC",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "SO",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "WE",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "PC",
+				"StateId" : "",
+				"Freight" : "895"
+			}
+		],
+		"Trims": [
+			
+			
+			
+			{
+				"ID": "azera-2016-en-US-azera",
+				"TrimName": "Azera",
+				"TrimDescription": "2016 Azera Azera",
+				"MPGCity": "20",
+				"MPGHighway": "29",
+				"NoOfSeats": "5",
+				"HorsePower": "293",
+				"Price": "34100",
+				"DefaultImageSmall": "/images/2016/azera/BYO/360/Exterior/azera/base/default/starlight_silver.jpg",
+				"DefaultImageMedium": "/images/2016/Azera/BYO/shopping_tools/2016_azera_special_offers_272x119.png",
+				"DefaultImageLarge": "/images/2016/Azera/BYO/shopping_tools/2016_azera_payment_calculator_550x319_base.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "azera-2016-en-US-33l6speedautomatictransmission",
+						"Price": "0",
+						"Name": "3.3L 6-speed Automatic Transmission  "
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "azera-2016-en-US-limited",
+				"TrimName": "Limited",
+				"TrimDescription": "2016 Azera Limited",
+				"MPGCity": "19",
+				"MPGHighway": "28",
+				"NoOfSeats": "5",
+				"HorsePower": "293",
+				"Price": "39300",
+				"DefaultImageSmall": "/images/2016/azera/BYO/360/Exterior/limited/base/default/starlight_silver.jpg",
+				"DefaultImageMedium": "/images/2016/Azera/BYO/shopping_tools/2016_azera_special_offers_272x119.png",
+				"DefaultImageLarge": "/images/2016/Azera/BYO/shopping_tools/2016_azera_payment_calculator_550x319_ltd.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "azera-2016-en-US-limited33l6speedautomatictransmission",
+						"Price": "0",
+						"Name": "Limited 3.3L 6-speed Automatic Transmission  "
+					}
+					
+					
+				]
+			}
+			
+		]
+	},
+	
+
+
+	
+	{
+		"ID": "sonata-2015-en-US",
+		"ModelName": "Sonata",
+		"ModelYear": "2015",
+		"BasePrice": "21150",
+		"VehicleType": "Sedans",
+		"Review": "",
+		"ReviewAuthor": "",
+		"Freights": [
+			{
+				"RegionId" : "CE",
+				"StateId" : "",
+				"Freight" : "825"
+			},
+			{
+				"RegionId" : "EA",
+				"StateId" : "",
+				"Freight" : "825"
+			},
+			{
+				"RegionId" : "SC",
+				"StateId" : "",
+				"Freight" : "825"
+			},
+			{
+				"RegionId" : "SO",
+				"StateId" : "",
+				"Freight" : "825"
+			},
+			{
+				"RegionId" : "WE",
+				"StateId" : "",
+				"Freight" : "825"
+			},
+			{
+				"RegionId" : "PC",
+				"StateId" : "",
+				"Freight" : "825"
+			}
+		],
+		"Trims": [
+			
+			
+			
+			{
+				"ID": "sonata-2015-en-US-se",
+				"TrimName": "SE",
+				"TrimDescription": "2015 Sonata SE",
+				"MPGCity": "25",
+				"MPGHighway": "37",
+				"NoOfSeats": "5",
+				"HorsePower": "185",
+				"Price": "21150",
+				"DefaultImageSmall": "/images/home/breakthrough/general/2015/sonata/BYO/2014_august_update/Exterior/se/base/default/symphony_silver.jpg",
+				"DefaultImageMedium": "/images/home/breakthrough/general/2015/sonata/BYO/shopping_tool/2015-Sonata-local_offer.png",
+				"DefaultImageLarge": "/images/home/breakthrough/general/2015/sonata/BYO/shopping_tool/2015_sonata_se.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "sonata-2015-en-US-se24l6speedautomatictransmission",
+						"Price": "0",
+						"Name": "SE 2.4L 6-Speed Automatic Transmission"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "sonata-2015-en-US-sport",
+				"TrimName": "SPORT",
+				"TrimDescription": "2015 Sonata SPORT",
+				"MPGCity": "24",
+				"MPGHighway": "35",
+				"NoOfSeats": "5",
+				"HorsePower": "185",
+				"Price": "23175",
+				"DefaultImageSmall": "/images/home/breakthrough/general/2015/sonata/BYO/2014_august_update/Exterior/sport/base/default/symphony_silver.jpg",
+				"DefaultImageMedium": "/images/home/breakthrough/general/2015/sonata/BYO/shopping_tool/2015-Sonata-local_offer.png",
+				"DefaultImageLarge": "/images/home/breakthrough/general/2015/sonata/BYO/shopping_tool/2015_sonata_sport.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "sonata-2015-en-US-sport24l6speedautomatictransmission",
+						"Price": "0",
+						"Name": "Sport 2.4L 6-Speed Automatic Transmission"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "sonata-2015-en-US-eco",
+				"TrimName": "ECO",
+				"TrimDescription": "2015 Sonata ECO",
+				"MPGCity": "28",
+				"MPGHighway": "38",
+				"NoOfSeats": "5",
+				"HorsePower": "178",
+				"Price": "23275",
+				"DefaultImageSmall": "/images/home/breakthrough/general/2015/sonata/BYO/2014_august_update/Exterior/eco/base/default/symphony_silver.jpg",
+				"DefaultImageMedium": "/images/home/breakthrough/general/2015/sonata/BYO/shopping_tool/2015-Sonata-local_offer.png",
+				"DefaultImageLarge": "/images/home/breakthrough/general/2015/sonata/BYO/2014_august_update/shopping_tool/2015_sonata_eco.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "sonata-2015-en-US-eco16l7speedecoshiftdualclutchtransmission",
+						"Price": "0",
+						"Name": "Eco 1.6L 7-Speed EcoShift Dual Clutch Transmission"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "sonata-2015-en-US-limited",
+				"TrimName": "LIMITED",
+				"TrimDescription": "2015 Sonata LIMITED",
+				"MPGCity": "24",
+				"MPGHighway": "35",
+				"NoOfSeats": "5",
+				"HorsePower": "185",
+				"Price": "26525",
+				"DefaultImageSmall": "/images/home/breakthrough/general/2015/sonata/BYO/2014_august_update/Exterior/limited/base/default/symphony_silver.jpg",
+				"DefaultImageMedium": "/images/home/breakthrough/general/2015/sonata/BYO/shopping_tool/2015-Sonata-local_offer.png",
+				"DefaultImageLarge": "/images/home/breakthrough/general/2015/sonata/BYO/shopping_tool/2015_sonata_limited.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "sonata-2015-en-US-limited24l6speedautomatictransmission",
+						"Price": "0",
+						"Name": "Limited 2.4L 6-Speed Automatic Transmission"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "sonata-2015-en-US-sport20t",
+				"TrimName": "SPORT 2.0T",
+				"TrimDescription": "2015 Sonata SPORT 2.0T",
+				"MPGCity": "23",
+				"MPGHighway": "32",
+				"NoOfSeats": "5",
+				"HorsePower": "245",
+				"Price": "28575",
+				"DefaultImageSmall": "/images/home/breakthrough/general/2015/sonata/BYO/2014_august_update/Exterior/sport_20t/base/default/symphony_silver.jpg",
+				"DefaultImageMedium": "/images/home/breakthrough/general/2015/sonata/BYO/shopping_tool/2015-Sonata-local_offer.png",
+				"DefaultImageLarge": "/images/home/breakthrough/general/2015/sonata/BYO/shopping_tool/2015_sonata_sport20t.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "sonata-2015-en-US-sport20l6speedautomatictransmission",
+						"Price": "0",
+						"Name": "Sport 2.0L 6-Speed Automatic Transmission"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "sonata-2015-en-US-limited20t",
+				"TrimName": "LIMITED 2.0T",
+				"TrimDescription": "2015 Sonata LIMITED 2.0T",
+				"MPGCity": "21",
+				"MPGHighway": "31",
+				"NoOfSeats": "5",
+				"HorsePower": "245",
+				"Price": "33525",
+				"DefaultImageSmall": "/images/home/breakthrough/general/2015/sonata/BYO/2014_december_update/exterior/limited_20t/default/symphony_silver.jpg",
+				"DefaultImageMedium": "/images/home/breakthrough/general/2015/sonata/BYO/shopping_tool/2015-Sonata-local_offer.png",
+				"DefaultImageLarge": "/images/home/breakthrough/general/2015/sonata/BYO/shopping_tool/2015_sonata_limited20t.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "sonata-2015-en-US-limited20l6speedautomatictransmission",
+						"Price": "0",
+						"Name": "Limited 2.0L 6-Speed Automatic Transmission"
+					}
+					
+					
+				]
+			}
+			
+		]
+	},
+	
+
+
+	
+	{
+		"ID": "sonata-2016-en-US",
+		"ModelName": "Sonata",
+		"ModelYear": "2016",
+		"BasePrice": "21750",
+		"VehicleType": "Sedans",
+		"Review": "",
+		"ReviewAuthor": "",
+		"Freights": [
+			{
+				"RegionId" : "CE",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "EA",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "SC",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "SO",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "WE",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "PC",
+				"StateId" : "",
+				"Freight" : "835"
+			}
+		],
+		"Trims": [
+			
+			
+			
+			{
+				"ID": "sonata-2016-en-US-se",
+				"TrimName": "SE",
+				"TrimDescription": "2016 Sonata SE",
+				"MPGCity": "25",
+				"MPGHighway": "38",
+				"NoOfSeats": "5",
+				"HorsePower": "185",
+				"Price": "21750",
+				"DefaultImageSmall": "/images/2016/sonata/byo/Exterior/se/base/default/symphony_silver.jpg",
+				"DefaultImageMedium": "/images/2016/sonata/byo/shopping_tools/2016-Sonata-local_offer.png",
+				"DefaultImageLarge": "/images/2016/sonata/byo/shopping_tools/2016_sonata_se.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "sonata-2016-en-US-se24l6speedautomatictransmission",
+						"Price": "0",
+						"Name": "SE 2.4L 6-Speed Automatic Transmission"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "sonata-2016-en-US-sport",
+				"TrimName": "Sport",
+				"TrimDescription": "2016 Sonata Sport",
+				"MPGCity": "25",
+				"MPGHighway": "36",
+				"NoOfSeats": "5",
+				"HorsePower": "185",
+				"Price": "23400",
+				"DefaultImageSmall": "/images/2016/sonata/byo/Exterior/sport/base/default/symphony_silver.jpg",
+				"DefaultImageMedium": "/images/2016/sonata/byo/shopping_tools/2016-Sonata-local_offer.png",
+				"DefaultImageLarge": "/images/2016/sonata/byo/shopping_tools/2016_sonata_sport.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "sonata-2016-en-US-sport24l6speedautomatictransmission",
+						"Price": "0",
+						"Name": "Sport 2.4L 6-Speed Automatic Transmission"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "sonata-2016-en-US-eco",
+				"TrimName": "Eco",
+				"TrimDescription": "2016 Sonata Eco",
+				"MPGCity": "28",
+				"MPGHighway": "38",
+				"NoOfSeats": "5",
+				"HorsePower": "178",
+				"Price": "23725",
+				"DefaultImageSmall": "/images/2016/sonata/byo/Exterior/eco/base/default/symphony_silver.jpg",
+				"DefaultImageMedium": "/images/2016/sonata/byo/shopping_tools/2016-Sonata-local_offer.png",
+				"DefaultImageLarge": "/images/2016/sonata/byo/shopping_tools/2016_sonata_eco.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "sonata-2016-en-US-eco16l7speedecoshiftdualclutchtransmission",
+						"Price": "0",
+						"Name": "Eco 1.6L 7-Speed EcoShift Dual Clutch Transmission"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "sonata-2016-en-US-limited",
+				"TrimName": "Limited",
+				"TrimDescription": "2016 Sonata Limited",
+				"MPGCity": "25",
+				"MPGHighway": "36",
+				"NoOfSeats": "5",
+				"HorsePower": "185",
+				"Price": "27350",
+				"DefaultImageSmall": "/images/home/breakthrough/general/2015/sonata/BYO/2014_august_update/Exterior/limited/base/default/symphony_silver.jpg",
+				"DefaultImageMedium": "/images/2016/sonata/byo/shopping_tools/2015-Sonata-local_offer.png",
+				"DefaultImageLarge": "/images/2016/sonata/byo/shopping_tools/2016_sonata_limited.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "sonata-2016-en-US-limited24l6speedautomatictransmission",
+						"Price": "0",
+						"Name": "Limited 2.4L 6-Speed Automatic Transmission"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "sonata-2016-en-US-sport20t",
+				"TrimName": "Sport 2.0T",
+				"TrimDescription": "2016 Sonata Sport 2.0T",
+				"MPGCity": "23",
+				"MPGHighway": "32",
+				"NoOfSeats": "5",
+				"HorsePower": "245",
+				"Price": "28925",
+				"DefaultImageSmall": "/images/2016/sonata/byo/Exterior/sport_20t/base/default/symphony_silver.jpg",
+				"DefaultImageMedium": "/images/2016/sonata/byo/shopping_tools/2016-Sonata-local_offer.png",
+				"DefaultImageLarge": "/images/2016/sonata/byo/shopping_tools/2016_sonata_sport20t.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "sonata-2016-en-US-sport20l6speedautomatictransmission",
+						"Price": "0",
+						"Name": "Sport 2.0L 6-Speed Automatic Transmission"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "sonata-2016-en-US-limited20t",
+				"TrimName": "Limited 2.0T",
+				"TrimDescription": "2016 Sonata Limited 2.0T",
+				"MPGCity": "21",
+				"MPGHighway": "31",
+				"NoOfSeats": "5",
+				"HorsePower": "245",
+				"Price": "34075",
+				"DefaultImageSmall": "/images/2016/sonata/byo/exterior/limited_20t/default/symphony_silver.jpg",
+				"DefaultImageMedium": "/images/2016/sonata/byo/shopping_tools/2016-Sonata-local_offer.png",
+				"DefaultImageLarge": "/images/2016/sonata/byo/shopping_tools/2016_sonata_limited20t.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "sonata-2016-en-US-limited20l6speedautomatictransmission",
+						"Price": "0",
+						"Name": "Limited 2.0L 6-Speed Automatic Transmission"
+					}
+					
+					
+				]
+			}
+			
+		]
+	},
+	
+
+
+	
+	{
+		"ID": "sonata-hybrid-2015-en-US",
+		"ModelName": "Sonata Hybrid",
+		"ModelYear": "2015",
+		"BasePrice": "26000",
+		"VehicleType": "Hybrid",
+		"Review": "",
+		"ReviewAuthor": "",
+		"Freights": [
+			{
+				"RegionId" : "CE",
+				"StateId" : "",
+				"Freight" : "825"
+			},
+			{
+				"RegionId" : "EA",
+				"StateId" : "",
+				"Freight" : "825"
+			},
+			{
+				"RegionId" : "SC",
+				"StateId" : "",
+				"Freight" : "825"
+			},
+			{
+				"RegionId" : "SO",
+				"StateId" : "",
+				"Freight" : "825"
+			},
+			{
+				"RegionId" : "WE",
+				"StateId" : "",
+				"Freight" : "825"
+			},
+			{
+				"RegionId" : "PC",
+				"StateId" : "",
+				"Freight" : "825"
+			}
+		],
+		"Trims": [
+			
+			
+			
+			{
+				"ID": "sonata-hybrid-2015-en-US-hybrid",
+				"TrimName": "Hybrid",
+				"TrimDescription": "2015 Sonata Hybrid Hybrid",
+				"MPGCity": "36",
+				"MPGHighway": "40",
+				"NoOfSeats": "5",
+				"HorsePower": "199",
+				"Price": "26000",
+				"DefaultImageSmall": "/images/home/breakthrough/general/2015/sonata-hybrid/BYO/BYO_EXT_360/Base/default/Blue_Sky_Metallic.jpg",
+				"DefaultImageMedium": "/images/home/breakthrough/general/2015/sonata-hybrid/BYO/shopping_tools/2015_sonata_hybrid_local_offer_b.png",
+				"DefaultImageLarge": "/images/home/breakthrough/general/2015/sonata-hybrid/BYO/shopping_tools/2015_sonata_hybrid_test_drive_base.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "sonata-hybrid-2015-en-US-24l4cylinderhybridwith6speedautomatictransmission",
+						"Price": "0",
+						"Name": "2.4L 4-Cylinder Hybrid with 6-Speed Automatic Transmission"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "sonata-hybrid-2015-en-US-limited",
+				"TrimName": "Limited",
+				"TrimDescription": "2015 Sonata Hybrid Limited",
+				"MPGCity": "36",
+				"MPGHighway": "40",
+				"NoOfSeats": "5",
+				"HorsePower": "199",
+				"Price": "29500",
+				"DefaultImageSmall": "/images/home/breakthrough/general/2015/sonata-hybrid/BYO/BYO_EXT_360/Limited/base/default/Blue_Sky_Metallic.jpg",
+				"DefaultImageMedium": "/images/home/breakthrough/general/2015/sonata-hybrid/BYO/shopping_tools/2015_sonata_hybrid_local_offer_b.png",
+				"DefaultImageLarge": "/images/home/breakthrough/general/2015/sonata-hybrid/BYO/shopping_tools/2015_sonata_hybrid_test_drive_ltd.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "sonata-hybrid-2015-en-US-limited24l4cylinderhybridwith6speedautomatictransmission",
+						"Price": "0",
+						"Name": "Limited 2.4L 4-Cylinder Hybrid with 6-Speed Automatic Transmission"
+					}
+					
+					
+				]
+			}
+			
+		]
+	},
+	
+
+
+	
+	{
+		"ID": "sonata-hybrid-2016-en-US",
+		"ModelName": "Sonata Hybrid",
+		"ModelYear": "2016",
+		"BasePrice": "26000",
+		"VehicleType": "Hybrid",
+		"Review": "",
+		"ReviewAuthor": "",
+		"Freights": [
+			{
+				"RegionId" : "CE",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "EA",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "SC",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "SO",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "WE",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "PC",
+				"StateId" : "",
+				"Freight" : "835"
+			}
+		],
+		"Trims": [
+			
+			
+			
+			{
+				"ID": "sonata-hybrid-2016-en-US-se",
+				"TrimName": "SE",
+				"TrimDescription": "2016 Sonata Hybrid SE",
+				"MPGCity": "40",
+				"MPGHighway": "44",
+				"NoOfSeats": "5",
+				"HorsePower": "193",
+				"Price": "26000",
+				"DefaultImageSmall": "/images/2016/sonata-hybrid/byo/exterior/se/default/diamond_white_pearl.jpg",
+				"DefaultImageMedium": "/images/2016/sonata-hybrid/byo/shopping_tools/2016-hyundai-sonata-hybrid-special-offers-272x119.png",
+				"DefaultImageLarge": "/images/2016/sonata-hybrid/byo/shopping_tools/2016-sonata-hybrid-payment-calculator-550x319-hybrid.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "sonata-hybrid-2016-en-US-20l4cylinderhybridwith6speedautomatictransmission",
+						"Price": "0",
+						"Name": "2.0L 4-Cylinder Hybrid with 6-Speed Automatic Transmission "
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "sonata-hybrid-2016-en-US-limited",
+				"TrimName": "Limited",
+				"TrimDescription": "2016 Sonata Hybrid Limited",
+				"MPGCity": "39",
+				"MPGHighway": "43",
+				"NoOfSeats": "5",
+				"HorsePower": "193",
+				"Price": "30100",
+				"DefaultImageSmall": "/images/2016/sonata-hybrid/byo/exterior/limited/base/default/diamond_white_pearl.jpg",
+				"DefaultImageMedium": "/images/2016/sonata-hybrid/byo/shopping_tools/2016-hyundai-sonata-hybrid-special-offers-272x119.png",
+				"DefaultImageLarge": "/images/2016/sonata-hybrid/byo/shopping_tools/2016-sonata-hybrid-payment-calculator-550x319-limited.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "sonata-hybrid-2016-en-US-limited20l4cylinderhybridwith6speedautomatictransmission",
+						"Price": "0",
+						"Name": "Limited 2.0L 4-Cylinder Hybrid with 6-Speed Automatic Transmission  "
+					}
+					
+					
+				]
+			}
+			
+		]
+	},
+	
+
+
+	
+	{
+		"ID": "sonata-plug-in-hybrid-2016-en-US",
+		"ModelName": "Sonata Plug-in Hybrid",
+		"ModelYear": "2016",
+		"BasePrice": "34600",
+		"VehicleType": "Hybrid",
+		"Review": "",
+		"ReviewAuthor": "",
+		"Freights": [
+			{
+				"RegionId" : "CE",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "EA",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "SC",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "SO",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "WE",
+				"StateId" : "",
+				"Freight" : "835"
+			},
+			{
+				"RegionId" : "PC",
+				"StateId" : "",
+				"Freight" : "835"
+			}
+		],
+		"Trims": [
+			
+			
+			
+			{
+				"ID": "sonata-plug-in-hybrid-2016-en-US-pluginhybrid",
+				"TrimName": "Plug-in Hybrid",
+				"TrimDescription": "2016 Sonata Plug-in Hybrid Plug-in Hybrid",
+				"MPGCity": "27",
+				"MPGHighway": "0",
+				"NoOfSeats": "5",
+				"HorsePower": "202",
+				"Price": "34600",
+				"DefaultImageSmall": "/images/2016/sonata-plug-in-hybrid/byo/exterior/plug-in-base/default/diamond_white_pearl.jpg",
+				"DefaultImageMedium": "/images/2016/sonata-plug-in-hybrid/byo/shopping_tools/2016_sonata_plug-in_hybrid-special-offers-272x119.png",
+				"DefaultImageLarge": "/images/2016/sonata-plug-in-hybrid/byo/shopping_tools/2016-sonata-plugin-hybrid-payment-calculator-550x319-base.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "sonata-plug-in-hybrid-2016-en-US-20l4cylinderpluginhybridwith6speedautomatictransmission",
+						"Price": "0",
+						"Name": "2.0L 4-Cylinder Plug-in Hybrid with 6-Speed Automatic Transmission"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "sonata-plug-in-hybrid-2016-en-US-limited",
+				"TrimName": "Limited",
+				"TrimDescription": "2016 Sonata Plug-in Hybrid Limited",
+				"MPGCity": "27",
+				"MPGHighway": "0",
+				"NoOfSeats": "5",
+				"HorsePower": "202",
+				"Price": "38600",
+				"DefaultImageSmall": "/images/2016/sonata-plug-in-hybrid/byo/exterior/plug-in-limited/default/diamond_white_pearl.jpg",
+				"DefaultImageMedium": "/images/2016/sonata-plug-in-hybrid/byo/shopping_tools/2016_sonata_plug-in_hybrid-special-offers-272x119.png",
+				"DefaultImageLarge": "/images/2016/sonata-plug-in-hybrid/byo/shopping_tools/2016-sonata-plugin-hybrid-payment-calculator-550x319-limited.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "sonata-plug-in-hybrid-2016-en-US-limited20l4cylinderpluginhybridwith6speedautomatictransmission",
+						"Price": "0",
+						"Name": "Limited 2.0L 4-Cylinder Plug-in Hybrid with 6-Speed Automatic Transmission"
+					}
+					
+					
+				]
+			}
+			
+		]
+	},
+	
+
+
+	
+	{
+		"ID": "tucson-2016-en-US",
+		"ModelName": "Tucson",
+		"ModelYear": "2016",
+		"BasePrice": "22700",
+		"VehicleType": "Crossovers",
+		"Review": "",
+		"ReviewAuthor": "",
+		"Freights": [
+			{
+				"RegionId" : "CE",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "EA",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "SC",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "SO",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "WE",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "PC",
+				"StateId" : "",
+				"Freight" : "895"
+			}
+		],
+		"Trims": [
+			
+			
+			
+			{
+				"ID": "tucson-2016-en-US-se",
+				"TrimName": "SE",
+				"TrimDescription": "2016 Tucson SE",
+				"MPGCity": "23",
+				"MPGHighway": "31",
+				"NoOfSeats": "5",
+				"HorsePower": "164",
+				"Price": "22700",
+				"DefaultImageSmall": "/images/2016/tucson/byo/exterior/se/default/coliseum_grey.jpg",
+				"DefaultImageMedium": "/images/2016/tucson/byo/shopping_tools/2016-hyundai-tucson-special-offers-272x119.png",
+				"DefaultImageLarge": "/images/2016/tucson/byo/shopping_tools/2016-hyundai-tucson-payment-calculator-550x319-se.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "tucson-2016-en-US-se20l6speedautomatictransmission",
+						"Price": "0",
+						"Name": "SE 2.0L 6-speed Automatic Transmission"
+					},
+					
+					
+					
+					
+					{
+						"ID": "tucson-2016-en-US-se20l6speedautomatictransmissionawd",
+						"Price": "1400",
+						"Name": "SE 2.0L 6-speed Automatic Transmission AWD"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "tucson-2016-en-US-eco",
+				"TrimName": "Eco",
+				"TrimDescription": "2016 Tucson Eco",
+				"MPGCity": "26",
+				"MPGHighway": "33",
+				"NoOfSeats": "5",
+				"HorsePower": "175",
+				"Price": "24150",
+				"DefaultImageSmall": "/images/2016/tucson/byo/exterior/eco/default/coliseum_grey.jpg",
+				"DefaultImageMedium": "/images/2016/tucson/byo/shopping_tools/2016-hyundai-tucson-special-offers-272x119.png",
+				"DefaultImageLarge": "/images/2016/tucson/byo/shopping_tools/2016-hyundai-tucson-payment-calculator-550x319-eco.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "tucson-2016-en-US-eco16l7speedecoshiftdualclutchtransmission",
+						"Price": "0",
+						"Name": "Eco 1.6L 7-speed EcoShift Dual Clutch Transmission"
+					},
+					
+					
+					
+					
+					{
+						"ID": "tucson-2016-en-US-eco16l7speedecoshiftdualclutchtransmissionawd",
+						"Price": "1400",
+						"Name": "Eco 1.6L 7-speed EcoShift Dual Clutch Transmission AWD"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "tucson-2016-en-US-sport",
+				"TrimName": "Sport",
+				"TrimDescription": "2016 Tucson Sport",
+				"MPGCity": "25",
+				"MPGHighway": "30",
+				"NoOfSeats": "5",
+				"HorsePower": "175",
+				"Price": "26150",
+				"DefaultImageSmall": "/images/2016/tucson/byo/exterior/sport/default/coliseum_grey.jpg",
+				"DefaultImageMedium": "/images/2016/tucson/byo/shopping_tools/2016-hyundai-tucson-special-offers-272x119.png",
+				"DefaultImageLarge": "/images/2016/tucson/byo/shopping_tools/2016-hyundai-tucson-payment-calculator-550x319-sport.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "tucson-2016-en-US-sport16l7speedecoshiftdualclutchtransmission",
+						"Price": "0",
+						"Name": "Sport 1.6L 7-speed EcoShift Dual Clutch Transmission"
+					},
+					
+					
+					
+					
+					{
+						"ID": "tucson-2016-en-US-sport16l7speedecoshiftdualclutchtransmissionawd",
+						"Price": "1400",
+						"Name": "Sport 1.6L 7-speed EcoShift Dual Clutch Transmission AWD"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "tucson-2016-en-US-limited",
+				"TrimName": "Limited",
+				"TrimDescription": "2016 Tucson Limited",
+				"MPGCity": "25",
+				"MPGHighway": "30",
+				"NoOfSeats": "5",
+				"HorsePower": "175",
+				"Price": "29900",
+				"DefaultImageSmall": "/images/2016/tucson/byo/exterior/limited/default/coliseum_grey.jpg",
+				"DefaultImageMedium": "/images/2016/tucson/byo/shopping_tools/2016-hyundai-tucson-special-offers-272x119.png",
+				"DefaultImageLarge": "/images/2016/tucson/byo/shopping_tools/2016-hyundai-tucson-payment-calculator-550x319-limited.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "tucson-2016-en-US-limited16l7speedecoshiftdualclutchtransmission",
+						"Price": "0",
+						"Name": "Limited 1.6L 7-speed EcoShift Dual Clutch Transmission"
+					},
+					
+					
+					
+					
+					{
+						"ID": "tucson-2016-en-US-limited16l7speedecoshiftdualclutchtransmissionawd",
+						"Price": "1400",
+						"Name": "Limited 1.6L 7-speed EcoShift Dual Clutch Transmission AWD"
+					}
+					
+					
+				]
+			}
+			
+		]
+	},
+	
+
+
+	
+	{
+		"ID": "santa-fe-2016-en-US",
+		"ModelName": "Santa Fe",
+		"ModelYear": "2016",
+		"BasePrice": "30400",
+		"VehicleType": "Crossovers",
+		"Review": "",
+		"ReviewAuthor": "",
+		"Freights": [
+			{
+				"RegionId" : "CE",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "EA",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "SC",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "SO",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "WE",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "PC",
+				"StateId" : "",
+				"Freight" : "895"
+			}
+		],
+		"Trims": [
+			
+			
+			
+			{
+				"ID": "santa-fe-2016-en-US-se",
+				"TrimName": "SE",
+				"TrimDescription": "2016 Santa Fe SE",
+				"MPGCity": "18",
+				"MPGHighway": "25",
+				"NoOfSeats": "7",
+				"HorsePower": "290",
+				"Price": "30400",
+				"DefaultImageSmall": "/images/2016/Santa-Fe/BYO/360/Exterior/se/default/Monaco_White.jpg",
+				"DefaultImageMedium": "/images/2016/Santa-Fe/BYO/shopping_tools/2016-santa-fe-special-offers-272x119.png",
+				"DefaultImageLarge": "/images/2016/Santa-Fe/BYO/shopping_tools/2016_hyundai_santa_fe_lwb_payment_calculator_550x319_se.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "santa-fe-2016-en-US-se33l6speedautomatictransmission",
+						"Price": "0",
+						"Name": "SE 3.3L 6-Speed Automatic Transmission"
+					},
+					
+					
+					
+					
+					{
+						"ID": "santa-fe-2016-en-US-se33l6speedautomatictransmissionawd",
+						"Price": "1750",
+						"Name": "SE 3.3L 6-Speed Automatic Transmission AWD"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "santa-fe-2016-en-US-limited",
+				"TrimName": "LIMITED",
+				"TrimDescription": "2016 Santa Fe LIMITED",
+				"MPGCity": "18",
+				"MPGHighway": "25",
+				"NoOfSeats": "6",
+				"HorsePower": "290",
+				"Price": "34500",
+				"DefaultImageSmall": "/images/2016/Santa-Fe/BYO/360/Exterior/limited/default/Monaco_White.jpg",
+				"DefaultImageMedium": "/images/2016/Santa-Fe/BYO/shopping_tools/2016-santa-fe-special-offers-272x119.png",
+				"DefaultImageLarge": "/images/2016/Santa-Fe/BYO/shopping_tools/2016_hyundai_santa_fe_lwb_payment_calculator_550x319_limited_ultimate.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "santa-fe-2016-en-US-limited33l6speedautomatictransmission",
+						"Price": "0",
+						"Name": "LIMITED 3.3L 6-Speed Automatic Transmission"
+					},
+					
+					
+					
+					
+					{
+						"ID": "santa-fe-2016-en-US-limited33l6speedautomatictransmissionawd",
+						"Price": "1750",
+						"Name": "LIMITED 3.3L 6-Speed Automatic Transmission AWD"
+					}
+					
+					
+				]
+			}
+			
+		]
+	},
+	
+
+
+	
+
+
+	
+	{
+		"ID": "santa-fe-sport-2016-en-US",
+		"ModelName": "Santa Fe Sport",
+		"ModelYear": "2016",
+		"BasePrice": "24950",
+		"VehicleType": "Crossovers",
+		"Review": "",
+		"ReviewAuthor": "",
+		"Freights": [
+			{
+				"RegionId" : "CE",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "EA",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "SC",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "SO",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "WE",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "PC",
+				"StateId" : "",
+				"Freight" : "895"
+			}
+		],
+		"Trims": [
+			
+			
+			
+			{
+				"ID": "santa-fe-sport-2016-en-US-sport",
+				"TrimName": "Sport",
+				"TrimDescription": "2016 Santa Fe Sport Sport",
+				"MPGCity": "20",
+				"MPGHighway": "27",
+				"NoOfSeats": "5",
+				"HorsePower": "190",
+				"Price": "24950",
+				"DefaultImageSmall": "/images/2016/santa-fe-sport/byo/exterior/sport/base/default/Marlin_Blue.jpg",
+				"DefaultImageMedium": "/images/2016/santa-fe-sport/byo/shopping_tools/2016_santa_fe_sport_special_offers.png",
+				"DefaultImageLarge": "/images/2016/santa-fe-sport/byo/shopping_tools/2016_santa_fe_sport_24_prem.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "santa-fe-sport-2016-en-US-sport24l6speedautomatictransmission",
+						"Price": "0",
+						"Name": "Sport 2.4L 6-Speed Automatic Transmission"
+					},
+					
+					
+					
+					
+					{
+						"ID": "santa-fe-sport-2016-en-US-sport24l6speedautomatictransmissionawd",
+						"Price": "1750",
+						"Name": "Sport 2.4L 6-Speed Automatic Transmission AWD"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "santa-fe-sport-2016-en-US-sport20t",
+				"TrimName": "Sport 2.0T",
+				"TrimDescription": "2016 Santa Fe Sport Sport 2.0T",
+				"MPGCity": "19",
+				"MPGHighway": "27",
+				"NoOfSeats": "5",
+				"HorsePower": "265",
+				"Price": "31250",
+				"DefaultImageSmall": "/images/2016/santa-fe-sport/byo/exterior/sport_20t/base/default/Marlin_Blue.jpg",
+				"DefaultImageMedium": "/images/2016/santa-fe-sport/byo/shopping_tools/2016_santa_fe_sport_special_offers.png",
+				"DefaultImageLarge": "/images/2016/santa-fe-sport/byo/shopping_tools/2016_santa_fe_sport_20t_base.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "santa-fe-sport-2016-en-US-sport20t6speedautomatictransmission",
+						"Price": "0",
+						"Name": "Sport 2.0T 6-Speed Automatic Transmission"
+					},
+					
+					
+					
+					
+					{
+						"ID": "santa-fe-sport-2016-en-US-sport20t6speedautomatictransmissionawd",
+						"Price": "1750",
+						"Name": "Sport 2.0T 6-Speed Automatic Transmission AWD"
+					}
+					
+					
+				]
+			}
+			
+		]
+	},
+	
+
+
+	
+	{
+		"ID": "santa-fe-sport-2017-en-US",
+		"ModelName": "Santa Fe Sport",
+		"ModelYear": "2017",
+		"BasePrice": "25350",
+		"VehicleType": "Crossovers",
+		"Review": "",
+		"ReviewAuthor": "",
+		"Freights": [
+			{
+				"RegionId" : "CE",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "EA",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "SC",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "SO",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "WE",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "PC",
+				"StateId" : "",
+				"Freight" : "895"
+			}
+		],
+		"Trims": [
+			
+			
+			
+			{
+				"ID": "santa-fe-sport-2017-en-US-sport",
+				"TrimName": "Sport",
+				"TrimDescription": "2017 Santa Fe Sport Sport",
+				"MPGCity": "21",
+				"MPGHighway": "27",
+				"NoOfSeats": "5",
+				"HorsePower": "185",
+				"Price": "25350",
+				"DefaultImageSmall": "/images/2017/santa-fe-sport/byo/exterior/sport/base/default/Marlin_Blue.jpg",
+				"DefaultImageMedium": "/images/2017/santa-fe-sport/byo/shopping_tools/2017-hyundai-santa-fe-sport-special-offers-272x119-disc.png",
+				"DefaultImageLarge": "/images/2017/santa-fe-sport/byo/shopping_tools/2017-hyundai-santa-fe-sport-payment-calculator-550x319-disc.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "santa-fe-sport-2017-en-US-sport24l6speedautomatictransmission",
+						"Price": "0",
+						"Name": "Sport 2.4L 6-Speed Automatic Transmission"
+					},
+					
+					
+					
+					
+					{
+						"ID": "santa-fe-sport-2017-en-US-sport24l6speedautomatictransmissionawd",
+						"Price": "1750",
+						"Name": "Sport 2.4L 6-Speed Automatic Transmission AWD"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "santa-fe-sport-2017-en-US-sport20t",
+				"TrimName": "Sport 2.0T",
+				"TrimDescription": "2017 Santa Fe Sport Sport 2.0T",
+				"MPGCity": "20",
+				"MPGHighway": "28",
+				"NoOfSeats": "5",
+				"HorsePower": "240",
+				"Price": "31700",
+				"DefaultImageSmall": "/images/2017/santa-fe-sport/byo/exterior/sport_20t/default/Marlin_Blue.jpg",
+				"DefaultImageMedium": "/images/2017/santa-fe-sport/byo/shopping_tools/2017-hyundai-santa-fe-sport-special-offers-272x119-disc.png",
+				"DefaultImageLarge": "/images/2017/santa-fe-sport/byo/shopping_tools/2017-hyundai-santa-fe-sport-payment-calculator-550x319-disc.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "santa-fe-sport-2017-en-US-sport20t6speedautomatictransmission",
+						"Price": "0",
+						"Name": "Sport 2.0T 6-Speed Automatic Transmission"
+					},
+					
+					
+					
+					
+					{
+						"ID": "santa-fe-sport-2017-en-US-sport20t6speedautomatictransmissionawd",
+						"Price": "1750",
+						"Name": "Sport 2.0T 6-Speed Automatic Transmission AWD"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "santa-fe-sport-2017-en-US-sport20tultimate",
+				"TrimName": "Sport 2.0T Ultimate",
+				"TrimDescription": "2017 Santa Fe Sport Sport 2.0T Ultimate",
+				"MPGCity": "20",
+				"MPGHighway": "27",
+				"NoOfSeats": "5",
+				"HorsePower": "240",
+				"Price": "36500",
+				"DefaultImageSmall": "/images/2017/santa-fe-sport/byo/exterior/sport_20t_ultimate/base/default/Marlin_Blue.jpg",
+				"DefaultImageMedium": "/images/2017/santa-fe-sport/byo/shopping_tools/2017-hyundai-santa-fe-sport-special-offers-272x119.png",
+				"DefaultImageLarge": "/images/2017/santa-fe-sport/byo/shopping_tools/2017-hyundai-santa-fe-sport-payment-calculator-550x319.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "santa-fe-sport-2017-en-US-sport20tultimate6speedautomatictransmission",
+						"Price": "0",
+						"Name": "Sport 2.0T Ultimate 6-Speed Automatic Transmission"
+					},
+					
+					
+					
+					
+					{
+						"ID": "santa-fe-sport-2017-en-US-sport20tultimate6speedautomatictransmissionawd",
+						"Price": "1750",
+						"Name": "Sport 2.0T Ultimate 6-Speed Automatic Transmission AWD"
+					}
+					
+					
+				]
+			}
+			
+		]
+	},
+	
+
+
+	
+	{
+		"ID": "genesis-coupe-2015-en-US",
+		"ModelName": "Genesis Coupe",
+		"ModelYear": "2015",
+		"BasePrice": "26750",
+		"VehicleType": "Performance / Premium",
+		"Review": "",
+		"ReviewAuthor": "",
+		"Freights": [
+			{
+				"RegionId" : "CE",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "EA",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "SC",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "SO",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "WE",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "PC",
+				"StateId" : "",
+				"Freight" : "895"
+			}
+		],
+		"Trims": [
+			
+			
+			
+			{
+				"ID": "genesis-coupe-2015-en-US-38",
+				"TrimName": "3.8",
+				"TrimDescription": "2015 Genesis Coupe 3.8",
+				"MPGCity": "16",
+				"MPGHighway": "25",
+				"NoOfSeats": "4",
+				"HorsePower": "348",
+				"Price": "26750",
+				"DefaultImageSmall": "/images/home/breakthrough/general/2015/genesis-coupe/BYO/byo_ext_360/38/default/Casablanca_White.jpg",
+				"DefaultImageMedium": "/images/home/breakthrough/general/2015/genesis-coupe/BYO/shopping_tools/Local_offers_2015_genesis_coupe.png",
+				"DefaultImageLarge": "/images/home/breakthrough/general/2015/genesis-coupe/BYO/shopping_tools/test_drive_38.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "genesis-coupe-2015-en-US-38l6speedmanualtransmissionrwd",
+						"Price": "0",
+						"Name": "3.8L 6-Speed Manual Transmission RWD "
+					},
+					
+					
+					
+					
+					{
+						"ID": "genesis-coupe-2015-en-US-38l8speedautomatictransmissionrwd",
+						"Price": "1200",
+						"Name": "3.8L 8-Speed Automatic Transmission RWD "
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "genesis-coupe-2015-en-US-38rspec",
+				"TrimName": "3.8 R-Spec",
+				"TrimDescription": "2015 Genesis Coupe 3.8 R-Spec",
+				"MPGCity": "16",
+				"MPGHighway": "24",
+				"NoOfSeats": "4",
+				"HorsePower": "348",
+				"Price": "29500",
+				"DefaultImageSmall": "/images/home/breakthrough/general/2015/genesis-coupe/BYO/byo_ext_360/september_update/38_rspec/default/Casablanca_White.jpg",
+				"DefaultImageMedium": "/images/home/breakthrough/general/2015/genesis-coupe/BYO/shopping_tools/Local_offers_2015_genesis_coupe.png",
+				"DefaultImageLarge": "/images/home/breakthrough/general/2015/genesis-coupe/BYO/shopping_tools/test_drive_38_rspec.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "genesis-coupe-2015-en-US-38lrspec6speedmanualtransmissionrwd",
+						"Price": "0",
+						"Name": "3.8L R-Spec 6-Speed Manual Transmission RWD "
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "genesis-coupe-2015-en-US-38ultimate",
+				"TrimName": "3.8 Ultimate",
+				"TrimDescription": "2015 Genesis Coupe 3.8 Ultimate",
+				"MPGCity": "16",
+				"MPGHighway": "25",
+				"NoOfSeats": "4",
+				"HorsePower": "348",
+				"Price": "33400",
+				"DefaultImageSmall": "/images/home/breakthrough/general/2015/genesis-coupe/BYO/byo_ext_360/september_update/38_Ultimate/default/Casablanca_White.jpg",
+				"DefaultImageMedium": "/images/home/breakthrough/general/2015/genesis-coupe/BYO/shopping_tools/Local_offers_2015_genesis_coupe.png",
+				"DefaultImageLarge": "/images/home/breakthrough/general/2015/genesis-coupe/BYO/shopping_tools/test_drive_38_ultimate.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "genesis-coupe-2015-en-US-38lultimate6speedmanualtransmissionrwd",
+						"Price": "0",
+						"Name": "3.8L Ultimate 6-Speed Manual Transmission RWD"
+					},
+					
+					
+					
+					
+					{
+						"ID": "genesis-coupe-2015-en-US-38lultimate8speedautomatictransmissionrwd",
+						"Price": "1200",
+						"Name": "3.8L Ultimate 8-Speed Automatic Transmission RWD"
+					}
+					
+					
+				]
+			}
+			
+		]
+	},
+	
+
+
+	
+	{
+		"ID": "genesis-coupe-2016-en-US",
+		"ModelName": "Genesis Coupe",
+		"ModelYear": "2016",
+		"BasePrice": "26950",
+		"VehicleType": "Performance / Premium",
+		"Review": "",
+		"ReviewAuthor": "",
+		"Freights": [
+			{
+				"RegionId" : "CE",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "EA",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "SC",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "SO",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "WE",
+				"StateId" : "",
+				"Freight" : "895"
+			},
+			{
+				"RegionId" : "PC",
+				"StateId" : "",
+				"Freight" : "895"
+			}
+		],
+		"Trims": [
+			
+			
+			
+			{
+				"ID": "genesis-coupe-2016-en-US-38",
+				"TrimName": "3.8",
+				"TrimDescription": "2016 Genesis Coupe 3.8",
+				"MPGCity": "16",
+				"MPGHighway": "25",
+				"NoOfSeats": "4",
+				"HorsePower": "348",
+				"Price": "26950",
+				"DefaultImageSmall": "/images/2016/genesis-coupe/BYO/exterior/38/default/Casablanca_White.jpg",
+				"DefaultImageMedium": "/images/2016/genesis-coupe/BYO/shopping_tools/Local_offers_2016_genesis_coupe.png",
+				"DefaultImageLarge": "/images/2016/genesis-coupe/BYO/shopping_tools/test_drive_38.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "genesis-coupe-2016-en-US-38l6speedmanualtransmissionrwd",
+						"Price": "0",
+						"Name": "3.8L 6-Speed Manual Transmission RWD"
+					},
+					
+					
+					
+					
+					{
+						"ID": "genesis-coupe-2016-en-US-38l8speedautomatictransmissionrwd",
+						"Price": "1200",
+						"Name": "3.8L 8-Speed Automatic Transmission RWD"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "genesis-coupe-2016-en-US-38rspec",
+				"TrimName": "3.8 R-Spec",
+				"TrimDescription": "2016 Genesis Coupe 3.8 R-Spec",
+				"MPGCity": "16",
+				"MPGHighway": "24",
+				"NoOfSeats": "4",
+				"HorsePower": "348",
+				"Price": "29900",
+				"DefaultImageSmall": "/images/2016/genesis-coupe/BYO/exterior/38_rspec/default/Casablanca_White.jpg",
+				"DefaultImageMedium": "/images/2016/genesis-coupe/BYO/shopping_tools/Local_offers_2016_genesis_coupe.png",
+				"DefaultImageLarge": "/images/2016/genesis-coupe/BYO/shopping_tools/test_drive_38_rspec.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "genesis-coupe-2016-en-US-38lrspec6speedmanualtransmissionrwd",
+						"Price": "0",
+						"Name": "3.8L R-Spec 6-Speed Manual Transmission RWD"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "genesis-coupe-2016-en-US-38ultimate",
+				"TrimName": "3.8 Ultimate",
+				"TrimDescription": "2016 Genesis Coupe 3.8 Ultimate",
+				"MPGCity": "16",
+				"MPGHighway": "25",
+				"NoOfSeats": "4",
+				"HorsePower": "348",
+				"Price": "33750",
+				"DefaultImageSmall": "/images/2016/genesis-coupe/BYO/exterior/38_Ultimate/default/Casablanca_White.jpg",
+				"DefaultImageMedium": "/images/2016/genesis-coupe/BYO/shopping_tools/Local_offers_2016_genesis_coupe.png",
+				"DefaultImageLarge": "/images/2016/genesis-coupe/BYO/shopping_tools/test_drive_38_ultimate.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "genesis-coupe-2016-en-US-38lultimate6speedmanualtransmissionrwd",
+						"Price": "0",
+						"Name": "3.8L Ultimate 6-Speed Manual Transmission RWD"
+					},
+					
+					
+					
+					
+					{
+						"ID": "genesis-coupe-2016-en-US-38lultimate8speedautomatictransmissionrwd",
+						"Price": "1200",
+						"Name": "3.8L Ultimate 8-Speed Automatic Transmission RWD"
+					}
+					
+					
+				]
+			}
+			
+		]
+	},
+	
+
+
+	
+	{
+		"ID": "genesis-2015-en-US",
+		"ModelName": "Genesis",
+		"ModelYear": "2015",
+		"BasePrice": "38000",
+		"VehicleType": "Performance / Premium",
+		"Review": "",
+		"ReviewAuthor": "",
+		"Freights": [
+			{
+				"RegionId" : "CE",
+				"StateId" : "",
+				"Freight" : "950"
+			},
+			{
+				"RegionId" : "EA",
+				"StateId" : "",
+				"Freight" : "950"
+			},
+			{
+				"RegionId" : "SC",
+				"StateId" : "",
+				"Freight" : "950"
+			},
+			{
+				"RegionId" : "SO",
+				"StateId" : "",
+				"Freight" : "950"
+			},
+			{
+				"RegionId" : "WE",
+				"StateId" : "",
+				"Freight" : "950"
+			},
+			{
+				"RegionId" : "PC",
+				"StateId" : "",
+				"Freight" : "950"
+			}
+		],
+		"Trims": [
+			
+			
+			
+			{
+				"ID": "genesis-2015-en-US-38",
+				"TrimName": "3.8",
+				"TrimDescription": "2015 Genesis 3.8",
+				"MPGCity": "18",
+				"MPGHighway": "29",
+				"NoOfSeats": "5",
+				"HorsePower": "311",
+				"Price": "38000",
+				"DefaultImageSmall": "/images/vehicle/genesis/2015/byo/ext/38/default/santiago_silver.jpg",
+				"DefaultImageMedium": "/images/vehicle/genesis/2015/shopping_tools/2015-genesis-local-offers-272x119.png",
+				"DefaultImageLarge": "/images/home/breakthrough/general/2015/genesis/BYO/shopping_tool/2015_genesis_38_base.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "genesis-2015-en-US-38l8speedautomatictransmissionrwd",
+						"Price": "0",
+						"Name": "3.8L 8-Speed Automatic Transmission RWD"
+					},
+					
+					
+					
+					
+					{
+						"ID": "genesis-2015-en-US-38l8speedautomatictransmissionawd",
+						"Price": "2500",
+						"Name": "3.8L 8-Speed Automatic Transmission AWD"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "genesis-2015-en-US-50",
+				"TrimName": "5.0 ",
+				"TrimDescription": "2015 Genesis 5.0 ",
+				"MPGCity": "15",
+				"MPGHighway": "23",
+				"NoOfSeats": "5",
+				"HorsePower": "420",
+				"Price": "51500",
+				"DefaultImageSmall": "/images/vehicle/genesis/2015/byo/ext/50/default/santiago_silver.jpg",
+				"DefaultImageMedium": "/images/vehicle/genesis/2015/shopping_tools/2015-genesis-local-offers-272x119.png",
+				"DefaultImageLarge": "/images/home/breakthrough/general/2015/genesis/BYO/shopping_tool/2015_genesis_50_base.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "genesis-2015-en-US-50l8speedautomatictransmissionrwd",
+						"Price": "0",
+						"Name": "5.0L 8-Speed Automatic Transmission RWD"
+					}
+					
+					
+				]
+			}
+			
+		]
+	},
+	
+
+
+	
+	{
+		"ID": "genesis-2016-en-US",
+		"ModelName": "Genesis",
+		"ModelYear": "2016",
+		"BasePrice": "38750",
+		"VehicleType": "Performance / Premium",
+		"Review": "",
+		"ReviewAuthor": "",
+		"Freights": [
+			{
+				"RegionId" : "CE",
+				"StateId" : "",
+				"Freight" : "950"
+			},
+			{
+				"RegionId" : "EA",
+				"StateId" : "",
+				"Freight" : "950"
+			},
+			{
+				"RegionId" : "SC",
+				"StateId" : "",
+				"Freight" : "950"
+			},
+			{
+				"RegionId" : "SO",
+				"StateId" : "",
+				"Freight" : "950"
+			},
+			{
+				"RegionId" : "WE",
+				"StateId" : "",
+				"Freight" : "950"
+			},
+			{
+				"RegionId" : "PC",
+				"StateId" : "",
+				"Freight" : "950"
+			}
+		],
+		"Trims": [
+			
+			
+			
+			{
+				"ID": "genesis-2016-en-US-38",
+				"TrimName": "3.8",
+				"TrimDescription": "2016 Genesis 3.8",
+				"MPGCity": "18",
+				"MPGHighway": "29",
+				"NoOfSeats": "5",
+				"HorsePower": "311",
+				"Price": "38750",
+				"DefaultImageSmall": "/images/2016/genesis/byo/exterior/38/default/santiago_silver.jpg",
+				"DefaultImageMedium": "/images/2016/Genesis/BYO/shopping_tools/2016-genesis-sedan-special-offers.png",
+				"DefaultImageLarge": "/images/2016/Genesis/BYO/shopping_tools/2016-genesis-sedan-payment-calculator-550x319-38-ultimate.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "genesis-2016-en-US-38l8speedautomatictransmissionrwd",
+						"Price": "0",
+						"Name": "3.8L 8-Speed Automatic Transmission RWD"
+					},
+					
+					
+					
+					
+					{
+						"ID": "genesis-2016-en-US-38l8speedautomatictransmissionawd",
+						"Price": "2500",
+						"Name": "3.8L 8-Speed Automatic Transmission AWD"
+					}
+					
+					
+				]
+			}
+			
+		]
+	},
+	
+
+
+	
+	{
+		"ID": "equus-2015-en-US",
+		"ModelName": "Equus",
+		"ModelYear": "2015",
+		"BasePrice": "61500",
+		"VehicleType": "Performance / Premium",
+		"Review": "",
+		"ReviewAuthor": "",
+		"Freights": [
+			{
+				"RegionId" : "CE",
+				"StateId" : "",
+				"Freight" : "950"
+			},
+			{
+				"RegionId" : "EA",
+				"StateId" : "",
+				"Freight" : "950"
+			},
+			{
+				"RegionId" : "SC",
+				"StateId" : "",
+				"Freight" : "950"
+			},
+			{
+				"RegionId" : "SO",
+				"StateId" : "",
+				"Freight" : "950"
+			},
+			{
+				"RegionId" : "WE",
+				"StateId" : "",
+				"Freight" : "950"
+			},
+			{
+				"RegionId" : "PC",
+				"StateId" : "",
+				"Freight" : "950"
+			}
+		],
+		"Trims": [
+			
+			
+			
+			{
+				"ID": "equus-2015-en-US-signature",
+				"TrimName": "Signature",
+				"TrimDescription": "2015 Equus Signature",
+				"MPGCity": "15",
+				"MPGHighway": "23",
+				"NoOfSeats": "5",
+				"HorsePower": "429",
+				"Price": "61500",
+				"DefaultImageSmall": "/images/vehicle/equus/2015/BYO_ext_360/2013_August_update/sig/default/black_noir_pearl.jpg",
+				"DefaultImageMedium": "/images/vehicle/equus/2015/side_view/2014_equus_sig_sideview.png",
+				"DefaultImageLarge": "/images/vehicle/equus/2015/side_view/2015_equus_payment_calculator_550x319_signature.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "equus-2015-en-US-signature50l8speedautomatictransmissionrwd",
+						"Price": "0",
+						"Name": "Signature 5.0L 8-Speed Automatic Transmission RWD"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "equus-2015-en-US-ultimate",
+				"TrimName": "Ultimate",
+				"TrimDescription": "2015 Equus Ultimate",
+				"MPGCity": "15",
+				"MPGHighway": "23",
+				"NoOfSeats": "5",
+				"HorsePower": "429",
+				"Price": "68750",
+				"DefaultImageSmall": "/images/vehicle/equus/2015/BYO_ext_360/2013_August_update/ult/default/black_noir_pearl.jpg",
+				"DefaultImageMedium": "/images/vehicle/equus/2015/side_view/2014_equus_ult_sideview.png",
+				"DefaultImageLarge": "/images/vehicle/equus/2015/side_view/2015_equus_payment_calculator_550x319_ultimate.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "equus-2015-en-US-ultimate50l8speedautomatictransmissionrwd",
+						"Price": "0",
+						"Name": "Ultimate 5.0L 8-Speed Automatic Transmission RWD"
+					}
+					
+					
+				]
+			}
+			
+		]
+	},
+	
+
+
+	
+	{
+		"ID": "equus-2016-en-US",
+		"ModelName": "Equus",
+		"ModelYear": "2016",
+		"BasePrice": "61500",
+		"VehicleType": "Performance / Premium",
+		"Review": "",
+		"ReviewAuthor": "",
+		"Freights": [
+			{
+				"RegionId" : "CE",
+				"StateId" : "",
+				"Freight" : "950"
+			},
+			{
+				"RegionId" : "EA",
+				"StateId" : "",
+				"Freight" : "950"
+			},
+			{
+				"RegionId" : "SC",
+				"StateId" : "",
+				"Freight" : "950"
+			},
+			{
+				"RegionId" : "SO",
+				"StateId" : "",
+				"Freight" : "950"
+			},
+			{
+				"RegionId" : "WE",
+				"StateId" : "",
+				"Freight" : "950"
+			},
+			{
+				"RegionId" : "PC",
+				"StateId" : "",
+				"Freight" : "950"
+			}
+		],
+		"Trims": [
+			
+			
+			
+			{
+				"ID": "equus-2016-en-US-signature",
+				"TrimName": "Signature",
+				"TrimDescription": "2016 Equus Signature",
+				"MPGCity": "15",
+				"MPGHighway": "23",
+				"NoOfSeats": "5",
+				"HorsePower": "429",
+				"Price": "61500",
+				"DefaultImageSmall": "/images/2016/equus/byo/exterior/sig/default/Caspian_black.jpg",
+				"DefaultImageMedium": "/images/2016/equus/byo/shopping_tools/2016_equus_sig_sideview.png",
+				"DefaultImageLarge": "/images/2016/equus/byo/shopping_tools/2016_equus_payment_calculator_550x319_signature.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "equus-2016-en-US-signature50l8speedautomatictransmissionrwd",
+						"Price": "0",
+						"Name": "Signature 5.0L 8-Speed Automatic Transmission RWD"
+					}
+					
+					
+				]
+			},
+			
+			
+			{
+				"ID": "equus-2016-en-US-ultimate",
+				"TrimName": "Ultimate",
+				"TrimDescription": "2016 Equus Ultimate",
+				"MPGCity": "15",
+				"MPGHighway": "23",
+				"NoOfSeats": "5",
+				"HorsePower": "429",
+				"Price": "68750",
+				"DefaultImageSmall": "/images/2016/equus/byo/exterior/ult/default/Caspian_black.jpg",
+				"DefaultImageMedium": "/images/vehicle/equus/2015/side_view/2014_equus_ult_sideview.png",
+				"DefaultImageLarge": "/images/vehicle/equus/2015/side_view/2015_equus_payment_calculator_550x319_ultimate.png",
+				"Disclaimer": "",
+				"Powertrains": [
+					
+					
+					
+					{
+						"ID": "equus-2016-en-US-ultimate50l8speedautomatictransmissionrwd",
+						"Price": "0",
+						"Name": "Ultimate 5.0L 8-Speed Automatic Transmission RWD"
+					}
+					
+					
+				]
+			}
+			
+		]
+	}
+	
+
+
+	
+
+]
