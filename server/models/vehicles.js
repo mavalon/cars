@@ -138,7 +138,6 @@ module.exports = {
         const args = process.argv;
         const urls = (args.slice(2));
 
-        console.log(urls[0]);
         if (urls.length === 0) {
             console.log('specify a specifications model');
             process.exit();
@@ -160,7 +159,6 @@ module.exports = {
         try {
             console.log('start import');
             const url = `https://www.hyundaiusa.com/${urls[0]}/specifications.aspx`;
-            console.log(url);
             htmlToJson.request(url, {
                 divs: ['.specs_trim_table_container', ($divs) => {
                     return $divs;
@@ -175,7 +173,6 @@ module.exports = {
                     const section = result.divs[m];
                     const sectionName = section.find('h3').text();
                     console.log(`section: ${sectionName}`);
-                    //console.log(`m: ${m}`);
 
                     const subsections = section.find('.static_table');
 
@@ -183,7 +180,6 @@ module.exports = {
 
                     // loop through all subsections
                     for (let s = 0; s < subsections.length; s++) {
-                        //console.log(`s: ${m}|${s}`);
                         const subsection = subsections[s];
                         const subsectionObj = {};
                         let thead = subsection.children.find(x => x.name === 'thead').children.find(y => y.name === 'tr');
@@ -196,16 +192,8 @@ module.exports = {
                         for (let r = 0; r < thead.children.length; r++) {
                             let row = thead.children[r];
                             if (row.name === 'th') {
-                                //console.log(`r: ${m}|${s}|${r}`);
                                 if (begin) {
                                     // subsection name
-                                    /*
-                                    if (row.children[0].name === 'span') {
-                                        subsectionObj.name = row.children[0].children[0].data;
-                                    } else {
-                                        subsectionObj.name = row.children[0].data;
-                                    }
-                                    */
                                     subsectionObj.name = getLowestChild(row.children[0]);
                                     begin = false;
                                 } else {
@@ -223,7 +211,6 @@ module.exports = {
                             let row = tbody.children[b];
 
                             if (row.name === 'tr') {
-                                //console.log(`b: ${m}|${s}|${b}`);
                                 let trimCount = 0;
                                 let start = true;
                                 let spec = {
@@ -236,10 +223,6 @@ module.exports = {
                                     let cell = row.children[c];
 
                                     if (cell.name === 'td') {
-                                        //console.log(`c: ${m}|${s}|${b}|${c}`);
-                                        //for (let c = 0; c < row.children.length; c++) {
-                                        //let cell = row.children[c];
-                                        //if (cell.name === 'td') {
                                         if (start) {
                                             spec.name = getLowestChild(cell.children[0]);
                                             start = false;
@@ -251,30 +234,12 @@ module.exports = {
                                             spec.trims.push(trim);
                                             trimCount++;
                                         }
-                                       //}
-                                        //}
                                     }
                                 }
                                 subsectionObj.specs.push(spec);
                             }
-
-                            /*
-                             let cell = tbody.children[b];
-                             if (row.name === 'td') {
-                             */
-                            //}
                         }
 
-                        /*
-                         if (heads.children.length > 0) {
-                         subsectionObj.name = heads.children[0].data;
-                         heads.shift();
-                         let trims = heads.map((header) => {
-                         return header.children[0].data;
-                         });
-                         subsectionObj.trims = trims;
-                         }
-                         */
                         subsectionsArr.push(subsectionObj);
                     }
 
@@ -285,16 +250,13 @@ module.exports = {
                     obj.sections.push(sectionObject);
                 }
 
-                ///console.log(JSON.stringify(obj));
                 const file = path.normalize(`${cwd}/data/json/${urls[0]}.json`);
 
                 jsonfile.writeFile(file, obj, (err) => {
                     console.log('errr');
                     console.error(err);
                     process.exit();
-                })
-                //process.exit();
-                //res.send(JSON.stringify(obj));
+                });
             });
         } catch (ass) {
             console.log(ass);
