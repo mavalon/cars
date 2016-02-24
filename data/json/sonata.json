@@ -1,0 +1,4364 @@
+{
+    "sections": [
+        {
+            "category": "PRICING/PACKAGES\t",
+            "specifications": [
+                {
+                    "name": "Pricing",
+                    "trims": [
+                        "SE",
+                        "Sport",
+                        "ECO",
+                        "LIMITED",
+                        "SPORT 2.0T",
+                        "Limited 2.0T"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Starting MSRP",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "$21,750 "
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "$23,400 "
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "$23,725 "
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "$27,350 "
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "$28,925 "
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "$34,075 "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EPA MILEAGE ESTIMATES*/FUEL CAPACITY",
+            "specifications": [
+                {
+                    "name": "EPA Mileage Estimates/Fuel Capacity",
+                    "trims": [
+                        "SE",
+                        "SPORT",
+                        "ECO",
+                        "LIMITED",
+                        "SPORT 2.0T",
+                        "Limited 2.0T"
+                    ],
+                    "specs": [
+                        {
+                            "name": "City/Highway/Combined",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "25 / 38 / 30"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "25 / 36 / 29 "
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "28 / 38 / 32 "
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "25 / 36 / 29 "
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "23 / 32 / 26"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "21 / 31 / 25"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Fuel tank capacity (gal.)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "18.5"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "18.5"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "18.5"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "18.5"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "18.5"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "18.5"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "MECHANICAL",
+            "specifications": [
+                {
+                    "name": "engine",
+                    "trims": [
+                        "SE",
+                        "Sport",
+                        "ECO",
+                        "LIMITED",
+                        "SPORT 2.0T",
+                        "Limited 2.0T"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Type",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Inline 4-cylinder"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Inline 4-cylinder"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Inline 4-cylinder Twin-scroll Turbo"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Inline 4-cylinder"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Inline 4-cylinder Twin-scroll Turbo"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Inline 4-cylinder Twin-scroll Turbo"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Displacement (liters)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "2.4"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "2.4"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "1.6"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "2.4"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "2.0"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "2.0"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Horsepower @ RPM\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "185 @ 6000 "
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "185 @ 6000"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "178 @ 5500"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "185 @ 6000"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "245 @ 6000"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "245 @ 6000"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Torque (lb.-ft.) @ RPM",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "178 @ 4000 "
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "178 @ 4000"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "195 @ 1500-4500"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "178 @ 4000"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "260 @ 1350-4000"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "260 @ 1350-4000"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Compression ratio ",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "11.3:1"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "11.3:1"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "10.0:1"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "11.3:1"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "10.0:1"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "10.0:1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Valve train",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "DOHC 16-valve with D-CVVT"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "DOHC 16-valve with D-CVVT"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "DOHC 16-valve with D-CVVT"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "DOHC 16-valve with D-CVVT"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "DOHC 16-valve with D-CVVT"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "DOHC 16-valve with D-CVVT"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Fuel system: Gasoline Direct Injection (GDI)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Drivetrain",
+                    "trims": [
+                        "SE",
+                        "SPORT",
+                        "ECO",
+                        "LIMITED",
+                        "SPORT 2.0T",
+                        "Limited 2.0T"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Front Wheel Drive (FWD)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "6-speed automatic transmission with SHIFTRONIC",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "7-speed EcoShift",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Final drive ratio",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "2.885"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "2.885"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "4.294 / 3.174"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "2.885"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "2.885"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "2.885"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Drive Mode Select",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Body / Suspension /\n\t\t\t\t\tChassis",
+                    "trims": [
+                        "SE",
+                        "Sport",
+                        "ECO",
+                        "LIMITED",
+                        "SPORT 2.0T",
+                        "Limited 2.0T"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Body construction: Unibody\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front suspension: MacPherson Strut with coil springs",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear suspension: Independent multi-link design",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sport-tuned suspension",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Column-mounted Motor-Driven Power Steering (C-MDPS)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rack-mounted Motor-Driven Power Steering (R-MDPS)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sport-tuned steering",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Turning diameter, curb-to-curb (ft.)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "35.8"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "35.8"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "35.8"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "35.8"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "35.8"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "35.8"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power 4-wheel disc brakes\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "16-inch alloy wheels with 205/65R16 tires",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "17-inch alloy wheels with 215/55R17 tires",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "18-inch alloy wheels with 235/45R18 tires",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EXTERIOR DIMENSIONS",
+            "specifications": [
+                {
+                    "name": "EXTERIOR Dimensions",
+                    "trims": [
+                        "SE",
+                        "SPORT",
+                        "ECO",
+                        "LIMITED",
+                        "SPORT 2.0T",
+                        "Limited 2.0T"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Wheelbase (in.)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "110.4"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "110.4"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "110.4"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "110.4"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "110.4"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "110.4"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Length (in.)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "191.1"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "191.1"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "191.1"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "191.1"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "191.1"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "191.1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Width (in.)(excludes mirrors)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "73.4"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "73.4"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "73.4"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "73.4"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "73.4"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "73.4"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Height (in.)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "58.1"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "58.1"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "58.1"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "58.1"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "58.1"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "58.1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "WHEELS",
+                    "trims": [
+                        "SE",
+                        "SPORT",
+                        "ECO",
+                        "LIMITED",
+                        "SPORT 2.0T",
+                        "Limited 2.0T"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Track (in., front/rear), 16-inch wheels",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "63.5 / 63.8"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "63.5 / 63.8"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Track (in., front/rear), 17-inch wheels",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "63.1 / 63.3"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "63.1 / 63.3"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Track (in., front/rear), 18-inch wheels",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "62.9 / 63.1"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "62.9 / 63.1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "WEIGHT",
+                    "trims": [
+                        "SE",
+                        "SPORT",
+                        "ECO",
+                        "LIMITED",
+                        "SPORT 2.0T",
+                        "Limited 2.0T"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Curb weight (lbs.)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "3,250"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "3,311"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "3,219"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "3,380"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "3,492"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "3,589"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "INTERIOR DIMENSIONS",
+            "specifications": [
+                {
+                    "name": "INTERIOR Dimensions",
+                    "trims": [
+                        "SE",
+                        "SPORT",
+                        "ECO",
+                        "LIMITED",
+                        "SPORT 2.0T",
+                        "Limited 2.0T"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Head room (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "40.4 / 38.0"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "40.4 / 38.0"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "40.4 / 38.0"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "40.4 / 38.0"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "40.4 / 38.0"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "40.4 / 38.0"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leg room (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "45.5 / 35.6"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "45.5 / 35.6"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "45.5 / 35.6"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "45.5 / 35.6"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "45.5 / 35.6"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "45.5 / 35.6"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Shoulder room (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "57.9 / 56.5"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "57.9 / 56.5"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "57.9 / 56.5"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "57.9 / 56.5"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "57.9 / 56.5"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "57.9 / 56.5"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hip room (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "55.3 / 56.1"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "55.3 / 56.1"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "55.3 / 56.1"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "55.3 / 56.1"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "55.3 / 56.1"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "55.3 / 56.1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "INTERIOR VOLUME",
+                    "trims": [
+                        "SE",
+                        "SPORT",
+                        "ECO",
+                        "LIMITED",
+                        "SPORT 2.0T",
+                        "Limited 2.0T"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Passenger volume (cu. ft.)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "106.1"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "106.1"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "106.1"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "106.1"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "106.1"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "106.1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cargo volume (cu. ft.)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "16.3"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "16.3"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "16.3"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "16.3"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "16.3"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "16.3"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Total interior volume (cu. ft.)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "122.4"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "122.4"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "122.4"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "122.4"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "122.4"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "122.4"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "SAFETY FEATURES",
+            "specifications": [
+                {
+                    "name": "Safety Features",
+                    "trims": [
+                        "SE",
+                        "Sport",
+                        "ECO",
+                        "LIMITED",
+                        "SPORT 2.0T",
+                        "Limited 2.0T"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Driver's blind spot mirror\n",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Blind Spot Detection (BSD) with Rear Cross-traffic Alert and\n\t\t\t\t\t\t\tLane Change Assist",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rearview camera\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lane Departure Warning (LDW)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Smart Cruise Control with stop/start capability",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear Parking Sensors",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Automatic Emergency Braking (AEB)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tire Pressure Monitoring System (TPMS) with individual tire\n\t\t\t\t\t\t\tpressure indicator",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Automatic High Beam Assist",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Vehicle Stability Management (VSM) system",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electronic Stability Control (ESC)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Traction Control System (TCS)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Anti-lock Braking System (ABS)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electronic Brake-force Distribution (EBD)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Brake Assist (BA)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Advanced dual front airbags (SRS) with Occupant\n\t\t\t\t\t\t\tClassification System (OCS)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Driver and front passenger side-impact airbags (SRS)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Side-curtain airbags (SRS) (front and rear passengers)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Driver's knee airbag",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Energy-absorbing steering column\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front seatbelt pretensioners and force limiters",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear LATCH (Lower Anchors and Tethers for CHildren)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power window lock-out button",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front and rear crumple zones\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Remote keyless entry system with alarm",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EXTERIOR FEATURES",
+            "specifications": [
+                {
+                    "name": "Exterior Features",
+                    "trims": [
+                        "SE",
+                        "Sport",
+                        "ECO",
+                        "LIMITED",
+                        "SPORT 2.0T",
+                        "Limited 2.0T"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Hands-free smart trunk",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dual fold-away heated power bodycolor side mirrors",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Side mirror-mounted turn-signal indicators",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Center High-Mount Stop Light (CHMSL)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bodycolor exterior door handles",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chrome exterior door handles with welcome light",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chrome front grille",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sport front grille",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chrome window-belt molding",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Glossy DLO surround and mirror housing",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Side rocker panels with chrome molding",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sport appearance front bumper",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear diffuser",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chrome-tipped single exhaust",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chrome-tipped dual exhaust",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chrome-tipped quad exhaust",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear lip spoiler",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Solar control glass",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Variable intermittent windshield wipers/washer",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Shark-fin antenna",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Projector headlights",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "HID Xenon headlights",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Automatic headlights",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "LED Daytime Running Lights (DRL)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "LED tail lights",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Proximity Key entry with push button start",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "INTERIOR FEATURES",
+            "specifications": [
+                {
+                    "name": "Interior Features",
+                    "trims": [
+                        "SE",
+                        "Sport",
+                        "ECO",
+                        "LIMITED",
+                        "SPORT 2.0T",
+                        "LIMITED 2.0T"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Panoramic tilt-and-slide sunroof",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power tilt-and-slide sunroof",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Air conditioning\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dual front automatic temperature control",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Floor console-mounted rear vents",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power windows with driver’s auto-down/up",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power auto-down/up passenger window ",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power door locks",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear side window sunshades",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "8-way power driver seat with power adjustable lumbar support\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "6-way power passenger seat",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Integrated Memory System (IMS) for driver's seat and side\n\t\t\t\t\t\t\tmirrors",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Heated front seats",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Heated rear seats",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Ventilated front seats",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Premium cloth seating surfaces",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leather sport bolster with cloth insert seating surfaces\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leather seating surfaces",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leather seating surfaces with stitching and sport bolsters\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leatherette door trim inserts\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leatherette door trim inserts with stitching",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "60/40 split fold-down rear seatback",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dual illuminated vanity mirrors",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Metalgrain appearance accents\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Carbon fiber appearance accents",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "3D tech appearance accents",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Woodgrain appearance accents",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Premium door sill plates",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chrome interior door handles",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Aluminum pedals",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "D-cut steering wheel",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sport leather-wrapped shift knob\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leather-wrapped steering wheel and shift knob",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tilt-and-telescopic steering wheel",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Heated steering wheel",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Steering-wheel-mounted audio,\n\t\t\t\t\t\t\tBluetooth",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Steering-wheel-mounted paddle shifters",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bluetooth",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Blue Link",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Smartphone/USB and auxiliary input\n\t\t\t\t\t\t\tjacks",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Auto-dimming rearview mirror with HomeLink",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electronic Parking Brake with Automatic Vehicle Hold",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "AM/FM/SiriusXM/CD/MP3 audio system with 6 speakers",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dimension",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Infinity",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "HD Radio",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Android Auto",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "7-inch color touchscreen audio",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "8-inch touchscreen navigation",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "4.2-inch color trip computer with Electroluminescent Gauge Cluster",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "SPORT 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED 2.0T",
+                                    "value": "Standard"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "WARRANTY",
+            "specifications": []
+        }
+    ]
+}

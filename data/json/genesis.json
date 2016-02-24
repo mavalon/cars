@@ -1,0 +1,2201 @@
+{
+    "sections": [
+        {
+            "category": "PRICING/PACKAGES",
+            "specifications": [
+                {
+                    "name": "Pricing",
+                    "trims": [
+                        "3.8",
+                        "",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Starting MSRP (Rear Wheel Drive)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "$38,750"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Starting MSRP (All Wheel Drive)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "$41,250"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EPA MILEAGE ESTIMATES*/FUEL CAPACITY",
+            "specifications": [
+                {
+                    "name": "EPA MILEAGE ESTIMATES/FUEL CAPACITY\n\t\t\t\t",
+                    "trims": [
+                        "3.8",
+                        "",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "City/Highway/Combined (Rear Wheel Drive)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "18 / 29 / 22"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "City/Highway/Combined (All Wheel Drive)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "16 / 25 / 19"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Fuel-tank capacity (gal.)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "20.3"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "MECHANICAL",
+            "specifications": [
+                {
+                    "name": "Engine",
+                    "trims": [
+                        "3.8",
+                        "",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Type",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "V6"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Displacement (liters)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "3.8"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Horsepower @ RPM ",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "311 @ 6000"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Torque (lb.-ft. @ RPM)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "293 @ 5000\n\t\t\t\t\t\t"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Compression ratio",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "11.5:1"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Valve train\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "DOHC 24-valve"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Gasoline Direct Injection (GDI)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Drivetrain /\n\t\t\t\t\tTransmission",
+                    "trims": [
+                        "3.8",
+                        "",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Rear Wheel Drive (RWD)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "HTRAC All Wheel Drive (AWD)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "8-speed automatic transmission with\n\t\t\t\t\t\t\tSHIFTRONIC",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Final drive ratio\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "3.909\n\t\t\t\t\t\t"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Body / Suspension /\n\t\t\t\t\tChassis",
+                    "trims": [
+                        "3.8",
+                        "",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Body construction: Unibody",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front suspension: Multi-link with high performance gas shock\n\t\t\t\t\t\t\tabsorbers\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear suspension: Multi-link with high performance gas shock\n\t\t\t\t\t\t\tabsorbers",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Intelligent Drive Mode\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rack-mounted Motor-Driven Power Steering (R-MDPS)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Turning diameter, curb-to-curb (ft.)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "36.2\n\t\t\t\t\t\t"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power 4-wheel disc brakes, front ventilated",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "4-wheel Anti-lock Braking System (ABS) with Electronic Brake-force Distribution (EBD) and Brake Assist (BA)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "18-inch premium alloy wheels with P245/45R18 tires",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EXTERIOR DIMENSIONS",
+            "specifications": [
+                {
+                    "name": "Exterior Dimensions",
+                    "trims": [
+                        "3.8",
+                        "",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Wheelbase (in.)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "118.5"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Length (in.)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "196.5"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Width (excludes mirrors) (in.)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "74.4"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Height (in.)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "58.3"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Wheels  ",
+                    "trims": [
+                        "3.8",
+                        "",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Track (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "64.1 / 65.3"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Weight",
+                    "trims": [
+                        "3.8",
+                        "",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Curb weight (lbs.)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "4,138 (RWD)"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "INTERIOR DIMENSIONS",
+            "specifications": [
+                {
+                    "name": "Interior Dimensions",
+                    "trims": [
+                        "3.8",
+                        "",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Head room (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "41.1 / 38.2"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leg room (in., front/rear)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "45.7 / 35.0"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Shoulder room (in., front/rear)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "58.3 / 57.1"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hip room (in., front/rear)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "55.7 / 54.8"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Interior Volume",
+                    "trims": [
+                        "3.8",
+                        "",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Total interior volume (cu. ft.)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "123.0"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Passenger volume (cu. ft.)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "107.7"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cargo volume (cu. ft.)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "15.3"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "SAFETY FEATURES",
+            "specifications": [
+                {
+                    "name": "SAFETY FEATURES",
+                    "trims": [
+                        "3.8",
+                        "",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Rearview camera",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Vehicle Stability Management (VSM) system ",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electronic Stability Control (ESC)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Traction Control System (TCS)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "4-wheel Anti-lock Braking System (ABS) with Electronic Brake-force Distribution (EBD) and Brake Assist (BA)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Nine airbags: Advanced dual front airbags with Occupant Classification System (OCS), front and rear seat-mounted side-impact airbags, roof-mounted side-curtain airbags and driver's knee airbag",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Automatic Emergency Braking (AEB)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Smart Cruise Control (SCC) with stop/start functionality",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front and Rear Parking Sensors with Rear Cross-traffic Alert",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lane Departure Warning (LDW)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lane Keep Assist",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Blind Spot Detection (BSD)   ",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Haptic steering wheel",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tire Pressure Monitoring System (TPMS) with individual tire pressure indicator",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Energy-absorbing Front Seats",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front and rear crumple zones",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Energy-absorbing steering column",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electronic Parking Brake (EPB) with Automatic Vehicle Hold (AVH)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "High Beam Assist",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "CO",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EXTERIOR FEATURES",
+            "specifications": [
+                {
+                    "name": "EXTERIOR FEATURES",
+                    "trims": [
+                        "3.8",
+                        "",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Dual power-folding heated side mirrors with approach lamps (Genesis name and logo)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Side mirrors with turn-signal indicators",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Auto-dimming side mirrors",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Acoustic laminated windshield and side windows; front door water-repellant glass",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Automatic rain-sensing wipers",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Auto-defogging windshield with humidity sensor",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hands-free smart trunk",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power trunk lid",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dual asymmetrical exhaust tips integrated with rear bumper",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chrome insert door handles",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Projector headlights ",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "High Intensity Discharge (HID) auto-leveling headlights\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Automatic headlights",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "High Beam Assist",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "LED Daytime Running Lights",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front LED fog lights",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "LED tail lights",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Proximity Key entry ",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "INTERIOR FEATURES",
+            "specifications": [
+                {
+                    "name": "INTERIOR FEATURES",
+                    "trims": [
+                        "3.8",
+                        "",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Panoramic tilt-and-slide sunroof",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dual automatic temperature control",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dual-mode vent control and CO",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power windows with front and rear auto-down/up with pinch\n\t\t\t\t\t\t\tprotection ",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power door locks\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "12-way power driver seat with power lumbar support",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Energy-absorbing Front Seats",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power driver seat cushion extension and side bolsters",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leather seating surfaces",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Premium leather seating surfaces",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Heated front seats",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Heated rear seats",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Ventilated front seats",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front seatback pockets",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Integrated Memory System (IMS) for driver seat, outside\n\t\t\t\t\t\t\tmirrors and steering column ",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Center armrest with dual cupholders and control console\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leather-wrapped steering wheel and shift knob",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tilt-and-telescopic steering wheel",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power tilt-and-telescopic steering wheel",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Heated steering wheel",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Steering-wheel-mounted cruise,\n\t\t\t\t\t\t\tBluetooth",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Steering-wheel-mounted paddle shifters",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Glossy wood hydrographic interior trim",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Genuine matte-finish wood trim",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Aluminum interior accents",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Metalgrain interior accents",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Intelligent Drive Mode",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bluetooth",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hyundai Blue Link",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "SiriusXM Travel Link",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Smartphone/USB and auxiliary input jacks\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Auto-dimming inside rearview mirror with compass and HomeLink",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "AM/FM/SiriusXM/CD/MP3/HD Radio",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lexicon",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lexicon",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Navigation system with 8-inch display",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Navigation system with HD 9.2-inch LCD screen and DIS\n\t\t\t\t\t\t\tMultimedia Controller",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electroluminescent Gauge Cluster with 4.2-inch TFT LCD\n\t\t\t\t\t\t\tscreen",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electroluminescent Gauge Cluster with 7-inch TFT LCD screen\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Heads-up Display (HUD) ",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power rear sunshade",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Manual rear side-window sunshade",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Proximity Key with push button start",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "WARRANTY",
+            "specifications": []
+        }
+    ]
+}

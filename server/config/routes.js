@@ -20,5 +20,7 @@ module.exports = app => {
 
     app.get('/api/import/models', vehicles.importModels);
 
+    app.get('/api/import/specs', vehicles.importSpecs);
+
     app.get('*', index);
 };

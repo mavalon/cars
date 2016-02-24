@@ -1,0 +1,2795 @@
+{
+    "sections": [
+        {
+            "category": "PRICING/PACKAGES\t",
+            "specifications": [
+                {
+                    "name": "PRICING",
+                    "trims": [
+                        "VELOSTER ",
+                        "Veloster Turbo R-Spec",
+                        "Veloster Turbo Rally",
+                        "Veloster Turbo"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Starting MSRP (manual transmission)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "$18,000"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "$21,600"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "$23,950"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "$22,600"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Starting MSRP (EcoShift",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "$19,100"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "$23,800"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EPA MILEAGE ESTIMATES*/FUEL CAPACITY",
+            "specifications": [
+                {
+                    "name": "EPA Mileage Estimates/Fuel Capacity",
+                    "trims": [
+                        "VELOSTER ",
+                        "Veloster Turbo R-Spec",
+                        "Veloster Turbo Rally",
+                        "Veloster Turbo"
+                    ],
+                    "specs": [
+                        {
+                            "name": "City/Highway/Combined (manual transmission)\n",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "27 / 35 / 30 "
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "25 / 33 / 28"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "25 / 33 / 28\n"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "25 / 33 / 28"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "City/Highway/Combined (EcoShift",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "28 / 36 / 31"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": " 27 / 33 / 29"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Fuel tank capacity (gal.)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "13.2"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "13.2"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "13.2"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "13.2"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "MECHANICAL",
+            "specifications": [
+                {
+                    "name": "Engine",
+                    "trims": [
+                        "VELOSTER ",
+                        "Veloster Turbo R-Spec",
+                        "Veloster Turbo Rally",
+                        "Veloster Turbo"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Type",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Inline 4-cylinder"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Inline 4-cylinder Turbo"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Inline 4-cylinder Turbo"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Inline 4-cylinder Turbo"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Displacement (liters)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "1.6"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "1.6"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "1.6"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "1.6"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Horsepower @ RPM",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "132 @ 6300"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "201 @ 6000"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "201 @ 6000"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "201 @ 6000"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Torque @ RPM ",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "120 @ 4850"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "195 @ 1750 - 4500"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "195 @ 1750 - 4500"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "195 @ 1750 - 4500"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Compression ratio",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "11.0:1\n"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "9.5:1"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "9.5:1"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "9.5:1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Valve train",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "DOHC 16-valve with D-CVVT\n"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "DOHC 16-valve with D-CVVT"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "DOHC 16-valve with D-CVVT"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "DOHC 16-valve with D-CVVT"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Fuel system: Gasoline Direct Injection (GDI)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Drivetrain",
+                    "trims": [
+                        "VELOSTER ",
+                        "Veloster Turbo R-Spec",
+                        "Veloster Turbo Rally",
+                        "Veloster Turbo"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Front Wheel Drive (FWD)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "6-speed manual transmission",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "6-speed EcoShift",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "7-speed EcoShift",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Optional"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Torque Vectoring Control (TVC) front axles",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Final drive ratio (M/T / DCT)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "4.267 / 4.938"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "4.467"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "4.467"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "4.467 / 4.643"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Upshift indicator (M/T)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Active ECO System (DCT)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Optional"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Body / Suspension / Chassis",
+                    "trims": [
+                        "VELOSTER ",
+                        "Veloster Turbo R-Spec",
+                        "Veloster Turbo Rally",
+                        "Veloster Turbo"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Body construction: Unibody",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power rack-and-pinion steering\n",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Motor-Driven Power Steering (MDPS)\n",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Unique sport-tuned steering\n",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sport-tuned suspension",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Turning diameter, curb-to-curb (ft.)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "34.12"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "34.12"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "34.12"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "34.12"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "4-wheel disc brakes\n",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "17-inch alloy wheels with P215/45R17 tires",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "18-inch alloy wheels with painted inserts and P225/40R18 tires\n",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "18-inch alloy RAYS",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "18-inch alloy wheels and P225/40R18 tires",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EXTERIOR DIMENSIONS",
+            "specifications": [
+                {
+                    "name": "Exterior Dimensions",
+                    "trims": [
+                        "VELOSTER ",
+                        "Veloster Turbo R-Spec",
+                        "Veloster Turbo Rally",
+                        "Veloster Turbo"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Wheelbase (in.)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "104.3"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "104.3"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "104.3"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "104.3"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Length (in.)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "166.1"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "167.3"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "167.3"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "167.3"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Width (in.)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "70.5"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "71.1"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "71.1"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "71.1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Height (in.)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "55.1"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "55.1"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "55.1"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "55.1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Wheels",
+                    "trims": [
+                        "VELOSTER ",
+                        "Veloster Turbo R-Spec",
+                        "Veloster Turbo Rally",
+                        "Veloster Turbo"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Track (in., front/rear) 17-inch wheels",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "61.5 / 62.0"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Track (in., front/rear) 18-inch wheels",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "60.9 / 61.4"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "60.9 / 61.4"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "60.9 / 61.4"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "60.9 / 61.4"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Weight",
+                    "trims": [
+                        "VELOSTER ",
+                        "Veloster Turbo R-Spec",
+                        "Veloster Turbo Rally",
+                        "Veloster Turbo"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Curb weight (lbs., M/T)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "2,679-2,778 "
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "2,877-2,932 "
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "2,877-2,932 "
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "2,877-2,932 "
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Curb weight (lbs., DCT)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "2,756-2,855"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "2,943-2,998"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "INTERIOR DIMENSIONS",
+            "specifications": [
+                {
+                    "name": "Interior Dimensions",
+                    "trims": [
+                        "VELOSTER ",
+                        "Veloster Turbo R-Spec",
+                        "Veloster Turbo Rally",
+                        "Veloster Turbo"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Head room (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "39.0 / 35.3\n"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "39.0 / 35.3"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "39.0 / 35.3\n"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "39.0 / 35.3\n"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Head room (in., front/rear) (with panoramic sunroof)\n",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "37.2 / 35.3\n"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "37.2 / 35.3\n"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leg room (in., front/rear)\n",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "43.9 / 31.7\n"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "43.9 / 31.7"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "43.9 / 31.7"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "43.9 / 31.7\n"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Shoulder room (in., front/rear)\n",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "55.6 / 54.0"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "55.6 / 54.0"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "55.6 / 54.0"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "55.6 / 54.0"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hip room (in., front/rear)\n",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "53.2 / 52.6"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "53.2 / 52.6"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "53.2 / 52.6"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "53.2 / 52.6"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Interior Volume",
+                    "trims": [
+                        "VELOSTER ",
+                        "Veloster Turbo R-Spec",
+                        "Veloster Turbo Rally",
+                        "Veloster Turbo"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Passenger volume (cu. ft.)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "89.8"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "89.8"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "89.8"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "89.8"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cargo volume (cu. ft.)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "15.5"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "15.5"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "15.5"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "15.5"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cargo volume (cu. ft.) (rear seats down)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "34.7"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "34.7"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "34.7"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "34.7"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Total interior volume (cu. ft.)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "105.3"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "105.3"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "105.3"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "105.3"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "SAFETY FEATURES",
+            "specifications": [
+                {
+                    "name": "Safety Features",
+                    "trims": [
+                        "VELOSTER ",
+                        "Veloster Turbo R-Spec",
+                        "Veloster Turbo Rally",
+                        "Veloster Turbo"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Driver's blind spot mirror",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rearview camera",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear parking sensors",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Optional"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Vehicle Stability Management (VSM) system",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electronic Stability Control (ESC)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Traction Control System (TCS)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Anti-lock Braking System (ABS)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electronic Brake-force Distribution (EBD)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Brake Assist (BA)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Advanced dual front airbags (SRS) with Occupant Classification System (OCS)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Driver and front passenger side-impact airbags (SRS)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Side-curtain airbags (SRS) (front and rear passengers)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tire Pressure Monitoring System (TPMS)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Energy-absorbing steering column",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear LATCH (Lower Anchors and Tethers for CHildren)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power window lock-out button",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front and rear crumple zones",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Daytime Running Lights (DRL)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Remote keyless entry system with alarm",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EXTERIOR FEATURES",
+            "specifications": [
+                {
+                    "name": "Exterior Features",
+                    "trims": [
+                        "VELOSTER ",
+                        "Veloster Turbo R-Spec",
+                        "Veloster Turbo Rally",
+                        "Veloster Turbo"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Dual fold-away heated power bodycolor side mirrors",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Side mirrors with turn-signal indicators",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Center High-Mount Stop Light (CHMSL)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bodycolor door handles",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bodycolor grille with black intake grille",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chrome grille surround with Piano Black highlights",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Unique front fascia/grille and bodykit",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Carbon fiber appearance aero kit accent covers",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dual centered chrome-tipped exhaust\n",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Variable intermittent windshield wipers/washer",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear window wiper/washer",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Shark-fin antenna",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Headlights with LED accents",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Projector headlights",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Automatic headlights",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Optional"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Daytime Running Lights (DRL)\n",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "LED tail lights\n",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front fog lights",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Proximity Key entry with push button start",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "INTERIOR FEATURES",
+            "specifications": [
+                {
+                    "name": "Interior Features",
+                    "trims": [
+                        "VELOSTER ",
+                        "Veloster Turbo R-Spec",
+                        "Veloster Turbo Rally",
+                        "Veloster Turbo"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Panoramic tilt-and-slide sunroof",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Optional"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Proximity Key entry with push button start",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Air conditioning",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Automatic temperature control",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Optional"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power front and rear passenger side windows",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power windows with driver's auto-down",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power door locks",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "6-way adjustable driver seat",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Driver adjustable lumbar support\n",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Premium cloth seating",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Premium leatherette/cloth seating",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sport seats with leather seating surfaces",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Heated front seats",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "60/40 split fold-down rear seatback",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dual illuminated vanity mirrors",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Metal paint accents",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Piano Black interior accents",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leather-wrapped steering wheel and shift knob",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "B&M Racing",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Accessory"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tilt-and-telescopic steering wheel",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Steering-wheel-mounted audio, Bluetooth",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Steering-wheel-mounted paddle shifters",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Optional"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bluetooth",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Blue Link",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Auto-dimming rearview mirror with HomeLink",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Accessory"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Accessory"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Accessory"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Accessory"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "AM/FM/SiriusXM/CD/MP3 audio system with 6 speakers",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "450-watt Dimension",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "7-inch high-resolution LCD touchscreen with rearview camera",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Navigation system with 7-inch high-resolution touchscreen display and 90-day trial of NavTraffic (deletes CD player)",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Optional"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "HD Radio",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Optional"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Apple Siri",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Optional"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Complimentary SiriusXM activation and 3-month trial subscription",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "SiriusXM Travel Link",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Optional"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Smartphone/USB and auxiliary input jacks",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Trip computer with custom settings",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electroluminescent Gauge Cluster ",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rally Edition floor mats",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "R-Spec floor mats",
+                            "trims": [
+                                {
+                                    "name": "VELOSTER ",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Veloster Turbo Rally",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Veloster Turbo",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "WARRANTY",
+            "specifications": []
+        }
+    ]
+}

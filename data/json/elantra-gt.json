@@ -1,0 +1,2167 @@
+{
+    "sections": [
+        {
+            "category": "PRICING/PACKAGES",
+            "specifications": [
+                {
+                    "name": "PRICING",
+                    "trims": [
+                        "GT",
+                        "",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Starting MSRP (manual transmission)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "$18,800"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Starting MSRP (automatic transmission)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "$19,800"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EPA MILEAGE ESTIMATES*/FUEL CAPACITY",
+            "specifications": [
+                {
+                    "name": "EPA MILEAGE ESTIMATES/FUEL CAPACITY",
+                    "trims": [
+                        "GT",
+                        "",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "City/Highway/Combined (manual transmission)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "24 / 33 / 27"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "City/Highway/Combined (automatic transmission)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "24 / 33 / 27"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Fuel tank capacity (gal.)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "13.2"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "MECHANICAL",
+            "specifications": [
+                {
+                    "name": "Engine",
+                    "trims": [
+                        "GT",
+                        "",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Type",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Inline 4-cylinder"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Displacement (liters)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "2.0"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Horsepower @ RPM ",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "173 @ 6500 "
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Torque (lb.-ft.) @ RPM ",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "154 @ 4700 "
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Compression ratio ",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "11.5:1"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Valve train",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "DOHC 16-valve with D-CVVT"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Fuel system: Gasoline Direct Injection\n\t\t\t\t\t\t\t(GDI)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Drivetrain",
+                    "trims": [
+                        "GT",
+                        "",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Front Wheel Drive (FWD)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "6-speed manual transmission",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "6-speed automatic transmission with\n\t\t\t\t\t\t\tSHIFTRONIC",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Final drive ratio (M/T / A/T)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "4.333 / 3.195"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Body / Suspension /\n\t\t\t\t\tChassis",
+                    "trims": [
+                        "GT",
+                        "",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Body construction: Unibody",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front suspension: MacPherson Strut with coil\n\t\t\t\t\t\t\tsprings",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear suspension: Torsion axle with coil\n\t\t\t\t\t\t\tsprings",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sport-tuned suspension",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Driver Selectable Steering Mode (DSSM)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Motor-Driven Power Steering (MDPS)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Turning diameter, curb-to-curb (ft.)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "34.78"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "4-wheel disc brakes",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "16-inch steel wheels with P205/55R16 tires\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "17-inch alloy wheels with P215/45R17 tires\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EXTERIOR DIMENSIONS",
+            "specifications": [
+                {
+                    "name": "Exterior Dimensions",
+                    "trims": [
+                        "GT",
+                        "",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Wheelbase (in.)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "104.3"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Length (in.)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "169.3"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Width (in.)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "70.1"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Height (in.)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "57.9"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Wheels",
+                    "trims": [
+                        "GT",
+                        "",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Track (in., front/rear) 16-inch",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "61.0 / 61.5"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Track (in., front/rear) 17-inch",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "61.0 / 61.5"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Weight",
+                    "trims": [
+                        "GT",
+                        "",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Curb weight (lbs., M/T)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "2,855-2,983"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Curb weight (lbs., A/T)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "2,908-3,036"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "INTERIOR DIMENSIONS",
+            "specifications": [
+                {
+                    "name": "Interior Dimensions",
+                    "trims": [
+                        "GT",
+                        "",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Head room (in., front / rear)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "40.1 / 37.9 "
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leg room (in., front / rear)\n\t\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "42.0 / 34.6"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Shoulder room (in., front/rear)\n\t\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "55.9 / 54.9"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hip room (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "53.1 / 51.0"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Interior Volume",
+                    "trims": [
+                        "GT",
+                        "",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Passenger volume (cu. ft.)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "96.1"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cargo volume (cu. ft.) (rear seats up)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "23.0"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cargo volume (cu. ft.) (rear seats down)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "51.0"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Total interior volume (cu. ft.)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "119.1"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "SAFETY FEATURES",
+            "specifications": [
+                {
+                    "name": "Safety Features",
+                    "trims": [
+                        "GT",
+                        "",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Driver's blind spot mirror",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rearview camera",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Vehicle Stability Management (VSM) system\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electronic Stability Control (ESC)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Traction Control System (TCS)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Anti-lock Braking System (ABS) ",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electronic Brake-force Distribution (EBD)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Brake Assist (BA)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Advanced dual front airbags (SRS) with Occupant\n\t\t\t\t\t\t\tClassification System (OCS)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Driver and front passenger side-impact airbags\n\t\t\t\t\t\t\t(SRS)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Side-curtain airbags (SRS) (front and rear\n\t\t\t\t\t\t\tpassengers)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Driver's knee airbag (SRS)\n\t\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tire Pressure Monitoring System (TPMS)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Energy-absorbing steering column",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front seatbelt pretensioners ",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear LATCH (Lower Anchors and Tethers for\n\t\t\t\t\t\t\tCHildren)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power window lock-out button",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front and rear crumple zones",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Daytime Running Lights (DRL)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Remote keyless entry system with alarm\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EXTERIOR FEATURES",
+            "specifications": [
+                {
+                    "name": "Exterior Features",
+                    "trims": [
+                        "GT",
+                        "",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Dual heated power bodycolor side mirrors",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Side mirrors with turn-signal indicators\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Center High-Mount Stop Light (CHMSL)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chrome front grille",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chrome window-belt molding\n\t\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear spoiler",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Solar control glass",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Windshield sunshade band",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Variable intermittent windshield\n\t\t\t\t\t\t\twipers/washer",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear wiper\n\t\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Projector headlights",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Automatic headlight control\n\t\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Daytime Running Lights (DRL)",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "LED tail lights",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front fog lights",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Proximity Key entry with push button start\n\t\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "INTERIOR FEATURES",
+            "specifications": [
+                {
+                    "name": "Interior Features",
+                    "trims": [
+                        "GT",
+                        "",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Panoramic tilt-and-slide sunroof\n\t\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Air conditioning\n\t\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dual automatic temperature control with CleanAir Ionizer and Auto Defogging System",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power windows with driver's auto-down, front\n\t\t\t\t\t\t\tilluminated power-window switches\n\t\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "One-touch driver's window auto-up\n\t\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power door locks",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "6-way driver seat with driver seat height\n\t\t\t\t\t\t\tadjustment",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "10-way power driver seat with power lumbar\n\t\t\t\t\t\t\tsupport",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Premium cloth seating",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leather seating surfaces",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Heated front seats",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Ventilated front seats",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "60/40 split fold-down rear seatback",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cloth door inserts",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leatherette door inserts",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dual illuminated vanity mirrors",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cooled glove box",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Center armrest storage",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sliding center armrest",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front seatback pockets",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front- and rear-door map pocket",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear center armrest with cupholders",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear hidden cargo-area storage compartment\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Illuminated ignition",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Aluminum pedals",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leather-wrapped steering wheel and shift\n\t\t\t\t\t\t\tknob",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tilt-and-telescopic steering wheel",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Steering-wheel-mounted audio,\n\t\t\t\t\t\t\tBluetooth",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Driver Selectable Steering Mode (DSSM)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Proximity Key entry with push button start\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bluetooth",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Blue Link",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Smartphone/USB and auxiliary\n\t\t\t\t\t\t\tinput jacks",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "AM/FM/SiriusXM/CD/MP3 audio system with 6\n\t\t\t\t\t\t\tspeakers\n\t\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "7-inch navigation system with high-resolution\n\t\t\t\t\t\t\tdisplay and rearview camera\n\t\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "HD Radio",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Apple Siri Integration",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Complimentary SiriusXM activation and 3-month\n\t\t\t\t\t\t\ttrial subscription\n\t\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Multifunction trip computer",
+                            "trims": [
+                                {
+                                    "name": "GT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "WARRANTY",
+            "specifications": []
+        }
+    ]
+}

@@ -1,0 +1,2116 @@
+{
+    "sections": [
+        {
+            "category": "PRICING/PACKAGES",
+            "specifications": [
+                {
+                    "name": "Pricing",
+                    "trims": [
+                        "Azera",
+                        "Azera Limited",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Starting MSRP",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "$34,100"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "$39,300"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EPA MILEAGE ESTIMATES*/FUEL CAPACITY",
+            "specifications": [
+                {
+                    "name": "EPA MILEAGE ESTIMATES/FUEL CAPACITY",
+                    "trims": [
+                        "Azera",
+                        "Azera Limited",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "City/Highway/Combined\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "20 / 29 / 23"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "19 / 28 / 22"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Fuel tank capacity (gal.)",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "18.5"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "18.5"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "MECHANICAL",
+            "specifications": [
+                {
+                    "name": "Engine",
+                    "trims": [
+                        "Azera",
+                        "Azera Limited",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Type",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "V6"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "V6"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Displacement (liters)",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "3.3"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "3.3"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Horsepower @ RPM ",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "293 @ 6400"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "293 @ 6400"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Torque (lb.-ft. @ RPM) ",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "255 @ 5200"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "255 @ 5200"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Compression ratio\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "11.5:1"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "11.5:1"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Valve train\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "DOHC 24-valve with D-CVVT"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "DOHC 24-valve with D-CVVT"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Fuel system: Gasoline Direct Injection (GDI)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Drivetrain /\n\t\t\t\t\tTransmission",
+                    "trims": [
+                        "Azera",
+                        "Azera Limited",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Front Wheel Drive (FWD)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "6-speed automatic transmission with\n\t\t\t\t\t\t\tSHIFTRONIC",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Final drive ratio",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "2.885\n\t\t\t\t\t\t"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "2.885"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Body / Suspension /\n\t\t\t\t\tChassis",
+                    "trims": [
+                        "Azera",
+                        "Azera Limited",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Body construction: Unibody",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front suspension: MacPherson struts with\n\t\t\t\t\t\t\tSACHS",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear suspension: Multi-link with\n\t\t\t\t\t\t\tSACHS",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Motor-Driven Power Steering (MDPS)",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Turning diameter, curb-to-curb (ft.)",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "36.5"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "36.5"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "18-inch alloy wheels with P245/45R18 tires ",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "19-inch alloy wheels with P245/40R19 tires\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EXTERIOR DIMENSIONS",
+            "specifications": [
+                {
+                    "name": "Exterior Dimensions",
+                    "trims": [
+                        "Azera",
+                        "Azera Limited",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Wheelbase (in.)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "112.0"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "112.0"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Length (in.)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "193.7"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "193.7"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Width (in.)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "73.2"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "73.2"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Height (in.)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "57.9\n\t\t\t\t\t\t"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "57.9"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Wheels",
+                    "trims": [
+                        "Azera",
+                        "Azera Limited",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Track (in., front/rear), 18-inch wheels",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "63.2 / 63.3"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Track (in., front/rear), 19-inch wheels",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "63.1 / 63.1"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Weight",
+                    "trims": [
+                        "Azera",
+                        "Azera Limited",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Curb weight (lbs.)",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "3,684"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "3,871"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "INTERIOR DIMENSIONS",
+            "specifications": [
+                {
+                    "name": "Interior Dimensions",
+                    "trims": [
+                        "Azera",
+                        "Azera Limited",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Head room (in., front/rear) ",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "40.3 / 37.6"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "38.3 / 37.3"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leg room (in., front/rear)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "45.5 / 36.8\n\t\t\t\t\t\t"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "45.5 / 36.8\n\t\t\t\t\t\t"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Shoulder room (in., front/rear)\n\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "58.3 / 56.4"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "58.3 / 56.4"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hip room (in., front/rear)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "54.6 / 54.2\n\t\t\t\t\t\t"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "54.6 / 54.2 "
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Interior Volume",
+                    "trims": [
+                        "Azera",
+                        "AZERA LIMITED",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Passenger volume (cu. ft.)",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "107.0"
+                                },
+                                {
+                                    "name": "AZERA LIMITED",
+                                    "value": "107.0"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cargo volume (cu. ft.)",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "16.3"
+                                },
+                                {
+                                    "name": "AZERA LIMITED",
+                                    "value": "16.3"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Total interior volume (cu. ft.)",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "123.3"
+                                },
+                                {
+                                    "name": "AZERA LIMITED",
+                                    "value": "123.3"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "SAFETY FEATURES",
+            "specifications": [
+                {
+                    "name": "SAFETY FEATURES",
+                    "trims": [
+                        "Azera",
+                        "Azera Limited",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Rearview camera",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear parking sensors",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Blind Spot Detection (BSD)",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear Cross-traffic Alert (RCTA)",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lane Change Assist (LCA)",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Automatic High Beam Assist",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lane Departure Warning (LDW)",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Forward Collision Warning (FCW)",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Vehicle Stability Management (VSM) system\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electronic Stability Control (ESC)",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Traction Control System (TCS)",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Anti-lock Braking System (ABS)",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electronic Brake-force Distribution (EBD)",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Brake Assist (BA)",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Advanced driver and front passenger airbags (SRS) with\n\t\t\t\t\t\t\tOccupant Classification System (OCS)",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front and rear side-impact airbags (SRS)",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Side-curtain airbags (SRS)",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Driver's knee airbag (SRS)",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tire Pressure Monitoring System (TPMS)",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Energy-absorbing steering column",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front seatbelt pretensioners and force limiters",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear LATCH (Lower Anchors and Tethers for CHildren)",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power window lock-out button",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front and rear crumple zones",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Daytime Running Lights (DRL)",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Remote keyless entry with alarm",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EXTERIOR FEATURES",
+            "specifications": [
+                {
+                    "name": "EXTERIOR FEATURES",
+                    "trims": [
+                        "Azera",
+                        "Azera Limited",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Dual fold-away heated, bodycolor power side mirrors",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Side mirrors with turn-signal indicators",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power-folding side mirrors",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Center High-Mount Stop Light (CHMSL)",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chrome insert bodyside moldings",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chrome insert door handles",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chrome window-belt molding",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chrome-tipped dual exhaust",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Solar control glass",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Variable intermittent windshield wipers/washer",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Shark-fin antenna",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Projector headlights",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "HID Xenon headlights",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Automatic headlights",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Daytime Running Lights (DRL)",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "LED tail lights",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "LED front fog lights",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front fog lights",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Proximity Key entry ",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hands-free smart trunk",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "INTERIOR FEATURES",
+            "specifications": [
+                {
+                    "name": "INTERIOR FEATURES",
+                    "trims": [
+                        "Azera",
+                        "Azera Limited",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Panoramic tilt-and-slide sunroof",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Proximity Key entry with push button start",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dual front automatic temperature control",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Floor console-mounted rear vents",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power windows with front window auto-down/up with pinch\n\t\t\t\t\t\t\tprotection",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power door locks",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "12-way power-adjustable driver seat including driver seat cushion extension",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "8-way power passenger seat",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Integrated Memory System (IMS) for power driver seat, exterior mirrors and steering column",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Smart Cruise Control with stop/start capability",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electronic Parking Brake (EPB) with Automatic Vehicle Hold",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leather seating surfaces",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Heated front seats",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Heated rear seats",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Ventilated front seats",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "60/40 split fold-down rear seatback",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power rear sunshade",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Manual rear side window sunshades",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dual illuminated vanity mirrors",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Interior ambient lighting",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Illuminated door sill plates",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Carbon fiber-appearance trim",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leather-wrapped steering wheel and shift knob",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power tilt-and-telescopic steering wheel",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Steering-wheel-mounted audio, Bluetooth",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bluetooth",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Blue Link",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Auto-dimming rearview mirror with\n\t\t\t\t\t\t\tHomeLink",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Infinity",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "HD Radio",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Navigation system with 8-inch touchscreen display",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Complimentary SiriusXM Travel Link",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Smartphone/USB and auxiliary input jacks\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electroluminescent Gauge Cluster with color LCD trip\n\t\t\t\t\t\t\tcomputer",
+                            "trims": [
+                                {
+                                    "name": "Azera",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Azera Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "WARRANTY",
+            "specifications": []
+        }
+    ]
+}

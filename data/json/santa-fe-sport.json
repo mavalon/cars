@@ -1,0 +1,2490 @@
+{
+    "sections": [
+        {
+            "category": "PRICING/PACKAGES\t",
+            "specifications": [
+                {
+                    "name": "Pricing",
+                    "trims": [
+                        "Sport",
+                        "Sport 2.0T",
+                        "Sport 2.0T Ultimate"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Starting MSRP (Front Wheel Drive)",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "$25,350 "
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "$31,700 "
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "$36,500 "
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Starting MSRP (All Wheel Drive)",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "$27,100 "
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "$33,450 "
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "$38,250 "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EPA MILEAGE ESTIMATES*/FUEL CAPACITY",
+            "specifications": [
+                {
+                    "name": "EPA Mileage Estimates/Fuel Capacity",
+                    "trims": [
+                        "Sport",
+                        "Sport 2.0T",
+                        "Sport 2.0T Ultimate"
+                    ],
+                    "specs": [
+                        {
+                            "name": "City/Highway/Combined (Front Wheel Drive)",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "21 / 27 / 24"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "20 / 28 / 23"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "20 / 27 / 23"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "City/Highway/Combined (All Wheel Drive)",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "20 / 26 / 22"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "19 / 26 / 22"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "19 / 24 / 21"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Fuel tank capacity (gal.)",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "17.4"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "17.4"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "17.4"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "MECHANICAL",
+            "specifications": [
+                {
+                    "name": "Engine",
+                    "trims": [
+                        "Sport",
+                        "Sport 2.0T",
+                        "Sport 2.0T Ultimate"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Type\n",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Inline 4-cylinder\n"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Inline 4-cylinder Turbo"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Inline 4-cylinder Turbo\n"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Displacement (liters)\n",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "2.4"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "2.0"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "2.0"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Horsepower @ RPM \n",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "185 @ 6,000"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "240 @ 6,000"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "240 @ 6,000"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Torque (lb.-ft. @ RPM) \n",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "178 @ 4000"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "260 @ 1450-3500"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "260 @ 1450-3500"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Compression ratio\n",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "11.3:1\n"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "10.0:1"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "10.0:1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Valve train\n",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "DOHC 16-valve with D-CVVT"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "DOHC 16-valve with D-CVVT"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "DOHC 16-valve with D-CVVT"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Fuel system: Gasoline Direct Injection (GDI)",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Drivetrain / Transmission",
+                    "trims": [
+                        "Sport",
+                        "Sport 2.0T",
+                        "Sport 2.0T Ultimate"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Front Wheel Drive (FWD)\n",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "All Wheel Drive (AWD)\n",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Optional"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "6-speed automatic transmission with SHIFTRONIC",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Final drive ratio (FWD/AWD)",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "3.510 / 3.648"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "3.195 / 3.510"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "3.195 / 3.510"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Body / Suspension / Chassis",
+                    "trims": [
+                        "Sport",
+                        "Sport 2.0T",
+                        "Sport 2.0T Ultimate"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Body type: 5-passenger Crossover",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Body construction: Unibody\n",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front suspension: MacPherson struts with gas-filled damper and stabilizer bar\n",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear suspension: Multi-link with gas shock absorber and stabilizer bar\n",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Motor-Driven Power Steering (MDPS)\n",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Drive Mode Select",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Turning diameter, curb-to-curb (ft.)\n",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "35.8"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "35.8"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "35.8"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Towing capacity (lbs.)\n",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "2,000"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "3,500"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "3,500"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "17-inch alloy wheels with P235/65R17 tires",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "18-inch alloy wheels with 235/60R18 tires",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "19-inch alloy wheels with P235/55R19 tires",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EXTERIOR DIMENSIONS",
+            "specifications": [
+                {
+                    "name": "Exterior Dimensions",
+                    "trims": [
+                        "Sport",
+                        "Sport 2.0T",
+                        "Sport 2.0T Ultimate"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Wheelbase (in.)\n",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "106.3\n"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "106.3\n"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "106.3"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Length (in.)\n",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "185.0"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "185.0"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "185.0"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Width (excludes mirrors) (in.)\n",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "74.0"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "74.0"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "74.0"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Height (in., without/with roof rack side rails)\n",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "66.1 / 66.5"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "66.1 / 66.5"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "66.1 / 66.5"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Wheels",
+                    "trims": [
+                        "Sport",
+                        "Sport 2.0T",
+                        "Sport 2.0T Ultimate"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Track (in., front/rear) 17-inch wheels",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "64.3 / 64.7"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Track (in., front/rear) 18-inch wheels",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "64.1 / 64.5"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Track (in., front/rear) 19-inch wheels",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "64.1 / 64.5"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Weight",
+                    "trims": [
+                        "Sport",
+                        "Sport 2.0T",
+                        "Sport 2.0T Ultimate"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Curb weight (lbs., FWD/AWD)",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "3,624 / 3,794"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "3,739 / 3,898"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "3,949 / 4,107"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "INTERIOR DIMENSIONS",
+            "specifications": [
+                {
+                    "name": "Interior Dimensions",
+                    "trims": [
+                        "Sport",
+                        "Sport 2.0T",
+                        "Sport 2.0T Ultimate"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Head room ",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "39.6 / 39.1 \n"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "39.6 / 39.1 \n"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "39.6 / 39.1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leg room",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "41.3 / 39.4"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "41.3 / 39.4 \n"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "41.3 / 39.4"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Shoulder room",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "59.4 / 58.3 \n"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "59.4 / 58.3"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "59.4 / 58.3"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hip room",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "56.7 / 55.4 \n"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "56.7 / 55.4 \n"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "56.7 / 55.4"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Interior Volume",
+                    "trims": [
+                        "Sport",
+                        "Sport 2.0T",
+                        "Sport 2.0T Ultimate"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Total interior volume (cu. ft.)",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "143.4"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "143.4"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "143.4"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Passenger volume (cu. ft.)",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "108.0"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "108.0"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "108.0"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cargo volume (cu. ft.)  Behind front seats",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "71.5"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "71.5"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "71.5"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cargo volume (cu. ft.)  Behind 2nd row",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "35.4"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "35.4"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "35.4"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "SAFETY FEATURES",
+            "specifications": [
+                {
+                    "name": "Safety Features",
+                    "trims": [
+                        "Sport",
+                        "Sport 2.0T",
+                        "Sport 2.0T Ultimate"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Blind Spot Detection (BSD)",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear Cross-traffic Alert (RCTA)",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lane Change Assist",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rearview camera",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear parking sensors",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Multi-view Camera System",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Smart Cruise Control",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Optional"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lane Departure Warning",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Optional"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Automatic Emergency Braking with Pedestrian Detection",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Optional"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "High Beam Assist",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Optional"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dynamic Bending Light",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Optional"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Vehicle Stability Management (VSM) system",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electronic Stability Control (ESC)",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Traction Control System (TCS)",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "4-wheel, 4-channel Anti-lock Braking System (ABS) with Electronic Brake-force Distribution (EBD) and Brake Assist (BA)",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Downhill Brake Control (DBC)",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hillstart Assist Control (HAC)",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Driver's knee airbag (SRS)",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Driver and front passenger advanced airbags (SRS) (2)",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Driver and front passenger seat-mounted side-impact airbags (SRS) (2)",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Roof-mounted side-curtain airbags with rollover sensors (SRS) (2)",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tire Pressure Monitoring System (TPMS)",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Energy-absorbing steering column",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front seatbelt pretensioners and force limiters",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "2nd-row LATCH (Lower Anchors and Tethers for CHildren)",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power window lock-out button",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front and rear crumple zones",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Remote keyless entry system with alarm",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EXTERIOR FEATURES",
+            "specifications": [
+                {
+                    "name": "Exterior Features",
+                    "trims": [
+                        "Sport",
+                        "Sport 2.0T",
+                        "Sport 2.0T Ultimate"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Premium exterior lower door trim",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Roof side rails",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Roof cross rails",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Accessory"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Accessory"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Accessory"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bodycolor dual power manual-folding side mirrors",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Heated side mirrors",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Side mirror turn-signal indicators",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bodycolor rear spoiler with LED Center High-Mount Stop Light (CHMSL)",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear window wiper/washer",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Windshield wiper de-icer",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chrome door handles",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chrome twin-tip exhaust",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front solar glass and rear privacy glass",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Projector headlights with LED accents",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "HID headlights with LED accents",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "HID headlights with Dynamic Bending Light",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Optional"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Automatic headlight control",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "LED Daytime Running Lights (DRL)",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "LED tail lights",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Proximity Key entry with push button start",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hands-free Smart Liftgate with auto open",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "INTERIOR FEATURES",
+            "specifications": [
+                {
+                    "name": "Interior Features",
+                    "trims": [
+                        "Sport",
+                        "Sport 2.0T",
+                        "Sport 2.0T Ultimate"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Panoramic sunroof",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Air conditioning",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dual front automatic temperature control with CleanAir Ionizer",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "YES Essentials",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leather seating surfaces",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "5-passenger seating",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "8-way power driver seat with 4-way power lumbar support",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "6-way power front passenger seat with power height adjustment",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Integrated Memory System (IMS) for driver seat and side mirrors",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Heated front seats",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Heated 2nd-row seats",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Ventilated front seats",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Seatback pockets",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "40/20/40 split-folding 2nd-row bench seat",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sliding 2nd-row seats with cargo area releases",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "12-volt power outlets (2 front, 1 rear center console, 1 cargo area)",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Premium door sill plates",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Center armrest with storage compartment",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cargo area underfloor storage",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power door locks",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power windows with driver and passenger auto-down/up",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tilt-and-telescopic steering wheel",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Steering-wheel-mounted audio, cruise and Bluetooth",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leather-wrapped steering wheel and shift knob",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Heated steering wheel",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Manual rear side window sunshades",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sunvisors with illuminated vanity mirrors and extensions",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Illuminated ignition",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Auto-dimming rearview mirror with HomeLink",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Blue Link",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bluetooth",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electroluminescent Gauge Cluster with color LCD Multi-Information Display",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electronic Parking Brake",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Optional"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Smart Cruise Control",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Optional"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "AM/FM/SiriusXM Satellite Radio/CD/MP3 6-speaker Audio System ",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "AM/FM/SiriusXM Satellite Radio/CD/HD Radio",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "12-speaker Infinity",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "HD Radio",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Smartphone/USB and auxiliary input jacks",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Complimentary SiriusXM activation and 3-month trial subscription",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Android Auto",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "5-inch display audio system",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "7-inch display audio system",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "8-inch touchscreen navigation ",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Proximity Key entry with push button start",
+                            "trims": [
+                                {
+                                    "name": "Sport",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Sport 2.0T",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Sport 2.0T Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "WARRANTY",
+            "specifications": []
+        }
+    ]
+}

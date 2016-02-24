@@ -2,6 +2,7 @@
 let env = require('../config/env');
 let mongoose = require('mongoose');
 let jsonfile = require('jsonfile');
+let htmlToJson = require('html-to-json');
 let path = require('path');
 
 let cwd = process.cwd();
@@ -75,7 +76,8 @@ module.exports = {
         });
     },
 
-    importModels(req, res) {
+    importModels() {
+        //importModels(req, res) {
         const save = (data) => {
             data.save((err, data) => {
                 if (err) return console.error(err);
@@ -121,10 +123,181 @@ module.exports = {
             }
         });
 
-        const params = req.params;
-        const filters = {_id: params.id};
-        Vehicles.find(filters).exec((err, result) => {
-            res.send(result);
-        });
+        /*
+
+         console.log('done');
+         const params = req.params;
+         const filters = {_id: params.id};
+         Vehicles.find(filters).exec((err, result) => {
+         res.send(result);
+         });
+         */
+    },
+
+    importSpecs() {
+        const args = process.argv;
+        const urls = (args.slice(2));
+
+        console.log(urls[0]);
+        if (urls.length === 0) {
+            console.log('specify a specifications model');
+            process.exit();
+        }
+
+        const getLowestChild = (child) => {
+            if (!child) return '';
+            if (child.name === 'img') {
+                return child.attribs.title;
+            }
+            if (child.children) {
+                if (child.children.length > 0) {
+                    return getLowestChild(child.children[0]);
+                }
+            }
+            return child.data;
+        };
+
+        try {
+            console.log('start import');
+            const url = `https://www.hyundaiusa.com/${urls[0]}/specifications.aspx`;
+            console.log(url);
+            htmlToJson.request(url, {
+                divs: ['.specs_trim_table_container', ($divs) => {
+                    return $divs;
+                }]
+            }, (err, result) => {
+                let obj = {
+                    sections: []
+                };
+
+                // loop through all main sections
+                for (let m = 0; m < result.divs.length; m++) {
+                    const section = result.divs[m];
+                    const sectionName = section.find('h3').text();
+                    console.log(`section: ${sectionName}`);
+                    //console.log(`m: ${m}`);
+
+                    const subsections = section.find('.static_table');
+
+                    let subsectionsArr = [];
+
+                    // loop through all subsections
+                    for (let s = 0; s < subsections.length; s++) {
+                        //console.log(`s: ${m}|${s}`);
+                        const subsection = subsections[s];
+                        const subsectionObj = {};
+                        let thead = subsection.children.find(x => x.name === 'thead').children.find(y => y.name === 'tr');
+                        let tbody = subsection.children.find(x => x.name === 'tbody');
+
+                        let begin = true;
+                        let trims = [];
+
+                        // loop through table headers
+                        for (let r = 0; r < thead.children.length; r++) {
+                            let row = thead.children[r];
+                            if (row.name === 'th') {
+                                //console.log(`r: ${m}|${s}|${r}`);
+                                if (begin) {
+                                    // subsection name
+                                    /*
+                                    if (row.children[0].name === 'span') {
+                                        subsectionObj.name = row.children[0].children[0].data;
+                                    } else {
+                                        subsectionObj.name = row.children[0].data;
+                                    }
+                                    */
+                                    subsectionObj.name = getLowestChild(row.children[0]);
+                                    begin = false;
+                                } else {
+                                    // add to trims array
+                                    const child = getLowestChild(row.children[0]);
+                                    trims.push(child);
+                                }
+                            }
+                        }
+                        subsectionObj.trims = trims;
+                        subsectionObj.specs = [];
+
+                        // loop through table body (i.e., specs)
+                        for (let b = 0; b < tbody.children.length; b++) {
+                            let row = tbody.children[b];
+
+                            if (row.name === 'tr') {
+                                //console.log(`b: ${m}|${s}|${b}`);
+                                let trimCount = 0;
+                                let start = true;
+                                let spec = {
+                                    name: '',
+                                    trims: []
+                                };
+                                spec.trims = [];
+
+                                for (let c = 0; c < row.children.length; c++) {
+                                    let cell = row.children[c];
+
+                                    if (cell.name === 'td') {
+                                        //console.log(`c: ${m}|${s}|${b}|${c}`);
+                                        //for (let c = 0; c < row.children.length; c++) {
+                                        //let cell = row.children[c];
+                                        //if (cell.name === 'td') {
+                                        if (start) {
+                                            spec.name = getLowestChild(cell.children[0]);
+                                            start = false;
+                                        } else {
+                                            let trim = {
+                                                name: subsectionObj.trims[trimCount],
+                                                value: getLowestChild(cell.children[0])
+                                            };
+                                            spec.trims.push(trim);
+                                            trimCount++;
+                                        }
+                                       //}
+                                        //}
+                                    }
+                                }
+                                subsectionObj.specs.push(spec);
+                            }
+
+                            /*
+                             let cell = tbody.children[b];
+                             if (row.name === 'td') {
+                             */
+                            //}
+                        }
+
+                        /*
+                         if (heads.children.length > 0) {
+                         subsectionObj.name = heads.children[0].data;
+                         heads.shift();
+                         let trims = heads.map((header) => {
+                         return header.children[0].data;
+                         });
+                         subsectionObj.trims = trims;
+                         }
+                         */
+                        subsectionsArr.push(subsectionObj);
+                    }
+
+                    let sectionObject = {
+                        category: sectionName,
+                        specifications: subsectionsArr
+                    };
+                    obj.sections.push(sectionObject);
+                }
+
+                ///console.log(JSON.stringify(obj));
+                const file = path.normalize(`${cwd}/data/json/${urls[0]}.json`);
+
+                jsonfile.writeFile(file, obj, (err) => {
+                    console.log('errr');
+                    console.error(err);
+                    process.exit();
+                })
+                //process.exit();
+                //res.send(JSON.stringify(obj));
+            });
+        } catch (ass) {
+            console.log(ass);
+        }
     }
 };

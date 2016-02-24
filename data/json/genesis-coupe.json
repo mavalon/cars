@@ -1,0 +1,2082 @@
+{
+    "sections": [
+        {
+            "category": "PRICING/PACKAGES",
+            "specifications": [
+                {
+                    "name": "PRICING",
+                    "trims": [
+                        "3.8",
+                        "3.8 R-Spec",
+                        "3.8 Ultimate"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Starting MSRP (manual transmission)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "$26,950"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "$29,900"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "$33,750"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Starting MSRP (automatic transmission) ",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "$28,150"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "$34,950"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EPA MILEAGE ESTIMATES*/FUEL CAPACITY\t\t\t",
+            "specifications": [
+                {
+                    "name": "EPA Mileage Estimates/Fuel Capacity",
+                    "trims": [
+                        "3.8",
+                        "3.8 R-Spec",
+                        "3.8 Ultimate"
+                    ],
+                    "specs": [
+                        {
+                            "name": "City/Highway/Combined (manual transmission)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "16 / 24 / 19"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "16 / 24 / 19"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "16 / 24 / 19"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "City/Highway/Combined (automatic transmission)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "16 / 25 / 19"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "16 / 25 / 19"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Fuel tank capacity (gal.)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "17.2"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "17.2"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "17.2"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "MECHANICAL",
+            "specifications": [
+                {
+                    "name": "Engine",
+                    "trims": [
+                        "3.8",
+                        "3.8 R-Spec",
+                        "3.8 Ultimate"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Type ",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "V6\n\t\t\t\t\t\t"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "V6\n\t\t\t\t"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "V6\n\t\t\t\t"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Displacement (liters)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "3.8\n\t\t\t\t\t\t"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "3.8"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "3.8"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Horsepower @ RPM",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "348 @ 6400**"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "348 @ 6400**"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "348 @ 6400**"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Torque @ RPM (lb.-ft.)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "295 @ 5100**"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "295 @ 5100**"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "295 @ 5100**"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Compression ratio\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "11.5:1"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "11.5:1"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "11.5:1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Valve train\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "DOHC 24-valve with D-CVVT"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "DOHC 24-valve with D-CVVT"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "DOHC 24-valve with D-CVVT"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Fuel system: Gasoline Direct Injection (GDI)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Drivetrain",
+                    "trims": [
+                        "3.8",
+                        "3.8 R-Spec",
+                        "3.8 Ultimate"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Rear Wheel Drive (RWD)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "6-speed manual transmission with carbon synchronizers\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "8-speed automatic with SHIFTRONIC",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Optional"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Torsen",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Final drive ratio (M/T / A/T)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "3.538 /  3.909"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "3.538 /  N/A"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "3.538 /  3.909"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Body / Suspension /\n\t\t\t\t\tChassis",
+                    "trims": [
+                        "3.8",
+                        "3.8 R-Spec",
+                        "3.8 Ultimate"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Body construction: Unibody",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front suspension: Independent dual-link MacPherson struts\n\t\t\t\t\t\t\twith gas-charged shocks\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear suspension: 5-link independent monotube gas-charged\n\t\t\t\t\t\t\tshocks",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sport-tuned suspension",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Track-tuned suspension",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front camber adjustment bolt\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front strut tower brace with low-velocity control dampers\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Ventilated front disc/solid rear disc brakes\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Brembo",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power rack-and-pinion steering\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Turning diameter, curb-to-curb (ft.)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "37.4"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "37.4"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "37.4"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Staggered 18-inch alloy wheels with 225/45VR18 (front)\n\t\t\t\t\t\t\t245/45VR18 (rear) tires ",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Staggered 19-inch alloy wheels with 225/40YR19 (front)\n\t\t\t\t\t\t\t245/40YR19 (rear) tires",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EXTERIOR DIMENSIONS",
+            "specifications": [
+                {
+                    "name": "Exterior Dimensions",
+                    "trims": [
+                        "3.8",
+                        "3.8 R-Spec",
+                        "3.8 Ultimate"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Wheelbase (in.)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "111.0"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "111.0"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "111.0"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Length (in.)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "182.3"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "182.3"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "182.3"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Width (in.)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "73.4"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "73.4"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "73.4"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Height (in.)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "54.5"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "54.5"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "54.5"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Overhang (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "32.9 / 38.4"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "32.9 / 38.4"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "32.9 / 38.4"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Minimum ground clearance (in.)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "5.1"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "5.1"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "5.1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Wheels",
+                    "trims": [
+                        "3.8",
+                        "3.8 R-Spec",
+                        "3.8 Ultimate"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Track (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "63.0 / 63.6"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "63.0 / 63.6"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "63.0 / 63.6"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Weight",
+                    "trims": [
+                        "3.8",
+                        "3.8 R-Spec",
+                        "3.8 Ultimate"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Weight distribution (%, front/rear)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "56 / 44"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "56 / 44"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "56 / 44"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Curb weight M/T (lbs.)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "3,515"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "3,523"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "3,600"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Curb weight A/T (lbs.) ",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "3,538"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "3,631"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "INTERIOR DIMENSIONS",
+            "specifications": [
+                {
+                    "name": "Interior Dimensions",
+                    "trims": [
+                        "3.8",
+                        "3.8 R-Spec",
+                        "3.8 Ultimate"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Head room (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "39.2 / 34.6 "
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "39.2 / 34.6 "
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "39.2 / 34.6 "
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leg room (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "44.1 / 30.3"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "44.1 / 30.3"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "44.1 / 30.3"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Shoulder room (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "56.7 / 52.8"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "56.7 / 52.8"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "56.7 / 52.8"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hip room (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "56.0 / 49.2"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "56.0 / 49.2"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "56.0 / 49.2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Interior Volume",
+                    "trims": [
+                        "3.8",
+                        "3.8 R-Spec",
+                        "3.8 Ultimate"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Passenger volume (cu. ft.)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "88.8"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "88.8"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "88.8"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cargo volume (cu. ft.)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "10.0"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "10.0"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "10.0"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Total interior volume (cu. ft.)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "98.8"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "98.8"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "98.8"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "SAFETY FEATURES",
+            "specifications": [
+                {
+                    "name": "Safety Features",
+                    "trims": [
+                        "3.8",
+                        "3.8 R-Spec",
+                        "3.8 Ultimate"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Rear Parking Assistance System",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electronic Stability Control (ESC)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Traction Control System (TCS)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Anti-lock Braking System (ABS)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electronic Brake-force Distribution (EBD)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Brake Assist (BA)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hillstart Assist Control (HAC)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "S (M/T Only)"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "S (M/T Only)"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Advanced dual front airbags (SRS) ",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Driver and front passenger side-impact airbags (SRS)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Side-curtain airbags (SRS) ",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tire Pressure Monitoring System (TPMS)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Energy-absorbing steering column",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front seatbelt pretensioners and force limiters",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear LATCH (Lower Anchors and Tethers for CHildren)",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Active front head restraints",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power window lock-out button",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front and rear crumple zones",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Remote keyless entry system with alarm",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EXTERIOR FEATURES",
+            "specifications": [
+                {
+                    "name": "EXTERIOR FEATURES",
+                    "trims": [
+                        "3.8",
+                        "3.8 R-Spec",
+                        "3.8 Ultimate"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Dual fold-away heated power bodycolor side mirrors\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Side mirrors with turn-signal indicators",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chrome-tipped dual exhaust",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bodycolor rear spoiler",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Solar control glass",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Variable intermittent windshield wipers/washer",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Aero wiper blades",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Brembo",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Projector headlights\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "HID Xenon headlights with auto leveling\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Automatic headlights",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "LED Daytime Running Lights (DRL)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "LED tail lights",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front fog lights",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Proximity Key entry with push button start",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "INTERIOR FEATURES",
+            "specifications": [
+                {
+                    "name": "INTERIOR FEATURES",
+                    "trims": [
+                        "3.8",
+                        "3.8 R-Spec",
+                        "3.8 Ultimate"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Power tilt-and-slide sunroof",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Air conditioning",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Automatic temperature control",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Outside temperature display",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power windows with driver's auto-down/up with pinch protection",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power door locks\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power driver seat slide with height adjustment and lumbar\n\t\t\t\t\t\t\tsupport\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cloth seating surfaces\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leather bolster/cloth insert seats",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leather seating surfaces",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sport seat bolsters",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Two-stage heated front seats",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Driver and passenger side walk-in assist\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dual illuminated vanity mirrors\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Driver's visor extension\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Illuminated door sill plates\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leather-wrapped steering wheel and shift knob",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tilt-and-telescopic steering wheel",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Steering-wheel-mounted audio,\n\t\t\t\t\t\t\tBluetooth",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Steering-wheel-mounted paddle shifters\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "A/T Only"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "A/T Only"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bluetooth",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Blue Link",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Smartphone/USB and auxiliary input jacks\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Auto-dimming rearview mirror with\n\t\t\t\t\t\t\tHomeLink",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "6-inch color display audio system",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "170-watt AM/FM/SiriusXM/MP3/CD audio system with 6 speakers\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "360-watt Infinity",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Navigation system with 7-inch touchscreen and NavTraffic\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Complimentary SiriusXM activation and 3-month trial\n\t\t\t\t\t\t\tsubscription",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electroluminescent Gauge Cluster with information display\n\t\t\t\t\t\t\tscreen",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Multi-gauge cluster",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Aluminum foot pedals",
+                            "trims": [
+                                {
+                                    "name": "3.8",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 R-Spec",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "3.8 Ultimate",
+                                    "value": "Standard"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "WARRANTY",
+            "specifications": []
+        }
+    ]
+}

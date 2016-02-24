@@ -1,0 +1,2880 @@
+{
+    "sections": [
+        {
+            "category": "PRICING/PACKAGES",
+            "specifications": [
+                {
+                    "name": "Trims",
+                    "trims": [
+                        "Hybrid SE",
+                        "Hybrid Limited",
+                        "Plug-in Hybrid",
+                        "Plug-in Hybrid Limited"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Starting MSRP",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "$26,000"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "$30,100"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "$34,600"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "$38,600"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EPA MILEAGE ESTIMATES*/FUEL CAPACITY",
+            "specifications": [
+                {
+                    "name": "EPA Mileage Estimates/Fuel Capacity",
+                    "trims": [
+                        "Hybrid SE",
+                        "Hybrid Limited",
+                        "Plug-in Hybrid",
+                        "Plug-in Hybrid Limited"
+                    ],
+                    "specs": [
+                        {
+                            "name": "City/Highway/Combined",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "40 / 44 / 42"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "39 / 43 / 41"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "40 Combined"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "40 Combined"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Fuel tank capacity (gal.)",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "15.85"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "15.85"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "14.53"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "14.53"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "All-Electric Range (AER)***",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "27 miles"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "27 miles"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "MPGe***",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "99 MPGe"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "99 MPGe"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "MECHANICAL",
+            "specifications": [
+                {
+                    "name": "Engine",
+                    "trims": [
+                        "Hybrid SE",
+                        "Hybrid Limited",
+                        "Plug-in Hybrid",
+                        "Plug-in Hybrid Limited"
+                    ],
+                    "specs": [
+                        {
+                            "name": "2.0L GDI DOHC 16-valve Inline 4-cylinder ",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Displacement (liters)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "2.0"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "2.0"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "2.0"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "2.0"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Horsepower @ RPM",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "154 @ 6000"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "154 @ 6000"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "154 @ 6000"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "154 @ 6000"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Torque (lb.-ft.) @ RPM",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "140 @ 5000"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "140 @ 5000"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "140 @ 5000"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "140 @ 5000"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Compression ratio\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "13.5:1"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "13.5:1"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "13.5:1"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "13.5:1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Valve train\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "16-valve with D-CVVT"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "16-valve with D-CVVT"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "16-valve with D-CVVT"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "16-valve with D-CVVT"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Fuel system: Gasoline Direct Injection GDI",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Electric Motor /\n\t\t\t\t\tBattery",
+                    "trims": [
+                        "Hybrid SE",
+                        "Hybrid Limited",
+                        "Plug-in Hybrid",
+                        "Plug-in Hybrid Limited"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Power output @ RPM",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "38 kW (51 hp) @ 1770–2000 "
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "38 kW (51 hp) @ 1770–2000 "
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "50 kW (67 hp) @ 2330-3300"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "50 kW (67 hp) @ 2330-3300"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Torque (lb.-ft.) @ RPM",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "151 @ 0-1770 "
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "151 @ 0-1770 "
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "151 @ 0-1770"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "151 @ 0-1770"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lithium polymer battery",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "270-volt"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "270-volt"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "360-volt"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "360-volt"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electric Vehicle Operation (mph)",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "75"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "75"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "TBD"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "TBD"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Hybrid\n\t\t\t\t\tSystem Combined",
+                    "trims": [
+                        "Hybrid SE",
+                        "Hybrid Limited",
+                        "Plug-in Hybrid",
+                        "Plug-in Hybrid Limited"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Combined hybrid system horsepower @ RPM",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "193 @ 6000"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "193 @ 6000"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "202 @ 6000"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "202 @ 6000"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Drivetrain",
+                    "trims": [
+                        "Hybrid SE",
+                        "Hybrid Limited",
+                        "Plug-in Hybrid",
+                        "Plug-in Hybrid Limited"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Front Wheel Drive (FWD)",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "6-speed automatic transmission with SHIFTRONIC",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Final drive ratio",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "3.320\n\t\t\t\t\t\t"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "3.320"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "3.510"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "3.510"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Body / Suspension /\n\t\t\t\t\tChassis",
+                    "trims": [
+                        "Hybrid SE",
+                        "Hybrid Limited",
+                        "Plug-in Hybrid",
+                        "Plug-in Hybrid Limited"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Body construction: Unibody\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front suspension: MacPherson Strut with coil springs",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear suspension: Independent multi-link design",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Drive Mode Select",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Column-mounted Motor-Driven Power Steering (C-MDPS)",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Turning diameter, curb-to-curb (ft.)",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "35.6"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "35.6"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "35.6"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "35.6"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power 4-wheel disc brakes",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "16-inch Eco-spoke aluminum alloy wheels with P205/65/R16 tires",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "17-inch Eco-spoke aluminum alloy wheels with P215/55/R17 tires",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EXTERIOR DIMENSIONS",
+            "specifications": [
+                {
+                    "name": "Exterior Dimensions",
+                    "trims": [
+                        "Hybrid SE",
+                        "Hybrid Limited",
+                        "Plug-in Hybrid",
+                        "Plug-in Hybrid Limited"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Wheelbase (in.)",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "110.4"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "110.4"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "110.4"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "110.4"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Length (in.)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "191.1"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "191.1"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "191.1"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "191.1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Width (in.) (excludes mirrors)",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "73.4"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "73.4"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "73.4"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "73.4"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Height (in.)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "57.9"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "57.9"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "57.9"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "57.9"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Wheels",
+                    "trims": [
+                        "Hybrid SE",
+                        "Hybrid Limited",
+                        "Plug-in Hybrid",
+                        "Plug-in Hybrid Limited"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Track (in., front/rear), 16-inch wheels",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "63.5 / 63.8"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Track (in., front/rear), 17-inch wheels",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "63.1 / 63.3 "
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "63.1 / 63.3 "
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "63.1 / 63.3 "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Weight",
+                    "trims": [
+                        "Hybrid SE",
+                        "Hybrid Limited",
+                        "Plug-in Hybrid",
+                        "Plug-in Hybrid Limited"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Curb weight (lbs.)",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "3,497"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "3,560"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "3,787"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "3,810"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "INTERIOR DIMENSIONS ",
+            "specifications": [
+                {
+                    "name": "INTERIOR Dimensions",
+                    "trims": [
+                        "Hybrid SE",
+                        "Hybrid Limited",
+                        "Plug-in Hybrid",
+                        "Plug-in Hybrid Limited"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Head room (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "40.4 / 38.0 "
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "40.4 / 38.0"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "40.4 / 38.0"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "40.4 / 38.0"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leg room (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "45.5 / 35.6"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "45.5 / 35.6"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "45.5 / 35.6"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "45.5 / 35.6"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Shoulder room (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "57.9 / 56.5"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "57.9 / 56.5"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "57.9 / 56.5"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "57.9 / 56.5"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hip room (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "55.3 / 56.1"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "55.3 / 56.1"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "55.3 / 56.1"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "55.3 / 56.1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Interior Volume",
+                    "trims": [
+                        "Hybrid SE",
+                        "Hybrid Limited",
+                        "Plug-in Hybrid",
+                        "Plug-in Hybrid Limited"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Passenger volume (cu. ft.)",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "106.1"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "106.1"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "106.1"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "106.1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cargo volume (cu. ft.)",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "13.3"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "13.3"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "9.9"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "9.9"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Total interior volume (cu. ft.)",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "119.4"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "119.4"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "116.0"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "116.0"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "SAFETY FEATURES",
+            "specifications": [
+                {
+                    "name": "Safety Features",
+                    "trims": [
+                        "Hybrid SE",
+                        "Hybrid Limited",
+                        "Plug-in Hybrid",
+                        "Plug-in Hybrid Limited"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Driver's blind spot mirror",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Blind Spot Detection (BSD) with Rear Cross-traffic Alert and Lane Change Assist",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rearview camera",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lane Departure Warning (LDW)",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Smart Cruise Control with stop/start capability",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear parking sensors",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Forward Collision Warning (FCW)",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tire Pressure Monitoring System (TPMS) with individual tire pressure indicator",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Automatic High Beam Assist",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Vehicle Stability Management (VSM) system",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electronic Stability Control (ESC)",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Traction Control System (TCS)",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Anti-lock Braking System (ABS)",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electronic Brake-force Distribution (EBD)",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Brake Assist (BA)",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Advanced dual front airbags (SRS) with Occupant Classification System (OCS)",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Driver and front passenger side-impact airbags (SRS)",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Side-curtain airbags (SRS) (front and rear passengers)",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Driver's knee airbag",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Energy-absorbing steering column",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front seatbelt pretensioners and force limiters",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear LATCH (Lower Anchors and Tethers for CHildren)",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power window lock-out button",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front and rear crumple zones",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Remote keyless entry system with alarm",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EXTERIOR FEATURES",
+            "specifications": [
+                {
+                    "name": "Exterior Features",
+                    "trims": [
+                        "Hybrid SE",
+                        "Hybrid Limited",
+                        "Plug-in Hybrid",
+                        "Plug-in Hybrid Limited"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Hands-free smart trunk",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dual fold-away heated power bodycolor side mirrors",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Side mirror-mounted turn-signal indicators",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Center High-Mount Stop Light (CHMSL)",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chrome exterior door handles with welcome light",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chrome front grille",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Glossy DLO surround and mirror housing",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chrome side sill molding",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear lip spoiler",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Solar control glass",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Variable intermittent windshield wipers/washer",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Shark-fin antenna",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Projector headlights",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "HID Xenon headlights",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Automatic headlights",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "LED Daytime Running Lights (DRL)",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "LED tail lights",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Proximity Key entry with push button start",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "INTERIOR FEATURES",
+            "specifications": [
+                {
+                    "name": "Interior Features",
+                    "trims": [
+                        "Hybrid SE",
+                        "Hybrid Limited",
+                        "Plug-in Hybrid",
+                        "Plug-in Hybrid Limited"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Panoramic tilt-and-slide sunroof",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dual front automatic temperature control",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Floor console-mounted rear vents",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power windows with driver’s auto-down/up with pinch protection",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power auto-down/up passenger window with pinch protection",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power door locks",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear side window sunshades",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "8-way power driver seat with power adjustable lumbar support",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "6-way power passenger seat",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Integrated Memory System (IMS) for driver's seat and side mirrors",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Heated front seats",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Heated rear seats",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Ventilated front seats",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Premium cloth seating surfaces",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leather seating surfaces",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leatherette door trim inserts",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leatherette door trim inserts with stitching",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "60/40 split fold-down rear seatback",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dual illuminated vanity mirrors",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Metalgrain appearance accents",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "3D tech appearance accents",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Optional"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Woodgrain appearance accents",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Premium door sill plates",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leather-wrapped steering wheel and shift knob",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tilt-and-telescopic steering wheel",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Heated steering wheel",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Steering-wheel-mounted audio, Bluetooth",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bluetooth",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Blue Link",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Blue Link",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Smartphone/USB and auxiliary input jacks",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Auto-dimming rearview mirror with HomeLink",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Smart Cruise Control with stop/start capability",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electronic Parking Brake with Automatic Vehicle Hold",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "AM/FM/SiriusXM/CD/MP3 audio system with 6 speakers",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dimension AM/FM/SiriusXM/CD/MP3 premium audio system with subwoofer and external amplifier",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Infinity",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "HD Radio",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "5-inch color touchscreen audio",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "8-inch touchscreen navigation",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "4.2-inch color trip computer with Electroluminescent Gauge Cluster",
+                            "trims": [
+                                {
+                                    "name": "Hybrid SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Hybrid Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Plug-in Hybrid Limited",
+                                    "value": "Standard"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "WARRANTY",
+            "specifications": []
+        }
+    ]
+}

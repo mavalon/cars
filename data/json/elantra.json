@@ -1,0 +1,2490 @@
+{
+    "sections": [
+        {
+            "category": "PRICING/PACKAGES\t",
+            "specifications": [
+                {
+                    "name": "Pricing",
+                    "trims": [
+                        "SE",
+                        "Limited",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Starting MSRP (manual transmission)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "$17,150"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Starting MSRP (automatic transmission) ",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "$18,150"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "$22,350"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EPA MILEAGE ESTIMATES*/FUEL CAPACITY",
+            "specifications": [
+                {
+                    "name": "EPA Mileage Estimates/Fuel Capacity",
+                    "trims": [
+                        "SE",
+                        "Limited",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "City/Highway/Combined (manual transmission) SE",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "26 / 36 / 29                            "
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "City/Highway/Combined (automatic transmission) SE",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "29 / 38 / 33    "
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "City/Highway/Combined (automatic transmission) Pop/Tech Package",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "28 / 37 / 32      "
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "City/Highway/Combined (automatic transmission) Limited",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "28 / 37 / 32      "
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Fuel-tank capacity (gal.)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "14.0"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "14.0"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "MECHANICAL",
+            "specifications": [
+                {
+                    "name": "Engine",
+                    "trims": [
+                        "SE",
+                        "Limited",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Type",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Inline 4-cylinder"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Inline 4-cylinder"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Displacement (liters)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "2.0"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "2.0"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Horsepower @ RPM (ULEV / PZEV)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "147 @ 6200"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "147 @ 6200"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Torque (ULEV / PZEV) (lb.-ft. @ RPM)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "132 @ 4500 "
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "132 @ 4500 "
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Compression ratio ",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "12.5:1"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "12.5:1"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Valve train",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "DOHC 16-valve with D-CVVT"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "DOHC 16-valve with D-CVVT"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Fuel system: Multi-Point fuel Injection (MPI)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Drivetrain",
+                    "trims": [
+                        "SE",
+                        "Limited",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Front Wheel Drive (FWD)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "6-speed manual transmission",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "6-speed automatic transmission with SHIFTRONIC",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Final drive ratio (M/T / A/T)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "4.333 / 3.065"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Body / Suspension /\n\t\t\t\tChassis / Wheels",
+                    "trims": [
+                        "SE",
+                        "Limited",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Body construction: Unibody",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front suspension: MacPherson Strut with coil springs",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear suspension: Coupled torsion beam axle ",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front stabilizer bar ",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Drive Mode Select",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Motor-Driven Power Steering (MDPS)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Turning diameter, curb-to-curb (ft.)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "34.78"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "34.78"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front disc brakes & rear drum brakes",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "4-wheel disc brakes",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "15-inch steel wheels with covers with P195/65R15 tires",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "16-inch alloy wheels with P205/55R16 tires",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "17-inch alloy wheels with P225/45R17 tires",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EXTERIOR DIMENSIONS",
+            "specifications": [
+                {
+                    "name": "Exterior Dimensions",
+                    "trims": [
+                        "SE",
+                        "Limited",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Wheelbase (in.)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "106.3"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "106.3"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Length (in.)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "179.9"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "179.9"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Width (in.)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "70.9"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "70.9"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Height (in.)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "56.5"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "56.5"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Minimum ground clearance (in.)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "5.3"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "5.3"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Wheels",
+                    "trims": [
+                        "SE",
+                        "Limited",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Track (in., front/rear) 15-inch",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "61.5 / 61.9"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Track (in., front/rear) 16-inch",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "61.2 / 61.6"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Track (in., front/rear) 17-inch",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "61.0 / 61.3"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Weight",
+                    "trims": [
+                        "SE",
+                        "Limited",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Curb weight (lbs., M/T)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "2,767-2,932"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Curb weight (lbs., A/T)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "2,811-2,976"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "2,811-2,976"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "INTERIOR DIMENSIONS",
+            "specifications": [
+                {
+                    "name": "Interior Dimensions",
+                    "trims": [
+                        "SE",
+                        "Limited",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Head room (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "38.8 / 37.3"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "38.8 / 37.3"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leg room (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "42.2 / 35.7"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "42.2 / 35.7"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Shoulder room (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "56.2 / 55.3"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "56.2 / 55.3"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hip room (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "53.4 / 51.9"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "53.4 / 51.9"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Interior Volume",
+                    "trims": [
+                        "SE",
+                        "Limited",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Passenger volume (cu. ft.)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "95.8"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "95.8"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cargo volume (cu. ft.)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "14.4"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "14.4"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Total interior volume (cu. ft.)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "110.2"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "110.2"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "SAFETY FEATURES",
+            "specifications": [
+                {
+                    "name": "SAFETY FEATURES",
+                    "trims": [
+                        "SE",
+                        "Limited",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Driver's blind spot mirror",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Blind Spot Detection (BSD) with Rear Cross-traffic Alert and Lane Change Assist",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rearview camera with dynamic guidelines",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Forward Collision Warning (FCW)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Automatic Emergency Braking (AEB) with Pedestrian Detection",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lane Departure Warning (LDW)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lane Keep Assist System (LKAS)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Smart Cruise Control (SCC)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tire Pressure Monitoring System (TPMS)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tire Pressure Monitoring System (TPMS) with individual tire pressure indicator",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Vehicle Stability Management (VSM) ",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electronic Stability Control (ESC)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Traction Control System (TCS)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Anti-lock Braking System (ABS)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electronic Brake-force Distribution (EBD)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Brake Assist (BA)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Advanced dual front airbags (SRS) with Occupant\n\t\t\t\t\t\tClassification System (OCS)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Driver and front passenger side-impact airbags (SRS)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Side-curtain airbags (SRS)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Driver's knee airbag",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Energy-absorbing steering column",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front seatbelt pretensioners and force limiters",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear LATCH (Lower Anchors and Tethers for CHildren)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power window lock-out button",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front and rear crumple zones",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Remote keyless entry system with alarm",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EXTERIOR FEATURES",
+            "specifications": [
+                {
+                    "name": "EXTERIOR FEATURES",
+                    "trims": [
+                        "SE",
+                        "Limited",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Hands-free smart trunk",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dual fold-away power bodycolor side mirrors",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Heated side mirrors",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Side mirrors with turn-signal indicators",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chrome front grille",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chrome beltline molding",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chrome door handles",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Solar control glass",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Variable intermittent windshield wipers/washer",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hood insulator ",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Projector headlights with Daytime Running Lights",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "LED Daytime Running Lights",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "LED taillights",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Automatic headlight control",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "HID headlights with Dynamic Bending Light",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Door handle approach light",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "INTERIOR FEATURES",
+            "specifications": [
+                {
+                    "name": "INTERIOR FEATURES",
+                    "trims": [
+                        "SE",
+                        "Limited",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Power tilt-and-slide sunroof",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Air conditioning",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dual automatic temperature control with CleanAir Ionizer and Auto Defogging System ",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power windows with driver's auto-down, front illuminated power-window switches",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "One-touch auto-up driver's window ",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power door locks",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "6-way driver seat with seat height adjustment for both driver and passenger",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power driver seat with power lumbar support",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Premium cloth seating",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leather seating surfaces",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Heated front seats",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Heated rear seats",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Integrated Memory System (IMS) for driver's seat and side mirrors",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "60/40 split fold-down rear seatback",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Adjustable center head restraint and fixed outer head restraints",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Adjustable head restraints for all seating positions",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leatherette door inserts",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dual illuminated vanity mirrors",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sunvisor extensions",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Center armrest storage",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sliding center armrest",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front and rear-door map pocket",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front passenger seatback pocket",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Center-console-mounted rear cupholders",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear center armrest with cupholders",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Illuminated ignition",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leather-wrapped steering wheel and shift knob",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tilt-and-telescopic steering wheel",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Steering-wheel-mounted audio,\n\t\t\t\t\t\tBluetooth",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Proximity Key entry with push button start",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bluetooth",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Blue Link",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Blue Link",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Auto-dimming rearview mirror with HomeLink",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Smartphone/USB and auxiliary input jacks\n\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dual charging USB ports",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "AM/FM/SiriusXM",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Infinity",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Clari-fi",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "7-inch display audio system with high-resolution touchscreen",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "8-inch navigation system with high-resolution touchscreen ",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Android Auto",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "SiriusXM Data Services: NavTraffic, NavWeather, and sports and stocks (3-month trial) ",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Complimentary SiriusXM activation and 3-month trial subscription",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "3.5-inch TFT monochromatic cluster display",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "4.2-inch TFT color instrument cluster display",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Multifunction trip computer",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Limited",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "WARRANTY",
+            "specifications": []
+        }
+    ]
+}

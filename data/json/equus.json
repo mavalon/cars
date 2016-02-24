@@ -1,0 +1,2150 @@
+{
+    "sections": [
+        {
+            "category": "PRICING",
+            "specifications": [
+                {
+                    "name": "Pricing",
+                    "trims": [
+                        "Signature",
+                        "Ultimate",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Starting MSRP",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "$61,500"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "$68,750"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EPA MILEAGE ESTIMATES*/FUEL CAPACITY",
+            "specifications": [
+                {
+                    "name": "EPA MILEAGE ESTIMATES/FUEL CAPACITY",
+                    "trims": [
+                        "Signature",
+                        "Ultimate",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "City/Highway/Combined",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "15 / 23 / 18"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "15 / 23 / 18"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Fuel-tank capacity (gal.)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "20.3"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "20.3"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "MECHANICAL",
+            "specifications": [
+                {
+                    "name": "Engine",
+                    "trims": [
+                        "Signature",
+                        "Ultimate",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Type",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "V8"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "V8"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Displacement (liters)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "5.0"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "5.0"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Horsepower @ RPM ",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "429 @ 6400**"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "429 @ 6400**"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Torque (lb.-ft. @ RPM)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "376 @ 5000**"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "376 @ 5000**"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Compression ratio",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "11.5:1"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "11.5:1"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Valve train",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "DOHC 32-valve"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "DOHC 32-valve"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Gasoline Direct Injection (GDI)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Drivetrain/",
+                    "trims": [
+                        "Signature",
+                        "Ultimate",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Drive configuration: Rear Wheel Drive (RWD)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "8-speed automatic transmission with\n\t\t\t\t\t\tSHIFTRONIC",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Body/Suspension/",
+                    "trims": [
+                        "Signature",
+                        "Ultimate",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Body construction: Unibody",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electronically-controlled Air Suspension (EAS) with\n\t\t\t\t\t\tContinuous Damping Control (CDC)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "4-wheel Anti-lock Braking System (ABS) with Electronic\n\t\t\t\t\t\tBrake-force Distribution (EBD) and Brake Assist (BA)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power 4-wheel disc brakes, front and rear ventilated",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electro-hydraulic power rack-and-pinion steering",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Turning diameter, curb-to-curb (ft.)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "39.6"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "39.6"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "19-inch multi-spoke premium alloy wheels",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Staggered tire size",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "P245/45R19 (Front)"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "P245/45R19 (Front)"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EXTERIOR DIMENSIONS",
+            "specifications": [
+                {
+                    "name": "Exterior Dimensions",
+                    "trims": [
+                        "Signature",
+                        "Ultimate",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Wheelbase (in.)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "119.9"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "119.9"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Length (in.)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "203.1"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "203.1"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Width (excludes mirrors) (in.)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "74.4"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "74.4"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Height (in.)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "58.7"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "58.7"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Wheels",
+                    "trims": [
+                        "Signature",
+                        "Ultimate",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Track (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "63.8 / 64.1"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "63.8 / 64.1"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Weight",
+                    "trims": [
+                        "Signature",
+                        "Ultimate",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Curb weight (lbs.)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "4553"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "4616"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "INTERIOR DIMENSIONS",
+            "specifications": [
+                {
+                    "name": "Interior Dimensions",
+                    "trims": [
+                        "Signature",
+                        "Ultimate",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Head room (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "38.7 / 37.7"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "38.7 / 37.7"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leg room (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "45.1 / 38.8"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "45.1 / 38.8"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Shoulder room (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "59.1 / 58.0"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "59.1 / 58.0"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hip room (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "55.5 / 55.1"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "55.5 / 55.1"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Interior Volume",
+                    "trims": [
+                        "Signature",
+                        "Ultimate",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Total interior volume (cu. ft.)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "126.0"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "126.0"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Passenger volume (cu. ft.)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "109.3"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "109.3"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cargo volume (cu. ft.)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "16.7"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "16.7"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "SAFETY FEATURES",
+            "specifications": [
+                {
+                    "name": "Safety Features",
+                    "trims": [
+                        "Signature",
+                        "Ultimate",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Vehicle Stability Management (VSM) system with pre-collision\n\t\t\t\t\t\twarning",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electronic Stability Control (ESC)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Traction Control System (TCS)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "4-wheel Anti-lock Braking System (ABS) with Electronic\n\t\t\t\t\t\tBrake-force Distribution (EBD) and Brake Assist (BA)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Nine airbags: Advanced dual front, front and rear\n\t\t\t\t\t\tseat-mounted side-impact airbags, driver's knee, and roof-mounted\n\t\t\t\t\t\tside-curtain airbags (SRS) ",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Smart Cruise Control (SCC) with stop/start functionality\n\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front and Rear Parking Assistance System with Rear\n\t\t\t\t\t\tCross-traffic Alert (RCTA)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lane Departure Warning (LDW)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Blind Spot Detection system (BSD)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tire Pressure Monitoring System (TPMS)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electronic active front head restraints with power controls\n\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front and rear crumple zones",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Energy-absorbing steering column",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electronic Parking Brake (EPB) with Automatic Vehicle Hold\n\t\t\t\t\t\t(AVH)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electronic seatbelt pretensioners",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Seatbelt tensioning system with haptic pre-collision warning\n\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "First aid kit",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EXTERIOR FEATURES",
+            "specifications": [
+                {
+                    "name": "Exterior Features",
+                    "trims": [
+                        "Signature",
+                        "Ultimate",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "High Intensity Discharge (HID) auto-leveling headlights\n\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Adaptive Front Lighting System (AFLS)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front LED turn-signal indicators",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front LED fog lights",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dual power-folding heated auto-dimming side mirrors with\n\t\t\t\t\t\tapproach lamps ",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power tilt-and-slide sunroof with one-touch open",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Forward-view cornering camera",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rearview camera",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Multi-view Camera System ",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front and rear parking sensors",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Acoustic laminated windshield and side windows; front door\n\t\t\t\t\t\twater-repellant glass",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Automatic rain-sensing wipers",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Windshield wiper de-icer",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Auto-defogging windshield with humidity sensor",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power trunk lid",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hands-free smart trunk with auto open",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Proximity Key (fob and card type) entry with push button\n\t\t\t\t\t\tstart ",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dual asymmetrical exhaust tips integrated with rear bumper\n\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "INTERIOR FEATURES",
+            "specifications": [
+                {
+                    "name": "Interior Features",
+                    "trims": [
+                        "Signature",
+                        "Ultimate",
+                        ""
+                    ],
+                    "specs": [
+                        {
+                            "name": "Power door closure",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Premium leather seating surfaces and microfiber suede\n\t\t\t\t\t\theadliner",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leather-wrapped dash",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front seatback pockets",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "12-way power driver seat",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electronic active front head restraints (adjustable)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power driver seat cushion extension and lumbar support",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "10-way power passenger seat",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "60/40 power-reclining rear seats",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear-seat power up/down head restraints with manual tilt\n\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power rear lumbar (rear outboard seats)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Center armrest with dual cupholders and control console\n\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear-seat illuminated vanity mirrors",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Heated and cooled front seats",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Heated rear seats",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cooled rear seats",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear-seat entertainment system with dual 9.2-inch monitors\n\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Three-zone automatic temperature control with Air Quality\n\t\t\t\t\t\tSystem (AQS)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lexicon",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "HD Radio",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "SiriusXM Satellite Radio with Data Services including\n\t\t\t\t\t\tNavTraffic",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Navigation system with 9.2-inch LCD screen with DIS\n\t\t\t\t\t\tMultimedia Controller",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electroluminescent Gauge Cluster with 7-inch TFT LCD screen\n\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Full 12.3-inch TFT LCD instrument cluster display screen\n\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Heads-up Display (HUD) ",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bluetooth",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Blue Link",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPod",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Driver Information System (DIS) Multimedia Controller",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "In-dash CD/DVD player ",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leather-wrapped heated steering wheel with wood trim",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Steering-wheel-mounted controls (Smart Cruise Control (SCC),\n\t\t\t\t\t\taudio, Bluetooth",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power tilt-and-telescopic steering wheel",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Steering-wheel haptic dial control",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power tilt-and-slide with one-touch open/close sunroof",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear window defroster, electronic with timer",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear-seat climate controls",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power rear sunshade",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power rear side-window sunshade",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Integrated Memory System (IMS) (power driver seat, steering\n\t\t\t\t\t\twheel, side mirrors)",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Multifunction trip computer ",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power windows with auto down/up with pinch protection ",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power door locks",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Proximity Key (fob and card type) entry with push button start ",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "HomeLink",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Auto-dimming inside rearview mirror with compass ",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Illuminated scuff plates, inside door handles and door\n\t\t\t\t\t\tarmrests",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Premium-grade floor mats and trunk cargo mat",
+                            "trims": [
+                                {
+                                    "name": "Signature",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "Ultimate",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "",
+                                    "value": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "WARRANTY",
+            "specifications": []
+        }
+    ]
+}

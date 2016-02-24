@@ -1,0 +1,2774 @@
+{
+    "sections": [
+        {
+            "category": "PRICING/PACKAGES",
+            "specifications": [
+                {
+                    "name": "Pricing",
+                    "trims": [
+                        "SE",
+                        "ECO",
+                        "SPORT",
+                        "LIMITED"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Starting MSRP (Front Wheel Drive)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "$22,700"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "$24,150"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "$26,150"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "$29,900"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Starting MSRP (All Wheel Drive)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "$24,100"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "$25,550"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "$27,550"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "$31,300"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EPA MILEAGE ESTIMATES*/FUEL CAPACITY",
+            "specifications": [
+                {
+                    "name": "EPA Mileage Estimates/Fuel Capacity",
+                    "trims": [
+                        "SE",
+                        "ECO",
+                        "SPORT",
+                        "LIMITED"
+                    ],
+                    "specs": [
+                        {
+                            "name": "City/Highway/Combined (Front Wheel Drive)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "23 / 31 / 26"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "26 / 33 / 29"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "25 / 30 / 27\t"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "25 / 30 / 27\t"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "City/Highway/Combined (All Wheel Drive)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "21 / 26 / 23"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "25 / 31 / 27\n"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "24 / 28 / 26\t"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "24 / 28 / 26\t"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Fuel tank capacity (gal.)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "16.4"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "16.4"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "16.4"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "16.4"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "MECHANICAL",
+            "specifications": [
+                {
+                    "name": "Engine",
+                    "trims": [
+                        "SE",
+                        "ECO",
+                        "SPORT",
+                        "LIMITED"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Type",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Inline 4-cylinder"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Inline 4-cylinder turbocharged"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Inline 4-cylinder turbocharged"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Inline 4-cylinder turbocharged"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Displacement (liters)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "2.0"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "1.6"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "1.6"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "1.6"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Horsepower @ RPM ",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "164 @ 6200"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "175 @ 5500"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "175 @ 5500"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "175 @ 5500"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Torque @ RPM ",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "151 @ 4000"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "195 @ 1500-4500 "
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "195 @ 1500-4500 "
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "195 @ 1500-4500 "
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Compression ratio",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "11.5:1"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "10.1:1"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "10.1:1"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "10.1:1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Valve train",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "DOHC 16-valve with D-CVVT"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "DOHC 16-valve with D-CVVT"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "DOHC 16-valve with D-CVVT"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "DOHC 16-valve with D-CVVT"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Fuel system: Gasoline Direct Injection (GDI)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Drivetrain",
+                    "trims": [
+                        "SE",
+                        "ECO",
+                        "SPORT",
+                        "LIMITED"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Front Wheel Drive (FWD)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "All Wheel Drive (AWD)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Optional"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "6-speed automatic transmission with SHIFTRONIC",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "7-speed EcoShift",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Final drive ratio (FWD/AWD)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "3.510 / 3.648 "
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "4.857 / 3.579"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "4.857 / 3.579"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "4.857 / 3.579"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Body/ Suspension/\n\t\t\t\t\tChassis",
+                    "trims": [
+                        "SE",
+                        "ECO",
+                        "SPORT",
+                        "LIMITED"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Body type: 5-passenger crossover",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Body material:Advanced High-strength steel and high tensile steel",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front suspension: Independent MacPherson strut with coil springs",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear suspension: Independent multi-link design",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "SACHS",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front stabilizer bar (24.7 mm)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear stabilizer bar (23.0 mm)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "4-wheel disc brakes with Anti-lock Braking System (ABS)\n\t\t\t\t\t\t",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Motor-Driven Power Steering (MDPS) rack-and-pinion steering, column-mounted",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Turning diameter, curb-to-curb (ft.)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "34.9"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "34.9"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "34.9"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "34.9"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "17-inch alloy wheels with 225/60HR17 tires",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "19-inch Sport alloy wheels with 245/45HR19 tires",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EXTERIOR DIMENSIONS",
+            "specifications": [
+                {
+                    "name": "Exterior Features",
+                    "trims": [
+                        "SE",
+                        "ECO",
+                        "SPORT",
+                        "LIMITED"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Wheelbase (in.)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "105.1\t\t\t"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "105.1\t\t\t"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "105.1\t\t\t"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "105.1\t\t\t"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Length (in.)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "176.2\t\t\t"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "176.2\t\t\t"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "176.2\t\t\t"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "176.2\t\t\t"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Width (in.) without mirrors",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "72.8\t\t\t"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "72.8\t\t\t"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "72.8\t\t\t"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "72.8\t\t\t"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Height (in.) without roof rack side rails/with roof rack side rails",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "64.8 / 65.0\t\t\t"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "64.8 / 65.0\t\t\t"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "64.8 / 65.0\t\t\t"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "64.8 / 65.0\t\t\t"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Wheels",
+                    "trims": [
+                        "SE",
+                        "ECO",
+                        "SPORT",
+                        "LIMITED"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Track (in., front/rear) 17-inch wheels",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "63.3 / 63.8 "
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "63.3 / 63.8 "
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Track (in., front/rear) 19-inch wheels",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "63.1 / 63.6 "
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "63.1 / 63.6 "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Weight",
+                    "trims": [
+                        "SE",
+                        "ECO",
+                        "SPORT",
+                        "LIMITED"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Curb weight (lbs.) FWD ",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "3,325 – 3,439 "
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "3,369 – 3,580 \t\t"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "3,369 – 3,580 \t\t"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "3,369 – 3,580 \t\t"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Curb weight (lbs.) AWD",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "3,490 - 3,602"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "3,499 – 3,710\t\t"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "3,499 – 3,710\t\t"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "3,499 – 3,710\t\t"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "INTERIOR DIMENSIONS",
+            "specifications": [
+                {
+                    "name": "Interior Features",
+                    "trims": [
+                        "SE",
+                        "ECO",
+                        "SPORT",
+                        "LIMITED"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Head room (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "39.6 / 39.2\t\t\t"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "39.6 / 39.2\t\t\t"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "39.6 / 39.2\t\t\t"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "39.6 / 39.2\t\t\t"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leg room (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "41.5 / 38.2\t\t\t"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "41.5 / 38.2\t\t\t"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "41.5 / 38.2\t\t\t"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "41.5 / 38.2\t\t\t"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Shoulder room (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "57.1 / 55.5\t\t\t"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "57.1 / 55.5\t\t\t"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "57.1 / 55.5\t\t\t"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "57.1 / 55.5\t\t\t"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hip room (in., front/rear)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "55.6 / 54.5\t\t\t"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "55.6 / 54.5\t\t\t"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "55.6 / 54.5\t\t\t"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "55.6 / 54.5\t\t\t"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Interior Volume",
+                    "trims": [
+                        "SE",
+                        "ECO",
+                        "SPORT",
+                        "LIMITED"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Total interior volume (cu. ft.)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "133.2\t\t\t"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "133.2\t\t\t"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "133.2\t\t\t"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "133.2\t\t\t"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Passenger volume (cu. ft.)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "102.2\t\t\t"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "102.2\t\t\t"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "102.2\t\t\t"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "102.2\t\t\t"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cargo volume (cu. ft.) rear seats up/rear seats folded down",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "31.0 / 61.9\t\t\t"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "31.0 / 61.9\t\t\t"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "31.0 / 61.9\t\t\t"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "31.0 / 61.9\t\t\t"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "SAFETY FEATURES",
+            "specifications": [
+                {
+                    "name": "Safety Features",
+                    "trims": [
+                        "SE",
+                        "ECO",
+                        "SPORT",
+                        "LIMITED"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Driver's blind spot mirror",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Blind Spot Detection (BSD)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear Cross-traffic Alert",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lane Change Assist",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rearview camera",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lane Departure Warning (LDW)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Optional"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Automatic Emergency Braking with Pedestrian Detection",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Optional"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear parking sensors",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Optional"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tire Pressure Monitoring System (TPMS) with individual tire pressure indicator",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Vehicle Stability Management (VSM) system",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electronic Stability Control (ESC)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Traction Control System (TCS)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Anti-lock Braking System (ABS)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Electronic Brake-force Distribution (EBD)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Brake Assist (BA)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Advanced dual front airbags (SRS) with Occupant Classification System (OCS)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dual front seat-mounted side-impact airbags (SRS)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front and rear roof-mounted side-curtain airbags (SRS) with rollover sensors",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Energy-absorbing steering column",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front seatbelt pretensioners and force limiters",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear LATCH (Lower Anchors and Tethers for CHildren)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power window lock-out button",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front and rear crumple zones",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Remote keyless entry system with alarm",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "EXTERIOR FEATURES",
+            "specifications": [
+                {
+                    "name": "Exterior Features",
+                    "trims": [
+                        "SE",
+                        "ECO",
+                        "SPORT",
+                        "LIMITED"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Hands-free Smart Liftgate",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Roof rack side rails",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dual fold-away heated power bodycolor side mirrors",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Side mirror-mounted turn-signal indicators",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "LED Center High-Mount Stop Light (CHMSL)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear spoiler",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chrome door handles ",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chrome front grille",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Premium front and rear fascias",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Premium side sills (metallic painted)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Solar control glass",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Privacy glass",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Variable intermittent windshield wipers/washer",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front windshield wiper de-icer (Standard on AWD)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Optional"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Shark-fin antenna",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Front fog lights",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Halogen Projector headlights",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "LED headlights",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "HID Xenon headlights",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Optional"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Automatic headlights",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "LED Daytime Running Lights (DRL)",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "LED tail lights",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Proximity Key entry with push button start",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "INTERIOR FEATURES",
+            "specifications": [
+                {
+                    "name": "Interior Features",
+                    "trims": [
+                        "SE",
+                        "ECO",
+                        "SPORT",
+                        "LIMITED"
+                    ],
+                    "specs": [
+                        {
+                            "name": "Panoramic tilt-and-slide sunroof",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Optional"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dual front automatic temperature control",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Floor console-mounted rear vents",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power windows with driver’s auto-up/down with pinch protection",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Power door locks",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "8-way power driver seat with power adjustable lumbar support",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Optional"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "6-way power passenger seat",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Heated front seats",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Heated rear seats",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Optional"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Ventilated front seats",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Optional"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cloth seating surfaces",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "YES Essentials",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leather seating surfaces",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "60/40 split fold-down rear seatback",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear reclining seat backs ",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rear center armrest",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Premium instrument panel and driver's side panel",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dual illuminated vanity mirrors",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Premium door sill plates",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Leather-wrapped steering wheel and shift knob",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tilt-and-telescopic steering wheel",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Steering-wheel-mounted audio, Bluetooth",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bluetooth",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Blue Link",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Auto-dimming rearview mirror with HomeLink",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Smart phone/USB and auxiliary input jacks",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "AM/FM/SiriusXM/CD/MP3 audio system with 6 speakers",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "AM/FM/SiriusXM/HD Radio/MP3 premium audio system with external amp and 8 Speakers",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "HD Radio",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "5-inch color touchscreen audio",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Standard"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Not Available"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "8-inch touchscreen navigation",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Standard"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "4.2-inch color trip computer with Electroluminescent Gauge Cluster",
+                            "trims": [
+                                {
+                                    "name": "SE",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "ECO",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "SPORT",
+                                    "value": "Not Available"
+                                },
+                                {
+                                    "name": "LIMITED",
+                                    "value": "Optional"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "WARRANTY",
+            "specifications": []
+        }
+    ]
+}

@@ -122,8 +122,8 @@ class Vehicles extends BaseComponent {
         };
 
         const years = this.props.years.map(year => <MenuItem key={year} value={year} primaryText={year}/>);
-        const models = this.props.models.map(model => <MenuItem key={model._id} value={model._id} primaryText={model.name}/>);
-        const trims = this.props.trims.map(trim => <MenuItem key={trim._id} value={trim._id} primaryText={trim.name}/>);
+        const models = this.props.models.map(model => <MenuItem key={model.id} value={model.id} primaryText={model.name}/>);
+        const trims = this.props.trims.map(trim => <MenuItem key={trim.id} value={trim.id} primaryText={trim.name}/>);
 
         const yearsWithLabel = [<MenuItem key={0} value={0} primaryText="Year"/>, ...years];
         const modelsWithLabel = [<MenuItem key={0} value={0} primaryText="Model"/>, ...models];
