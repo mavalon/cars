@@ -3,7 +3,7 @@
 
 //env object that applies the environment vars (this is used throughout to reference env so we can have defaults and such.
 let env = {
-    PORT: process.env.PORT || 3001,
+    PORT: process.env.PORT || 3000,
 
     /*  DATABASE_URL: process.env.DATABASE_URL || '',
      DATABASE_NAME: process.env.DATABASE_NAME || 'hma_dev_1',
