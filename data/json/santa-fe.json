@@ -45,6 +45,69 @@
                                 }
                             ]
                         }
+                    ],
+                    "packages": [
+                        {
+                            "image": "/images/packages/2016/santa-fe/lg/2016-hyundai-santa-fe-lwb-premium.jpg",
+                            "title": "Premium Package for SE",
+                            "total": "$3,750",
+                            "details": [
+                                "19-inch alloy wheels ",
+                                "Blind Spot Detection (BSD)",
+                                "Rear Cross-traffic Alert (RCTA)",
+                                "Lane Change Assist",
+                                "Side mirror-mounted turn-signal indicators",
+                                "Proximity Key entry with push button start",
+                                "Leather seating surfaces",
+                                "Leather-wrapped steering wheel and shift knob",
+                                "Power front passenger seat",
+                                "Hands-free Smart Liftgate with auto open",
+                                "Dual-zone automatic temperature control with CleanAir Ionizer",
+                                "Electroluminescent Gauge Cluster with color LCD Display",
+                                "Auto-dimming interior mirror with\n\t\t\t\t\tHomeLink",
+                                "Manual rear side window sunshades ",
+                                "Sliding 2"
+                            ]
+                        },
+                        {
+                            "image": "/images/packages/2016/santa-fe/lg/2016-hyundai-santa-fe-lwb-ultimate.jpg",
+                            "title": "Ultimate Package for SE",
+                            "total": "$3,800",
+                            "details": [
+                                "Requires Premium Package for SE",
+                                "Panoramic sunroof ",
+                                "Rear Parking Sensors",
+                                "Navigation system with 8-inch touchscreen",
+                                "Heated steering wheel   ",
+                                "Dimension",
+                                "Integrated Memory System (IMS) for driver seat and side\n\t\t\t\t\tmirrors",
+                                "Ventilated front seats",
+                                "Heated rear seats",
+                                "115-volt power outlet",
+                                "Premium door sill plates",
+                                "Ultimate liftgate badge"
+                            ]
+                        },
+                        {
+                            "image": "/images/packages/2016/santa-fe/lg/2016-hyundai-santa-fe-lwb-ultimate.jpg",
+                            "title": "Ultimate Package for Limited",
+                            "total": "$4,650",
+                            "details": [
+                                "HID Xenon headlights",
+                                "LED tail lights",
+                                "Panoramic sunroof ",
+                                "Rear Parking Sensors",
+                                "Navigation system with 8-inch touchscreen",
+                                "Infinity",
+                                "Heated steering wheel   ",
+                                "Integrated Memory System (IMS) for driver seat and side\n\t\t\t\t\tmirrors",
+                                "Ventilated front seats",
+                                "Heated rear seats",
+                                "115-volt power outlet",
+                                "Premium door sill plates",
+                                "Ultimate liftgate badge"
+                            ]
+                        }
                     ]
                 }
             ]

@@ -33,6 +33,28 @@
                                 }
                             ]
                         }
+                    ],
+                    "packages": [
+                        {
+                            "image": "/images/packages/2016/sonata-hybrid/lg/ultimate_package.jpg",
+                            "title": "Ultimate Package for Hybrid Limited",
+                            "total": "$4,500",
+                            "details": [
+                                "Lane Departure Warning (LDW)",
+                                "Forward Collision Warning (FCW)",
+                                "Automatic High Beam Assist",
+                                "Rear parking sensors",
+                                "Panoramic sunroof",
+                                "High-gloss window surround",
+                                "Smart Cruise Control with stop/start capability",
+                                "Electronic Parking Brake (EPB)",
+                                "LED interior lights",
+                                "Infinity",
+                                "8-inch navigation system",
+                                "HD Radio",
+                                "SiriusXM Travel Link"
+                            ]
+                        }
                     ]
                 }
             ]

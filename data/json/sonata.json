@@ -43,6 +43,70 @@
                                 }
                             ]
                         }
+                    ],
+                    "packages": [
+                        {
+                            "image": "/images/packages/2015/sonata/lg/sport_24_premium_package.jpg\n\t\t\t",
+                            "title": "Premium Package for Sport",
+                            "total": "$1,900",
+                            "details": [
+                                "Blind Spot Detection (BSD) with Rear Cross-traffic Alert\n\t\t\t\t",
+                                "Chrome exterior door handles with welcome light",
+                                "Proximity Key entry with push button start",
+                                "Hands-free smart trunk with auto open",
+                                "Sport seats—leather bolster with cloth inserts",
+                                "Leather-wrapped steering wheel and shift knob ",
+                                "Heated front seats",
+                                "Dual automatic temperature control",
+                                "Floor console-mounted rear vents",
+                                "Auto-down/up front passenger window"
+                            ]
+                        },
+                        {
+                            "image": "/images/packages/2015/sonata/lg/sport_24_tech_package.jpg\n\t\t\t",
+                            "title": "Tech Package for Sport ",
+                            "total": "$2,450",
+                            "details": [
+                                "Power tilt-and-slide sunroof",
+                                "8-inch navigation system",
+                                "SiriusXM Travel Link",
+                                "Dimension",
+                                "4.2-inch Color LCD Multi-Info Display and Electroluminescent Gauges",
+                                "Auto-dimming mirror with HomeLink"
+                            ]
+                        },
+                        {
+                            "image": "/images/packages/2015/sonata/lg/limited_tech_package.png",
+                            "title": "Tech Package for Limited\t\t",
+                            "total": "$3,100",
+                            "details": [
+                                "Panoramic sunroof",
+                                "High-gloss exterior window surround",
+                                "HID Xenon headlights",
+                                "4.2-inch Color LCD Multi-Info Display and Electroluminescent Gauges",
+                                "8-inch navigation system",
+                                "SiriusXM Travel Link",
+                                "Infinity",
+                                "Integrated Memory System (IMS) for driver seat and outside mirrors",
+                                "Ventilated front seats",
+                                "Heated steering wheel",
+                                "Rear side window sunshades",
+                                "LED interior lights"
+                            ]
+                        },
+                        {
+                            "image": "/images/packages/2015/sonata/lg/limited_ultimate_package.jpg\n\t\t\t",
+                            "title": "Ultimate Package for Limited",
+                            "total": "$1,750",
+                            "details": [
+                                "Automatic Emergency Braking (AEB)",
+                                "Lane Departure Warning (LDW)",
+                                "Automatic High Beam Assist",
+                                "Rear Parking Sensors",
+                                "Smart Cruise Control with stop/start capability",
+                                "Electronic Parking Brake (EPB) with Automatic Vehicle Hold "
+                            ]
+                        }
                     ]
                 }
             ]

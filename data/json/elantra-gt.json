@@ -45,6 +45,42 @@
                                 }
                             ]
                         }
+                    ],
+                    "packages": [
+                        {
+                            "image": "/images/packages/2016/elantra-gt/2016-hyundai-elantra-gt-stylepackage-lg.jpg",
+                            "title": "Style Package",
+                            "total": "$1,975",
+                            "details": [
+                                "17-inch alloy wheels w/ P215/45/R17 tires\n\t\t\t\t\t\t\t",
+                                "Front fog lights",
+                                "Sport-tuned suspension",
+                                "Side mirrors with integrated turn-signal indicators\n\t\t\t\t\t\t\t",
+                                "Leather-wrapped steering wheel and shift knob\n\t\t\t\t\t\t\t",
+                                "Aluminum pedals",
+                                "Power driver seat with power lumbar support\n\t\t\t\t\t\t\t",
+                                "Proximity Key entry with push button start",
+                                "Driver’s window auto-up \n\t\t\t\t\t\t\t",
+                                "Hidden cargo-area storage compartment\n\t\t\t\t\t\t",
+                                "Blue Link"
+                            ]
+                        },
+                        {
+                            "image": "/images/packages/2014/elantragt/2014_elantra_gt_techpackages_main_2.jpg\n\t\t\t\t\t",
+                            "title": "Tech Package",
+                            "total": "$3,950",
+                            "details": [
+                                "Requires Style Package",
+                                "Panoramic sunroof",
+                                "Leather seating surfaces",
+                                "Navigation system with 7-inch touchscreen\n\t\t\t\t\t\t",
+                                "Rearview camera",
+                                "Automatic headlight control",
+                                "LED tail lights",
+                                "Ventilated front seats",
+                                "Dual-zone automatic temperature control\n\t\t\t\t\t\t"
+                            ]
+                        }
                     ]
                 }
             ]

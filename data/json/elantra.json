@@ -45,6 +45,75 @@
                                 }
                             ]
                         }
+                    ],
+                    "packages": [
+                        {
+                            "image": "/images/packages/2017/elantra/se_popular.jpg",
+                            "title": "Popular Equipment for SE",
+                            "total": "$800",
+                            "details": [
+                                "7-inch color touchscreen display audio ",
+                                "Android Auto",
+                                "Rearview camera with dynamic guidelines",
+                                "Automatic headlight control",
+                                "16-inch alloy wheels with P205/55R16 tires",
+                                "Steering-wheel-mounted audio/cruise controls",
+                                "Cruise control",
+                                "Bluetooth",
+                                "Heated exterior mirrors",
+                                "Hood insulator"
+                            ]
+                        },
+                        {
+                            "image": "/images/packages/2017/elantra/se_tech.jpg",
+                            "title": "Tech Package for SE",
+                            "total": "$1,300",
+                            "details": [
+                                "Requires Popular Equipment Package for SE",
+                                "LED Daytime Running Lights",
+                                "Blind Spot Detection with Rear Cross-traffic Alert",
+                                "3.5-inch TFT monochromatic cluster display",
+                                "Leather-wrapped steering wheel and shift knob",
+                                "Dual automatic temperature control with Auto Defogging System",
+                                "Proximity Key with push button start",
+                                "Hands-free smart trunk",
+                                "Door handle approach lights ",
+                                "Heated front seats",
+                                "Sunvisor extensions",
+                                "Illuminated vanity mirrors",
+                                "Auto-up driver’s window",
+                                "Sliding armrest",
+                                "Front passenger seatback pocket"
+                            ]
+                        },
+                        {
+                            "image": "/images/packages/2017/elantra/limited_tech.jpg",
+                            "title": "Tech Package for Limited",
+                            "total": "$2,500",
+                            "details": [
+                                "Navigation system with 8-inch touchscreen",
+                                "Infinity",
+                                "Clari-fi",
+                                "4.2-inch color instrument cluster display",
+                                "Power tilt-and-slide sunroof",
+                                "Heated rear seats",
+                                "Auto-dimming rearview mirror with HomeLink"
+                            ]
+                        },
+                        {
+                            "image": "/images/packages/2017/elantra/ultimate.jpg",
+                            "title": "Ultimate Package for Limited",
+                            "total": "$1,900",
+                            "details": [
+                                "Requires Tech Package for Limited",
+                                "HID headlights with Dynamic Bending Light",
+                                "Automatic Emergency Braking (AEB) with Pedestrian Detection",
+                                "Smart Cruise Control (SCC)",
+                                "Lane Departure Warning",
+                                "Lane Keep Assist System (LKAS)",
+                                "Integrated Memory System (IMS) for driver’s seat and exterior mirrors"
+                            ]
+                        }
                     ]
                 }
             ]

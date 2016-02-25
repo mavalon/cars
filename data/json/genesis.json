@@ -45,6 +45,59 @@
                                 }
                             ]
                         }
+                    ],
+                    "packages": [
+                        {
+                            "image": "/images/packages/2016/genesis/2016-genesis-sedan-package-details-266x134-sunroof.jpg\n\t\t\t",
+                            "title": "3.8 Signature Package",
+                            "total": "$3,900",
+                            "details": [
+                                "Power tilt-and-slide panoramic sunroof ",
+                                "Integrated Memory System (IMS)",
+                                "Power tilt-and-telescopic steering wheel",
+                                "Auto-dimming outside mirrors",
+                                "Blind Spot Detection/Rear Cross-traffic Alert",
+                                "Lexicon",
+                                "LED fog lights",
+                                "Parking guidelines for rearview camera",
+                                "Power rear sunshade and manual rear side shades",
+                                "Ventilated front seats"
+                            ]
+                        },
+                        {
+                            "image": "/images/packages/2016/genesis/2016-genesis-sedan-package-details-266x134-trip-computer.jpg\n\t\t\t",
+                            "title": "3.8 Tech Package",
+                            "total": "$3,500",
+                            "details": [
+                                "Requires Signature Package",
+                                "Premium leather seats ",
+                                "Power driver seat cushion extender and side bolster",
+                                "Lane Departure Warning",
+                                "Lane Keep Assist",
+                                "Smart Cruise Control with stop/start",
+                                "Haptic steering wheel",
+                                "Automatic Emergency Braking",
+                                "Electronic Parking Brake with Automatic Vehicle Hold",
+                                "Pre-safety seatbelt",
+                                "High Beam Assist",
+                                "Front and Rear Parking Sensors",
+                                "7-inch color LCD Multi-Information Display"
+                            ]
+                        },
+                        {
+                            "image": "/images/packages/2016/genesis/2016-genesis-sedan-package-details-266x134-hud.jpg\n\t\t\t",
+                            "title": "3.8 Ultimate Package",
+                            "total": "$3,500",
+                            "details": [
+                                "Requires Tech Package",
+                                "Genuine matte-finish wood trim and aluminum trim",
+                                "Full Color Heads-up Display",
+                                "Premium 9.2-inch touchscreen and DIS navigation with HD Display",
+                                "Lexicon",
+                                "Power trunk lid",
+                                "Dual-mode front vent control HVAC and CO"
+                            ]
+                        }
                     ]
                 }
             ]

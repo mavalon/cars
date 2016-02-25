@@ -54,6 +54,53 @@
                                 }
                             ]
                         }
+                    ],
+                    "packages": [
+                        {
+                            "image": "/images/2016/tucson/byo/bnp/2016_tucson_preferred_266x134.jpg",
+                            "title": "Preferred Package for SE",
+                            "total": "$600",
+                            "details": [
+                                "LED Daytime Running Lights (DRL)",
+                                "Fog lights (halogen)",
+                                "Roof rack side rails",
+                                "Premium side sills (metallic painted) ",
+                                "Driver’s auto-down/up power window",
+                                "Dual illuminated vanity mirrors",
+                                "Illuminated glove compartment"
+                            ]
+                        },
+                        {
+                            "image": "/images/2016/tucson/byo/bnp/2016_tucson_popular_266x134.jpg",
+                            "title": "Popular Equipment Package for SE",
+                            "total": "$750",
+                            "details": [
+                                "Power driver seat with power lumbar support",
+                                "LED Daytime Running Lights (DRL)",
+                                "Fog lights (halogen)",
+                                "Roof rack side rails",
+                                "Premium side sills (metallic painted) ",
+                                "Driver’s auto-down/up power window",
+                                "Dual illuminated vanity mirrors",
+                                "Illuminated glove compartment"
+                            ]
+                        },
+                        {
+                            "image": "/images/2016/tucson/byo/bnp/2016_tucson_ultimate_266x134.jpg",
+                            "title": "Ultimate Package for Limited",
+                            "total": "$2,750",
+                            "details": [
+                                "High Intensity Discharge (HID) headlights with Dynamic Bending Lighting System (DBLS)",
+                                "Lane Departure Warning (LDW)",
+                                "Automatic Emergency Braking (AEB) with Pedestrian Detection",
+                                "Rear parking sensors",
+                                "Panoramic sunroof",
+                                "Front LED maplights",
+                                "4.2-inch LCD Electroluminescent Gauge Cluster",
+                                "Ventilated front seats",
+                                "Heated rear seats"
+                            ]
+                        }
                     ]
                 }
             ]

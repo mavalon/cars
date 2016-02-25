@@ -54,6 +54,53 @@
                                 }
                             ]
                         }
+                    ],
+                    "packages": [
+                        {
+                            "image": "/images/packages/2012/veloster/image/style-pckg.jpg",
+                            "title": "Style Package for Veloster",
+                            "total": "$2,100",
+                            "details": [
+                                "18-inch alloy wheels with P225/40R18 tires",
+                                "Chrome grille surround with Piano Black highlights ",
+                                "Front fog lights",
+                                "Panoramic sunroof",
+                                "Piano Black interior accents ",
+                                "Hyundai Blue Link",
+                                "Dimension",
+                                "Leatherette bolster seats and door inserts",
+                                "Leather-wrapped steering wheel and shift knob",
+                                "Alloy pedals",
+                                "Driver’s auto-up window"
+                            ]
+                        },
+                        {
+                            "image": "/images/2016/Veloster/spec/2016-hyundai-veloster-packages-266x134.jpg",
+                            "title": "Tech Package for Veloster",
+                            "total": "$2,100",
+                            "details": [
+                                "Requires Style Package",
+                                "Navigation system with SiriusXM Travel Link",
+                                "Automatic temperature control with auto defog",
+                                "Automatic headlights",
+                                "Proximity Key entry with electronic push button start",
+                                "115-volt outlet",
+                                "Rear parking sensors "
+                            ]
+                        },
+                        {
+                            "image": "/images/2016/Veloster/spec/2016-hyundai-veloster-packages-266x134.jpg",
+                            "title": "Tech Package for Turbo",
+                            "total": "$2,700",
+                            "details": [
+                                "Navigation system with SiriusXM Travel Link",
+                                "Automatic temperature control with auto defog ",
+                                "Automatic headlights",
+                                "115-volt outlet",
+                                "Rear parking sensors ",
+                                "Panoramic Sunroof"
+                            ]
+                        }
                     ]
                 }
             ]

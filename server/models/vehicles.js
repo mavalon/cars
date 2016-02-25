@@ -4,6 +4,7 @@ let mongoose = require('mongoose');
 let jsonfile = require('jsonfile');
 let htmlToJson = require('html-to-json');
 let path = require('path');
+let util = require('util');
 
 let cwd = process.cwd();
 
@@ -134,7 +135,13 @@ module.exports = {
          */
     },
 
-    importSpecs() {
+    postSpecs(req, res) {
+        const params = req.params;
+        importSpecs('sonata-hybrid');
+        res.send(JSON.stringify(params));
+    },
+
+    cmdSpecs() {
         const args = process.argv;
         const urls = (args.slice(2));
 
@@ -142,124 +149,205 @@ module.exports = {
             console.log('specify a specifications model');
             process.exit();
         }
+        importSpecs(urls[0], true);
+    },
 
-        const getLowestChild = (child) => {
-            if (!child) return '';
-            if (child.name === 'img') {
-                return child.attribs.title;
+};
+
+function importSpecs(model, isConsole) {
+    const getLowestChild = (child) => {
+        if (!child) return '';
+        if (child.name === 'img') {
+            return child.attribs.title;
+        }
+        if (child.children) {
+            if (child.children.length > 0) {
+                return getLowestChild(child.children[0]);
             }
-            if (child.children) {
-                if (child.children.length > 0) {
-                    return getLowestChild(child.children[0]);
+        }
+        return child.data;
+    };
+
+    try {
+        console.log('start import');
+        const url = `https://www.hyundaiusa.com/${model}/specifications.aspx`;
+        htmlToJson.request(url, {
+            divs: ['.specs_trim_table_container', ($divs) => {
+                return $divs;
+            }]
+        }, (err, result) => {
+            let obj = {
+                sections: []
+            };
+
+            // loop through all main sections
+            for (let m = 0; m < result.divs.length; m++) {
+                const section = result.divs[m];
+                const sectionName = section.find('h3').text();
+                console.log(`section: ${sectionName}`);
+
+                // console.log(util.inspect(section, {showHidden: false, depth: 2}));
+                let packages = null;
+                const isPackage = (section[0].attribs.id === 'specsTrimPRICINGPACKAGES');
+                if (isPackage) {
+                    packages = section.find('.package_container');
                 }
-            }
-            return child.data;
-        };
+                /*
+                 */
+                const subsections = section.find('.static_table');
 
-        try {
-            console.log('start import');
-            const url = `https://www.hyundaiusa.com/${urls[0]}/specifications.aspx`;
-            htmlToJson.request(url, {
-                divs: ['.specs_trim_table_container', ($divs) => {
-                    return $divs;
-                }]
-            }, (err, result) => {
-                let obj = {
-                    sections: []
-                };
+                let subsectionsArr = [];
 
-                // loop through all main sections
-                for (let m = 0; m < result.divs.length; m++) {
-                    const section = result.divs[m];
-                    const sectionName = section.find('h3').text();
-                    console.log(`section: ${sectionName}`);
+                // loop through all subsections
+                for (let s = 0; s < subsections.length; s++) {
+                    const subsection = subsections[s];
+                    const subsectionObj = {};
+                    let thead = subsection.children.find(x => x.name === 'thead').children.find(y => y.name === 'tr');
+                    let tbody = subsection.children.find(x => x.name === 'tbody');
 
-                    const subsections = section.find('.static_table');
+                    let begin = true;
+                    let trims = [];
 
-                    let subsectionsArr = [];
-
-                    // loop through all subsections
-                    for (let s = 0; s < subsections.length; s++) {
-                        const subsection = subsections[s];
-                        const subsectionObj = {};
-                        let thead = subsection.children.find(x => x.name === 'thead').children.find(y => y.name === 'tr');
-                        let tbody = subsection.children.find(x => x.name === 'tbody');
-
-                        let begin = true;
-                        let trims = [];
-
-                        // loop through table headers
-                        for (let r = 0; r < thead.children.length; r++) {
-                            let row = thead.children[r];
-                            if (row.name === 'th') {
-                                if (begin) {
-                                    // subsection name
-                                    subsectionObj.name = getLowestChild(row.children[0]);
-                                    begin = false;
-                                } else {
-                                    // add to trims array
-                                    const child = getLowestChild(row.children[0]);
-                                    trims.push(child);
-                                }
+                    // loop through table headers
+                    for (let r = 0; r < thead.children.length; r++) {
+                        let row = thead.children[r];
+                        if (row.name === 'th') {
+                            if (begin) {
+                                // subsection name
+                                subsectionObj.name = getLowestChild(row.children[0]);
+                                begin = false;
+                            } else {
+                                // add to trims array
+                                const child = getLowestChild(row.children[0]);
+                                trims.push(child);
                             }
                         }
-                        subsectionObj.trims = trims;
-                        subsectionObj.specs = [];
+                    }
+                    subsectionObj.trims = trims;
+                    subsectionObj.specs = [];
 
-                        // loop through table body (i.e., specs)
-                        for (let b = 0; b < tbody.children.length; b++) {
-                            let row = tbody.children[b];
+                    // loop through table body (i.e., specs)
+                    for (let b = 0; b < tbody.children.length; b++) {
+                        let row = tbody.children[b];
 
-                            if (row.name === 'tr') {
-                                let trimCount = 0;
-                                let start = true;
-                                let spec = {
-                                    name: '',
-                                    trims: []
-                                };
-                                spec.trims = [];
+                        if (row.name === 'tr') {
+                            let trimCount = 0;
+                            let start = true;
+                            let spec = {
+                                name: '',
+                                trims: []
+                            };
+                            spec.trims = [];
 
-                                for (let c = 0; c < row.children.length; c++) {
-                                    let cell = row.children[c];
+                            for (let c = 0; c < row.children.length; c++) {
+                                let cell = row.children[c];
 
-                                    if (cell.name === 'td') {
-                                        if (start) {
-                                            spec.name = getLowestChild(cell.children[0]);
-                                            start = false;
-                                        } else {
-                                            let trim = {
-                                                name: subsectionObj.trims[trimCount],
-                                                value: getLowestChild(cell.children[0])
-                                            };
-                                            spec.trims.push(trim);
-                                            trimCount++;
+                                if (cell.name === 'td') {
+                                    if (start) {
+                                        spec.name = getLowestChild(cell.children[0]);
+                                        start = false;
+                                    } else {
+                                        let trim = {
+                                            name: subsectionObj.trims[trimCount],
+                                            value: getLowestChild(cell.children[0])
+                                        };
+                                        spec.trims.push(trim);
+                                        trimCount++;
+                                    }
+                                }
+                            }
+                            subsectionObj.specs.push(spec);
+                        }
+                    }
+                    //console.log('now');
+                    //console.log(isPackage);
+                    if (isPackage) {
+                        //let packages = [];
+                        subsectionObj.packages = [];
+                        for (let p = 0; p < packages.length; p++) {
+                            const pkg = packages[p].children;
+                            //console.log(pkg);
+
+                            let pack = {};
+                            for (let d = 0; d < pkg.length; d++) {
+                                if (pkg[d].type !== 'text') {
+                                    let elem = pkg[d];
+
+                                    let cont = true;
+                                    if (elem.attribs) {
+                                        if (elem.attribs.class) {
+                                            switch (elem.attribs.class) {
+                                                case 'package_title':
+                                                    pack.title = getLowestChild(elem);
+                                                    break;
+                                                case 'package_detail':
+                                                    let details = [];
+                                                    for (let l = 0; l < elem.children.length; l++) {
+                                                        let item = elem.children[l];
+                                                        if (item.name) {
+                                                            if (item.name === 'li') {
+                                                                let listitem = getLowestChild(item.children[0]);
+                                                                details.push(listitem);
+                                                            }
+                                                        }
+                                                    }
+                                                    pack.details = details;
+                                                    break;
+                                                case 'package_image':
+                                                    for (let e = 0; e < elem.children.length; e++) {
+                                                        let o = elem.children[e];
+                                                        if (o.attribs) {
+                                                            if (o.attribs.class) {
+                                                                let cls = o.attribs.class;
+                                                                console.log(cls);
+                                                                pack.image = o.attribs.src;
+                                                            }
+                                                        }
+                                                    }
+                                                    break;
+                                                case 'package_total':
+                                                    for (let i = 0; i < elem.children.length; i++) {
+                                                        let span = elem.children[i];
+                                                        if (span.name) {
+                                                            if (span.name === 'span') {
+                                                                pack.total = getLowestChild(span);
+                                                            }
+                                                        }
+                                                    }
+                                                    break;
+                                            }
                                         }
                                     }
                                 }
-                                subsectionObj.specs.push(spec);
                             }
+                            subsectionObj.packages.push(pack); // = [..., pack];
+                            ///console.log(JSON.stringify(pkg));
+                            // console.log(util.inspect(pkg, {showHidden: false, depth: 1}));
                         }
-
-                        subsectionsArr.push(subsectionObj);
                     }
-
-                    let sectionObject = {
-                        category: sectionName,
-                        specifications: subsectionsArr
-                    };
-                    obj.sections.push(sectionObject);
+                    /*
+                     */
+                    subsectionsArr.push(subsectionObj);
                 }
 
-                const file = path.normalize(`${cwd}/data/json/${urls[0]}.json`);
+                let sectionObject = {
+                    category: sectionName,
+                    specifications: subsectionsArr
+                };
+                obj.sections.push(sectionObject);
+            }
 
-                jsonfile.writeFile(file, obj, (err) => {
-                    console.log('errr');
-                    console.error(err);
+            const file = path.normalize(`${cwd}/data/json/${model}.json`);
+
+            jsonfile.writeFile(file, obj, (err) => {
+                console.log('errr');
+                console.error(err);
+                if (isConsole) {
                     process.exit();
-                });
+                }
             });
-        } catch (ass) {
-            console.log(ass);
-        }
+        });
+    } catch (ass) {
+        console.log(ass);
     }
-};
+}

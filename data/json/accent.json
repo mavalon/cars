@@ -45,6 +45,39 @@
                                 }
                             ]
                         }
+                    ],
+                    "packages": [
+                        {
+                            "image": "/images/packages/2016/accent/2016-hyundai-accent-package-266x134-popular.jpg",
+                            "title": "Popular Package for SE Sedan",
+                            "total": "$600",
+                            "details": [
+                                "Requires SE Sedan A/T",
+                                "Heated side mirrors w/driver’s blind spot mirror",
+                                "Steering-wheel-mounted audio controls",
+                                "Cruise control",
+                                "Bluetooth",
+                                "Tilt-and-telescopic steering wheel",
+                                "Sliding armrest storage box"
+                            ]
+                        },
+                        {
+                            "image": "/images/packages/2015/accent/2015_accent_package_266x134_style.jpg",
+                            "title": "Style Package for SE Sedan",
+                            "total": "$800",
+                            "details": [
+                                "Requires Popular Package",
+                                "Premium cloth seats",
+                                "Leather-wrapped steering wheel and shift knob",
+                                "Piano Black interior accents",
+                                "Fog lights ",
+                                "16-inch alloy wheels with 195/50R16 tires",
+                                "Rear disc brakes",
+                                "Projector headlights with LED headlight accents",
+                                "Headlight welcome/escort function",
+                                "Driver’s auto-up window"
+                            ]
+                        }
                     ]
                 }
             ]

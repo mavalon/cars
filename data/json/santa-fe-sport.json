@@ -45,6 +45,73 @@
                                 }
                             ]
                         }
+                    ],
+                    "packages": [
+                        {
+                            "image": "/images/packages/2017/santa-fe-sport/lg/pop_santafe.jpg",
+                            "title": "Popular Equipment Package for Sport ",
+                            "total": "$1,500",
+                            "details": [
+                                "7-inch display audio with Android Auto",
+                                "Dual automatic temperature control with CleanAir Ionizer",
+                                "Hyundai Blue Link",
+                                "Power driver seat with 4-way lumbar support",
+                                "LED Daytime Running Lights (DRL)",
+                                "Front fog lights",
+                                "Roof side rails"
+                            ]
+                        },
+                        {
+                            "image": "/images/packages/2017/santa-fe-sport/lg/santa_fe_sport_premium_package.jpg\n\t\t\t",
+                            "title": "Premium Package for Sport",
+                            "total": "$3,550",
+                            "details": [
+                                "Requires Popular Equipment Package",
+                                "Blind Spot Detection (BSD) with Rear Cross-traffic Alert and Lane Change Assist",
+                                "Dual power side mirrors with turn signal indicators",
+                                "Hands-free Smart Liftgate with auto open",
+                                "Proximity key entry with push button start",
+                                "Leather-wrapped steering wheel and shift knob",
+                                "Leather seating surfaces and heated front seats",
+                                "Power passenger seat with height-adjustment",
+                                "Sliding second-row seats with cargo-area releases",
+                                "Electroluminescent Gauge Cluster with color LCD Multi-Info Display",
+                                "Auto-dimming inside rearview mirror with HomeLink",
+                                "Manual rear side window sunshades",
+                                "Premium door sill plates"
+                            ]
+                        },
+                        {
+                            "image": "/images/packages/2017/santa-fe-sport/lg/tech_santafe.jpg",
+                            "title": "Tech Package for Sport ",
+                            "total": "$3,650",
+                            "details": [
+                                "Requires Premium Package",
+                                "Panoramic sunroof ",
+                                "8-inch touchscreen navigation system with Android Auto",
+                                "Multi-view Camera System",
+                                "Infinity",
+                                "Rear parking sensors",
+                                "Integrated Memory System (IMS) for driver seat and side mirrors",
+                                "Ventilated front seats",
+                                "Heated steering wheel ",
+                                "Heated rear seats"
+                            ]
+                        },
+                        {
+                            "image": "/images/packages/2017/santa-fe-sport/lg/techultimate_santafe.jpg",
+                            "title": "Tech Package for Sport 2.0T Ultimate ",
+                            "total": "$1,550",
+                            "details": [
+                                "Smart Cruise Control (SCC) with stop/start",
+                                "Automatic Emergency Braking (AEB) with Pedestrian Detection",
+                                "Lane Departure Warning (LDW)",
+                                "Electronic Parking Brake (EPB) with Automatic Vehicle Hold",
+                                "Dynamic Bending Light (DBL)",
+                                "High Beam Assist",
+                                "Auto-leveling headlights"
+                            ]
+                        }
                     ]
                 }
             ]
