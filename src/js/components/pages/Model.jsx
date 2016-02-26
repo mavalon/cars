@@ -116,8 +116,8 @@ export default class ModelPage extends React.Component {
     }
 
     render() {
-        console.log(this.props);
-        console.log(this.props.filename);
+        //console.log(this.props);
+        //console.log(this.props.filename);
         const today = new Date();
         const from = today.getFullYear() - 3;
         const to = today.getFullYear() + 3;

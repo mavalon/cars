@@ -1,5 +1,17 @@
 import React from 'react';
 
+const styles = {
+    table: {
+        width: '100%',
+        padding: '20px 0'
+    },
+    th: {
+        textAlign: 'left'
+    },
+    td: {
+        fontSize: '11px'
+    }
+}
 export default class ModelPage extends React.Component {
     constructor(props) {
         super(props);
@@ -7,7 +19,7 @@ export default class ModelPage extends React.Component {
 
     render() {
         let section = this.props.section;
-        let specs = [];
+        let info = [];
 
         if (section.specifications) {
             for (let s = 0; s < section.specifications.length; s++) {
@@ -16,31 +28,48 @@ export default class ModelPage extends React.Component {
                 let trims = [];
                 for (let t = 0; t < spec.trims.length; t++) {
                     let key = `${s}.${t}`;
-                    trims.push(<th key={key}>{spec.trims[t]}</th>);
+                    trims.push(<th style={styles.th} key={key}>{spec.trims[t]}</th>);
+                }
+
+                let rows = [];
+                for (let n = 0; n < spec.specs.length; n++) {
+                    let feature = spec.specs[n];
+                    //let details = spec.trims;
+                    let key = `${s}.${n}.0.0`;
+                    let cells = [];
+
+                    for (let r = 0; r < feature.trims.length; r++) {
+                        let key = `${s}.${n}.${r}`;
+                        //console.log(feature.trims[r].value);
+                        cells.push(<td style={styles.td} title={spec.trims[r].name} key={key}>{feature.trims[r].value}</td>);
+                    }
+                    key = `${s}.${n}`;
+                    rows.push(<tr key={key}>
+                            <td style={styles.td}>{feature.name}</td>
+                            {cells}
+                        </tr>);
                 }
 
                 let table =
-                    <table key={s}>
+                    <table key={s} style={styles.table}>
                         <thead>
                             <tr>
-                                <th>{spec.name}</th>
+                                <th style={styles.th}>{spec.name}</th>
                                 {trims}
                             </tr>
                         </thead>
                         <tbody>
-                            <tr>
-                                <td></td>
-                            </tr>
+                            {rows}
                         </tbody>
                     </table>;
 
-                specs.push(table);
+                info.push(table);
             }
         }
         return (
             <div>
                 {section.category}
-                {specs}
+                {info}
             </div>
         );
     }
