@@ -1,6 +1,6 @@
 import http from '../tools/http.js';
 
-export function getModel(modelId) {
+export function getModel(modelId, cb) {
     //console.log('model');
     //console.log(modelId);
     return (dispatch) => {
@@ -11,6 +11,7 @@ export function getModel(modelId) {
         return http(`/api/model/${modelId}`, params).then((data) => {
             let model = data;
             if (data.length === 1) model = data[0];
+            cb(data);
             dispatch(loadModel(model));
         });
     };
@@ -22,6 +23,10 @@ export function loadModel(model) {
 
 export function selectType(type) {
     return {type: 'SELECT_TYPE', selectedType: type};
+}
+
+export function updateName(name) {
+    return {type: 'UPDATE_NAME', name: name};
 }
 
 export function selectYear(year) {

@@ -21,6 +21,11 @@ export default function(state = initialState, action) {
                 selectedType: action.model.type,
                 name: action.model.name
             };
+        case 'UPDATE_NAME':
+            return {
+                ...state,
+                name: action.name
+            }
         case 'SELECT_TYPE':
             return {
                 ...state,

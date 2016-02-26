@@ -5,6 +5,7 @@ let jsonfile = require('jsonfile');
 let htmlToJson = require('html-to-json');
 let path = require('path');
 let util = require('util');
+let fs = require('fs');
 
 let cwd = process.cwd();
 
@@ -71,7 +72,7 @@ module.exports = {
 
     getModel(req, res) {
         const params = req.params;
-        const filters = {_id: params.id};
+        const filters = {id: params.id};
         Vehicles.find(filters).exec((err, result) => {
             res.send(result);
         });
@@ -122,6 +123,7 @@ module.exports = {
                     save(trimLevel);
                 }
             }
+            //process.exit();
         });
 
         /*
@@ -151,6 +153,17 @@ module.exports = {
         }
         importSpecs(urls[0], true);
     },
+
+    getSpecifications(req, res) {
+        const params = req.params;
+        const fname = params.filename;
+        const file = path.normalize(`${cwd}/data/json/${fname}.json`);
+        fs.readFile(file, 'utf8', (err, data) => {
+            if (err) throw err;
+            //let json = JSON.parse(data);
+            res.send(data);
+        });
+    }
 
 };
 

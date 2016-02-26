@@ -5,6 +5,7 @@ import vehicles from '../reducers/vehiclesReducer';
 import model from '../reducers/modelReducer';
 import notifications from '../reducers/notificationsReducer';
 import apiErrors from '../reducers/apiErrorsReducer';
+import specifications from '../reducers/specsReducer';
 
 const rootReducer = combineReducers({
     user,
@@ -12,7 +13,8 @@ const rootReducer = combineReducers({
     notifications,
     apiErrors,
     vehicles,
-    model
+    model,
+    specifications
 });
 
 export default rootReducer;
