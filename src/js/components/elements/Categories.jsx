@@ -25,7 +25,6 @@ export default class ModelPage extends React.Component {
 
         return (
             <div>
-                {this.props.filename}
                 {rows}
             </div>
         );

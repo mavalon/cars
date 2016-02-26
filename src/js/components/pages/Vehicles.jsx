@@ -96,10 +96,10 @@ class Vehicles extends BaseComponent {
         this.setState({selectedModel: value});
         this.props.selectModel(value);
 
-        this.setState({selectedTrim: 0});
-        this.props.selectTrim(0);
+        //this.setState({selectedTrim: 0});
+        //this.props.selectTrim(0);
 
-        this.props.getTrims(value);
+        //this.props.getTrims(value);
     };
 
     handleTrimChange = (event, index, value) => {
@@ -145,9 +145,6 @@ class Vehicles extends BaseComponent {
                                 <DropDownMenu disabled={this.props.models.length < 2} value={this.state.selectedModel} onChange={this.handleModelChange}>
                                     {modelsWithLabel}
                                 </DropDownMenu>
-                                <DropDownMenu disabled={this.props.trims.length < 2} value={this.state.selectedTrim} onChange={this.handleTrimChange}>
-                                    {trimsWithLabel}
-                                </DropDownMenu>
                             </FormContainer>
                             <div className="row middle-xs center-xs">
                                 <VehicleActions></VehicleActions>
@@ -192,3 +189,9 @@ const mapDispatchToProps = dispatch => bindActionCreators({
 export default connect(mapStateToProps, mapDispatchToProps)(
     Page(Vehicles)
 );
+
+/*
+ <DropDownMenu disabled={this.props.trims.length < 2} value={this.state.selectedTrim} onChange={this.handleTrimChange}>
+ {trimsWithLabel}
+ </DropDownMenu>
+ */

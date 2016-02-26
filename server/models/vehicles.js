@@ -180,6 +180,19 @@ function importSpecs(model, isConsole) {
         }
         return child.data;
     };
+    const getImageSrc = (child) => {
+        if (!child) return '';
+        if (child.name === 'img') {
+            return child.attribs.src;
+        }
+        if (child.children) {
+            if (child.children.length > 0) {
+                let nextChild = child.children[0];
+                return getImageSrc(nextChild);
+            }
+        }
+        return child.data;
+    };
 
     try {
         console.log('start import');
@@ -201,14 +214,19 @@ function importSpecs(model, isConsole) {
 
                 // console.log(util.inspect(section, {showHidden: false, depth: 2}));
                 let packages = null;
+                let warranty = null;
                 const isPackage = (section[0].attribs.id === 'specsTrimPRICINGPACKAGES');
+                const isWarranty = (section[0].attribs.id === 'specsTrimWarranty');
+                console.log(isWarranty);
                 if (isPackage) {
                     packages = section.find('.package_container');
+                }
+                if (isWarranty) {
+                    warranty = section.find('.coverage_table');
                 }
                 /*
                  */
                 const subsections = section.find('.static_table');
-
                 let subsectionsArr = [];
 
                 // loop through all subsections
@@ -238,6 +256,8 @@ function importSpecs(model, isConsole) {
                     }
                     subsectionObj.trims = trims;
                     subsectionObj.specs = [];
+                    //subsectionObj.warranties = [];
+
 
                     // loop through table body (i.e., specs)
                     for (let b = 0; b < tbody.children.length; b++) {
@@ -347,6 +367,23 @@ function importSpecs(model, isConsole) {
                     category: sectionName,
                     specifications: subsectionsArr
                 };
+                if (isWarranty) {
+                    sectionObject.warranties = [];
+                    if (warranty.length > 0) {
+                        const trs = warranty[0].children;
+                        for (let r = 0; r < trs.length; r++) {
+                            const tr = trs[r];
+                            if (tr.name === 'tr') {
+                                for (let c = 0; c < tr.children.length; c++) {
+                                    const child = tr.children[c];
+                                    if (child.name === 'td') {
+                                        sectionObject.warranties.push(getImageSrc(child));
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
                 obj.sections.push(sectionObject);
             }
 

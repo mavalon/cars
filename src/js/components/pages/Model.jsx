@@ -32,7 +32,7 @@ const styles = {
         marginBottom: 25
     },
     outer: {
-        padding: '0 20px',
+        padding: '0 20px 20px',
         width: '100%'
     },
     inner: {
@@ -50,7 +50,8 @@ const styles = {
         padding: '10px 0 10px 25px'
     },
     wide: {
-        width: '100%'
+        width: '100%',
+        paddingBottom: '20px'
     }
 };
 
