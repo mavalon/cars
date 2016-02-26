@@ -19,7 +19,7 @@ const styles = {
         fontSize: 24,
         paddingTop: 16,
         marginBottom: 12,
-        fontWeight: 400,
+        fontWeight: 400
     },
     paperStyle: {
         flexDirection: 'column',
@@ -39,7 +39,7 @@ const styles = {
         padding: '10px'
     },
     listItem: {
-        width: '256px',
+        width: '256px'
     },
     list: {
         width: '256px',
@@ -98,7 +98,7 @@ export default class ModelPage extends React.Component {
         console.log('MOUNTED');
         if (this.state.mode === 'edit') {
             this.props.getModel(this.props.params.id, (data) => {});
-            this.props.getSpecifications('accent');
+            this.props.getSpecifications(this.props.params.id);
         } else {
             const today = new Date();
             const year = (this.props.params.year) ? this.props.params.year : today.getFullYear();

@@ -11,7 +11,7 @@ const styles = {
     td: {
         fontSize: '11px'
     }
-}
+};
 export default class ModelPage extends React.Component {
     constructor(props) {
         super(props);
@@ -34,13 +34,11 @@ export default class ModelPage extends React.Component {
                 let rows = [];
                 for (let n = 0; n < spec.specs.length; n++) {
                     let feature = spec.specs[n];
-                    //let details = spec.trims;
                     let key = `${s}.${n}.0.0`;
                     let cells = [];
 
                     for (let r = 0; r < feature.trims.length; r++) {
                         let key = `${s}.${n}.${r}`;
-                        //console.log(feature.trims[r].value);
                         cells.push(<td style={styles.td} title={spec.trims[r].name} key={key}>{feature.trims[r].value}</td>);
                     }
                     key = `${s}.${n}`;
