@@ -27,15 +27,16 @@ export default class ModelPage extends React.Component {
         let html;
         if (pkgs) {
             let data = [];
-            for (let x = 0; x < pkgs.length; x++) {
-                let pkg = pkgs[x];
+            pkgs.forEach((pkg, x) => {
                 let items = [];
-                for (let i = 0; i < pkg.details.length; i++) {
-                    items.push(<li>{pkg.details[i]}</li>);
-                }
+                pkg.details.forEach((details, i) => {
+                    const key = `p.${x}.${i}`;
+                    items.push(<li key={key}>{details}</li>);
+                });
+                const key = `p.${x}`;
                 let image = `http://hyundaiusa.com/${pkg.image}`;
                 data.push(
-                    <div className="package">
+                    <div key={key} className="package">
                         <img src={image} />
                         <h3>{pkg.title}</h3>
                         <h4>{pkg.total}</h4>
@@ -44,7 +45,7 @@ export default class ModelPage extends React.Component {
                         </ul>
                     </div>
                 );
-            }
+            });
             html = <div className="container">{data}</div>;
         }
         return html;
@@ -53,12 +54,13 @@ export default class ModelPage extends React.Component {
     warranties(warrantyArr) {
         let html;
         if (warrantyArr) {
-            console.log(warrantyArr);
+            //console.log(warrantyArr);
             let data = [];
-            for (let x = 0; x < warrantyArr.length; x++) {
-                let image = `http://hyundaiusa.com/${warrantyArr[x]}`;
-                data.push(<div className="warranty"><img src={image} /></div>);
-            }
+            warrantyArr.forEach((item, i) => {
+                const key = `w.${i}`;
+                let image = `http://hyundaiusa.com/${item}`;
+                data.push(<div key={key} className="warranty"><img src={image} /></div>);
+            });
             html = <div className="container">{data}</div>;
         }
         return html;
@@ -72,32 +74,31 @@ export default class ModelPage extends React.Component {
 
         if (section.warranties) wtys = section.warranties;
         if (section.specifications) {
-            for (let s = 0; s < section.specifications.length; s++) {
-                let spec = section.specifications[s];
+            section.specifications.forEach((spec, s) => {
                 if (spec.packages) pkgs = spec.packages;
 
                 let trims = [];
-                for (let t = 0; t < spec.trims.length; t++) {
+                spec.trims.forEach((item, t) => {
                     let key = `${s}.${t}`;
-                    trims.push(<TableHeaderColumn key={key}>{spec.trims[t]}</TableHeaderColumn>);
-                }
+                    trims.push(<TableHeaderColumn key={key}>{item}</TableHeaderColumn>);
+                });
 
                 let rows = [];
-                for (let n = 0; n < spec.specs.length; n++) {
-                    let feature = spec.specs[n];
+                spec.specs.forEach((feature, n) => {
                     let key = `${s}.${n}.0.0`;
                     let cells = [];
 
-                    for (let r = 0; r < feature.trims.length; r++) {
+                    feature.trims.forEach((value, r) => {
                         let key = `${s}.${n}.${r}`;
-                        cells.push(<TableRowColumn title={spec.trims[r].name} key={key}>{feature.trims[r].value}</TableRowColumn>);
-                    }
+                        cells.push(<TableRowColumn title={spec.trims[r].name} key={key}><span onClick={this.props.onValueClick.bind(this, feature.trims[r].value)}>{feature.trims[r].value}</span></TableRowColumn>);
+                    });
+
                     key = `${s}.${n}`;
                     rows.push(<TableRow selectable={false} key={key}>
-                            <TableRowColumn title={feature.name}>{feature.name}</TableRowColumn>
-                            {cells}
-                        </TableRow>);
-                }
+                        <TableRowColumn title={feature.name}>{feature.name}</TableRowColumn>
+                        {cells}
+                    </TableRow>);
+                });
 
                 let table =
                     <Table key={s}>
@@ -113,7 +114,7 @@ export default class ModelPage extends React.Component {
                     </Table>;
 
                 info.push(table);
-            }
+            });
         }
         return (
             <div>

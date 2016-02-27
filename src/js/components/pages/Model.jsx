@@ -10,6 +10,8 @@ import Categories from '../elements/Categories.jsx';
 //import { selectYear } from '../../actions/vehicleActions';
 import { getModel, selectType, selectYear, updateName } from '../../actions/modelActions';
 import { getSpecifications } from '../../actions/specsActions';
+import Dialog from 'material-ui/lib/dialog';
+import FlatButton from 'material-ui/lib/flat-button';
 
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
@@ -72,7 +74,8 @@ export default class ModelPage extends React.Component {
             mode: mode,
             value: firstTab,
             specs: {},
-            filename: ''
+            filename: '',
+            open: false
         };
     }
 
@@ -109,14 +112,29 @@ export default class ModelPage extends React.Component {
         }
     }
 
-    valueChanged(obj) {
-        return (e) => {
-            console.log(obj);
-            console.log(e);
-        };
+    _handleClose = () => {
+        this.setState({open: false});
+    };
+
+    _handleClick(text, e) {
+        console.log(text);
+        this.setState({open: true});
     }
 
     render() {
+        const actions = [
+            <FlatButton
+                label="Cancel"
+                secondary={true}
+                onTouchTap={this._handleClose}
+            />,
+            <FlatButton
+                label="Submit"
+                primary={true}
+                disabled={true}
+                onTouchTap={this.handleClose}
+            />,
+        ];
         //console.log(this.props);
         //console.log(this.props.filename);
         const today = new Date();
@@ -164,13 +182,22 @@ export default class ModelPage extends React.Component {
                                 <div style={styles.inner}>
                                     <h2 style={styles.headline}>Specifications</h2>
                                     <FormContainer style={styles.wide} ref="formContainer2">
-                                        <Categories data={this.props.specs} filename={this.props.filename} />
+                                        <Categories onValueClick={this._handleClick} data={this.props.specs} filename={this.props.filename} />
                                     </FormContainer>
                                 </div>
                             </Tab>
                         </Tabs>
-                    </Paper>
+                    </Paper>                <Dialog
+                    title="Dialog With Actions"
+                    modal={false}
+                    open={this.state.open}
+                    actions={actions}
+                    onRequestClose={this.handleClose}
+                >
+                    The actions in this window were passed in as an array of React objects.
+                </Dialog>
                 </div>
+
             </div>
         );
     }

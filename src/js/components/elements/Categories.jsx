@@ -19,7 +19,7 @@ export default class ModelPage extends React.Component {
         let rows = [];
         if (sections) {
             for (let s = 0; s < sections.length; s++) {
-                rows.push(<Section key={s} section={sections[s]} />);
+                rows.push(<Section onValueClick={this.props.onValueClick} key={s} section={sections[s]} />);
             }
         }
 
