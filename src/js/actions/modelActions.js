@@ -32,3 +32,7 @@ export function updateName(name) {
 export function selectYear(year) {
     return {type: 'SELECT_YEAR', selectedYear: year};
 }
+
+export function updateValue(value) {
+    return {type: 'UPDATE_VALUE', editValue: value};
+}

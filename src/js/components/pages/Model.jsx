@@ -8,7 +8,7 @@ import DropDownMenu from 'material-ui/lib/DropDownMenu';
 import MenuItem from 'material-ui/lib/menus/menu-item';
 import Categories from '../elements/Categories.jsx';
 //import { selectYear } from '../../actions/vehicleActions';
-import { getModel, selectType, selectYear, updateName } from '../../actions/modelActions';
+import { getModel, selectType, selectYear, updateName, updateValue } from '../../actions/modelActions';
 import { getSpecifications } from '../../actions/specsActions';
 import Dialog from 'material-ui/lib/dialog';
 import FlatButton from 'material-ui/lib/flat-button';
@@ -57,10 +57,14 @@ const styles = {
     }
 };
 
+let _self;
+
 export default class ModelPage extends React.Component {
 
     constructor(props) {
         super(props);
+
+        _self = this;
 
         const mode = (props.params.id) ? 'edit' : 'add';
         const firstTab = (props.params.id) ? 'b' : 'a';
@@ -75,7 +79,9 @@ export default class ModelPage extends React.Component {
             value: firstTab,
             specs: {},
             filename: '',
-            open: false
+            open: false,
+            editValue: '',
+            editElem: null
         };
     }
 
@@ -90,6 +96,10 @@ export default class ModelPage extends React.Component {
     };
     handleInputChange(event) {
         this.props.updateName(event.target.value);
+    }
+    handleValueChange(event) {
+        //console.log(event);
+        this.props.updateValue(event.target.value);
     }
     handleTypeChange = (event, reactid, value) => {
         this.props.selectType(value);
@@ -117,8 +127,19 @@ export default class ModelPage extends React.Component {
     };
 
     _handleClick(text, e) {
-        console.log(text);
-        this.setState({open: true});
+        let val = $(e.currentTarget).text();
+        _self.props.updateValue(val);
+        _self.setState({
+            editElem: e.currentTarget,
+            open: true
+        });
+        //updateValue(val);
+    }
+
+    _saveValue() {
+        let val = _self.refs.specValue.getValue();
+        $(_self.state.editElem).text(val);
+        _self._handleClose();
     }
 
     render() {
@@ -129,11 +150,10 @@ export default class ModelPage extends React.Component {
                 onTouchTap={this._handleClose}
             />,
             <FlatButton
-                label="Submit"
+                label="Save"
                 primary={true}
-                disabled={true}
-                onTouchTap={this.handleClose}
-            />,
+                onTouchTap={this._saveValue}
+            />
         ];
         //console.log(this.props);
         //console.log(this.props.filename);
@@ -187,15 +207,20 @@ export default class ModelPage extends React.Component {
                                 </div>
                             </Tab>
                         </Tabs>
-                    </Paper>                <Dialog
-                    title="Dialog With Actions"
-                    modal={false}
-                    open={this.state.open}
-                    actions={actions}
-                    onRequestClose={this.handleClose}
-                >
-                    The actions in this window were passed in as an array of React objects.
-                </Dialog>
+                    </Paper>
+                    <Dialog
+                        title="Update Text"
+                        modal={true}
+                        open={this.state.open}
+                        actions={actions}
+                        onRequestClose={this._handleClose}
+                    >
+                        <TextField ref="specValue"
+                                   value={this.props.editValue}
+                                   onChange={this.handleValueChange.bind(this)}
+                                   style={styles.textbox}
+                                   floatingLabelText="Value" />
+                    </Dialog>
                 </div>
 
             </div>
@@ -207,7 +232,8 @@ const mapStateToProps = state => ({
     selectedType: state.model.selectedType,
     name: state.model.name,
     specs: state.specifications.specs,
-    filename: state.specifications.filename
+    filename: state.specifications.filename,
+    editValue: state.model.editValue
 });
 
 const mapDispatchToProps = dispatch => bindActionCreators({
@@ -215,6 +241,7 @@ const mapDispatchToProps = dispatch => bindActionCreators({
     getModel,
     selectType,
     updateName,
+    updateValue,
     getSpecifications
 }, dispatch);
 

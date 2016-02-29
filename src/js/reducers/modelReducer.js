@@ -4,7 +4,8 @@ const initialState = {
     model: {},
     selectedYear: today.getFullYear(),
     selectedType: 0,
-    name: ''
+    name: '',
+    editValue: ''
 };
 
 export default function(state = initialState, action) {
@@ -25,7 +26,12 @@ export default function(state = initialState, action) {
             return {
                 ...state,
                 name: action.name
-            }
+            };
+        case 'UPDATE_VALUE':
+            return {
+                ...state,
+                editValue: action.editValue
+            };
         case 'SELECT_TYPE':
             return {
                 ...state,

@@ -14,6 +14,7 @@ import Dashboard from './components/pages/Dashboard.jsx';
 import Vehicles from './components/pages/Vehicles.jsx';
 import Specifications from './components/pages/Specifications.jsx';
 import Model from './components/pages/Model.jsx';
+import Dialog from './components/pages/Dialog.jsx';
 
 //Needed for Material UI
 injectTapEventPlugin();
@@ -35,6 +36,7 @@ render((
                 <Route path="/model/add/:year" component={Model}/>
                 <Route path="/trim/edit/:id" component={Model}/>
                 <Route path="/trim/add/:id" component={Model}/>
+                <Route path="/dialog" component={Dialog} />
             </Route>
         </Router>
     </Provider>
