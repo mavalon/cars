@@ -163,8 +163,22 @@ module.exports = {
             //let json = JSON.parse(data);
             res.send(data);
         });
-    }
+    },
 
+    updateSpecs(req, res) {
+        const params = req.body;
+        let json = JSON.parse(params.json);
+        //console.log(json);
+
+
+        const file = path.normalize(`${cwd}/data/json/_UPDATE.json`);
+
+        jsonfile.writeFile(file, json, (err) => {
+            console.log('errr');
+            console.error(err);
+            //process.exit();
+        });
+    }
 };
 
 function importSpecs(model, isConsole) {

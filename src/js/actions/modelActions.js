@@ -52,6 +52,7 @@ export function saveJson(container) {
             for (let row = 0; row < $(body).size(); row++) {
                 let bro = $(body).eq(row);
                 let feature = {};
+                feature.name = '';
                 feature.trims = [];
 
                 console.log($(bro).find('td').size());
@@ -75,7 +76,20 @@ export function saveJson(container) {
     }
     sectionsObject.sections = sectionArray;
     console.log(sectionsObject);
-    return {type: 'UPDATE_VALUE', editValue: 'test'};
+    return (dispatch) => {
+        let json = JSON.stringify(sectionsObject);
+        let params = {
+            method: 'POST',
+            body: JSON.stringify({
+                json: json // JSON.stringify(sectionsObject)
+            })
+        };
+        return http(`/api/specs/update`, params).then((data) => {
+            dispatch({type: 'UPDATE_VALUE', editValue: 'test'});
+        });
+    };
+
+    //return {type: 'UPDATE_VALUE', editValue: 'test'};
 }
 
 export function loadModel(model) {

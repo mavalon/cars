@@ -24,5 +24,7 @@ module.exports = app => {
 
     app.get('/api/specs/:filename', vehicles.getSpecifications);
 
+    app.post('/api/specs/update', vehicles.updateSpecs);
+
     app.get('*', index);
 };
