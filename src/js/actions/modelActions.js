@@ -55,7 +55,6 @@ export function saveJson(container) {
                 feature.name = '';
                 feature.trims = [];
 
-                console.log($(bro).find('td').size());
                 for (let col = 0; col < $(bro).find('td').size(); col++) {
                     let column = $(bro).find('td').eq(col);
                     //console.log(column);
@@ -66,6 +65,25 @@ export function saveJson(container) {
                     }
                 }
                 features = [...features, feature];
+            }
+            if ($(section).find('.packages').size() > 0) {
+                spec.packages = [];
+                for (let p = 0; p < $(section).find('.package').size(); p++) {
+                    let pkg = $(section).find('.package').eq(p);
+                    let pack = {};
+                    pack.title = $(pkg).find('h3').text();
+                    pack.image = $(pkg).find('img').attr('src');
+                    pack.total = $(pkg).find('h4').text();
+
+                    let details = [];
+                    console.log($(pkg).find('ul li').size());
+                    for (let li = 0; li < $(pkg).find('ul li').size(); li++) {
+                        let item = $(pkg).find('ul li').eq(li).text();
+                        details = [...details, item];
+                    }
+                    pack.details = details;
+                    spec.packages = [...spec.packages, pack];
+                }
             }
             spec.specs = features;
             specificationsArray = [...specificationsArray, spec];
