@@ -17,6 +17,67 @@ export function getModel(modelId, cb) {
     };
 }
 
+export function saveJson(container) {
+    console.log(container);
+    let sectionsObject = {};
+    let sectionArray = [];
+    let divSections = $(container).find('.section');
+
+    for (let n = 0; n < $(divSections).size(); n++) {
+        let section = $(divSections).eq(n);
+        let obj = {
+            category: $(section).find('h3:eq(0)').text()
+        };
+
+        let specificationsArray = [];
+        let specs = $(section).find('.specsTables').children('div');
+
+        for (let s = 0; s < $(specs).size(); s++) {
+            let spec = {};
+            spec.trims = [];
+            spec.specs = [];
+
+            let cells = $(specs).eq(s).find('th');
+
+            for (let th = 0; th < cells.size(); th++) {
+                let thead = $(cells).eq(th);
+                if (th === 0) {
+                    spec.name = $(thead).text();
+                } else {
+                    spec.trims = [...spec.trims, $(thead).text()];
+                }
+            }
+            let body = $(specs).eq(s).find('.specRow');
+            let features = [];
+            for (let row = 0; row < $(body).size(); row++) {
+                let bro = $(body).eq(row);
+                let feature = {};
+                feature.trims = [];
+
+                console.log($(bro).find('td').size());
+                for (let col = 0; col < $(bro).find('td').size(); col++) {
+                    let column = $(bro).find('td').eq(col);
+                    //console.log(column);
+                    if (col === 0) {
+                        feature.name = $(column).text();
+                    } else {
+                        feature.trims = [...feature.trims, { name: spec.trims[col - 1], value: $(column).text()}];
+                    }
+                }
+                features = [...features, feature];
+            }
+            spec.specs = features;
+            specificationsArray = [...specificationsArray, spec];
+        }
+
+        obj.specifications = specificationsArray;
+        sectionArray = [...sectionArray, obj];
+    }
+    sectionsObject.sections = sectionArray;
+    console.log(sectionsObject);
+    return {type: 'UPDATE_VALUE', editValue: 'test'};
+}
+
 export function loadModel(model) {
     return {type: 'LOAD_MODEL', model: model};
 }

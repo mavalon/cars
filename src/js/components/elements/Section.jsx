@@ -46,7 +46,7 @@ export default class ModelPage extends React.Component {
                     </div>
                 );
             });
-            html = <div className="container">{data}</div>;
+            html = <div className="packages container">{data}</div>;
         }
         return html;
     }
@@ -59,9 +59,9 @@ export default class ModelPage extends React.Component {
             warrantyArr.forEach((item, i) => {
                 const key = `w.${i}`;
                 let image = `http://hyundaiusa.com/${item}`;
-                data.push(<div key={key} className="warranty"><img src={image} /></div>);
+                data.push(<div className="warranty" key={key}><img src={image} /></div>);
             });
-            html = <div className="container">{data}</div>;
+            html = <div className="warranties container">{data}</div>;
         }
         return html;
     }
@@ -80,7 +80,7 @@ export default class ModelPage extends React.Component {
                 let trims = [];
                 spec.trims.forEach((item, t) => {
                     let key = `${s}.${t}`;
-                    trims.push(<TableHeaderColumn key={key}>{item}</TableHeaderColumn>);
+                    trims.push(<TableHeaderColumn className="trims" key={key}>{item}</TableHeaderColumn>);
                 });
 
                 let rows = [];
@@ -94,21 +94,21 @@ export default class ModelPage extends React.Component {
                     });
 
                     key = `${s}.${n}`;
-                    rows.push(<TableRow selectable={false} key={key}>
+                    rows.push(<TableRow className="specRow" selectable={false} key={key}>
                         <TableRowColumn title={feature.name}>{feature.name}</TableRowColumn>
                         {cells}
                     </TableRow>);
                 });
 
                 let table =
-                    <Table key={s}>
-                        <TableHeader displaySelectAll={false} adjustForCheckbox={false}>
+                    <Table className="info" key={s}>
+                        <TableHeader className="headerRow" displaySelectAll={false} adjustForCheckbox={false}>
                             <TableRow>
-                                <TableHeaderColumn>{spec.name}</TableHeaderColumn>
+                                <TableHeaderColumn className="subsectionName">{spec.name}</TableHeaderColumn>
                                 {trims}
                             </TableRow>
                         </TableHeader>
-                        <TableBody displayRowCheckbox={false}>
+                        <TableBody className="specBody" displayRowCheckbox={false}>
                             {rows}
                         </TableBody>
                     </Table>;
@@ -117,9 +117,11 @@ export default class ModelPage extends React.Component {
             });
         }
         return (
-            <div>
+            <div className="section">
                 <h3>{section.category}</h3>
+                <div className="specsTables">
                 {info}
+                </div>
                 {this.packages(pkgs)}
                 {this.warranties(wtys)}
             </div>

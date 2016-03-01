@@ -1,4 +1,5 @@
 import React, {PropTypes} from 'react';
+var ReactDOM = require('react-dom');
 import Tabs from 'material-ui/lib/tabs/tabs';
 import Tab from 'material-ui/lib/tabs/tab';
 import Paper from 'material-ui/lib/paper';
@@ -8,7 +9,7 @@ import DropDownMenu from 'material-ui/lib/DropDownMenu';
 import MenuItem from 'material-ui/lib/menus/menu-item';
 import Categories from '../elements/Categories.jsx';
 //import { selectYear } from '../../actions/vehicleActions';
-import { getModel, selectType, selectYear, updateName, updateValue } from '../../actions/modelActions';
+import { getModel, selectType, selectYear, updateName, updateValue, saveJson } from '../../actions/modelActions';
 import { getSpecifications } from '../../actions/specsActions';
 import Dialog from 'material-ui/lib/dialog';
 import FlatButton from 'material-ui/lib/flat-button';
@@ -136,6 +137,10 @@ export default class ModelPage extends React.Component {
         //updateValue(val);
     }
 
+    _saveJson() {
+        _self.props.saveJson(ReactDOM.findDOMNode(_self.refs.categories));
+    }
+
     _saveValue() {
         let val = _self.refs.specValue.getValue();
         $(_self.state.editElem).text(val);
@@ -201,8 +206,13 @@ export default class ModelPage extends React.Component {
                             <Tab label="Specifications" value="b">
                                 <div style={styles.inner}>
                                     <h2 style={styles.headline}>Specifications</h2>
+                                    <FlatButton
+                                        label="Save"
+                                        primary={true}
+                                        onTouchTap={this._saveJson}
+                                    />
                                     <FormContainer style={styles.wide} ref="formContainer2">
-                                        <Categories onValueClick={this._handleClick} data={this.props.specs} filename={this.props.filename} />
+                                        <Categories ref="categories" onValueClick={this._handleClick} data={this.props.specs} filename={this.props.filename} />
                                     </FormContainer>
                                 </div>
                             </Tab>
@@ -242,7 +252,8 @@ const mapDispatchToProps = dispatch => bindActionCreators({
     selectType,
     updateName,
     updateValue,
-    getSpecifications
+    getSpecifications,
+    saveJson
 }, dispatch);
 
 
