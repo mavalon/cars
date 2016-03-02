@@ -146,12 +146,19 @@ module.exports = {
     cmdSpecs() {
         const args = process.argv;
         const urls = (args.slice(2));
+        let saveAsFileName;
+
+        if (urls.length === 2) {
+            saveAsFileName = urls[1];
+        }
+
+        console.log(urls);
 
         if (urls.length === 0) {
             console.log('specify a specifications model');
             process.exit();
         }
-        importSpecs(urls[0], true);
+        importSpecs(urls[0], true, saveAsFileName);
     },
 
     getSpecifications(req, res) {
@@ -181,7 +188,7 @@ module.exports = {
     }
 };
 
-function importSpecs(model, isConsole) {
+function importSpecs(model, isConsole, saveAsFileName) {
     const getLowestChild = (child) => {
         if (!child) return '';
         if (child.name === 'img') {
@@ -401,7 +408,8 @@ function importSpecs(model, isConsole) {
                 obj.sections.push(sectionObject);
             }
 
-            const file = path.normalize(`${cwd}/data/json/${model}.json`);
+            if (! saveAsFileName) saveAsFileName = model;
+            const file = path.normalize(`${cwd}/data/json/${saveAsFileName}.json`);
 
             jsonfile.writeFile(file, obj, (err) => {
                 console.log('errr');
