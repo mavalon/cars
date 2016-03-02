@@ -197,7 +197,7 @@ export default class ModelPage extends React.Component {
                                         <TextField ref="textbox"
                                                    style={styles.textbox}
                                                    value={this.props.name}
-                                                   onChange={this.handleInputChange.bind(this)}
+                                                   onChange={this.handleInputChange}
                                                    floatingLabelText="Model name" />
                                         <br/>
                                     </FormContainer>

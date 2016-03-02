@@ -94,6 +94,27 @@ export function saveJson(container) {
     }
     sectionsObject.sections = sectionArray;
     console.log(sectionsObject);
+
+    let i = 0;
+    let arr = [1, 2, 3, 4, 5];
+    for (let o of arr) {
+        i = i + o;
+    }
+    console.log(i);
+
+    i = 0;
+    arr.forEach((o, x) => {
+        i = i + o;
+        console.log(x);
+        console.log(o);
+    });
+    console.log(i);
+/*    arr.forEach((i, o) => {
+        i++;
+    }).then(() => {
+    });*/
+
+
     return (dispatch) => {
         let json = JSON.stringify(sectionsObject);
         let params = {
